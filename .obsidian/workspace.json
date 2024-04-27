@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "daacefa0817f9bb9",
+        "id": "05c4d563d60a2ddc",
         "type": "tabs",
         "children": [
           {
-            "id": "841cb0905f625990",
+            "id": "18506870a9b54fa9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,11 +154,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "841cb0905f625990",
+  "active": "18506870a9b54fa9",
   "lastOpenFiles": [
+    "github.com/RayyanNafees/diary.md",
+    "entries/Apr 27, 2024.md",
+    "github.com/RayyanNafees",
+    "github.com",
     "().md",
     "Track time hourly with daily reviews.md",
-    "entries/Apr 27, 2024.md",
     "articles/todo - Go SSR with React.md",
     "articles",
     "Untitled.canvas",
