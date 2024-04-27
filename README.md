@@ -1,3 +1,3 @@
 # My Diary
 
-Updated daily
+Updated daily !
