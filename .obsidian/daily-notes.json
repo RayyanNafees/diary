@@ -1,6 +1,6 @@
 {
   "format": "MMM D, YYYY",
   "folder": "daily",
-  "template": "daily/2024-04-27",
+  "template": "",
   "autorun": true
 }
