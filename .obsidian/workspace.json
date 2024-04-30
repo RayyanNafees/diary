@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Why Remix.md",
+                "file": "daily/Apr 30, 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Why Remix.md",
+                "file": "daily/Apr 30, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Why Remix.md",
+                "file": "daily/Apr 30, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/Why Remix.md"
+                "file": "daily/Apr 30, 2024.md"
               }
             }
           },
@@ -182,8 +182,8 @@
   },
   "active": "5c52c786750b7cbb",
   "lastOpenFiles": [
-    "daily/Apr 30, 2024.md",
     "misc/Why Remix.md",
+    "daily/Apr 30, 2024.md",
     "daily/Apr 27, 2024.md",
     "articles/todo - Go SSR with React.md",
     "misc",
