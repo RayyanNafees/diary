@@ -18,18 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "74e3b92da4e01d27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cli/AI chat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -181,10 +169,11 @@
   },
   "active": "18506870a9b54fa9",
   "lastOpenFiles": [
-    "daily/May 2, 2024.md",
-    "daily/Apr 30, 2024.md",
+    "Rayyan.md",
     "daily/Apr 27, 2024.md",
+    "daily/May 2, 2024.md",
     "cli/AI chat.md",
+    "daily/Apr 30, 2024.md",
     "Vercel back to Node.md",
     "articles/todo - Remix & the Modern MERN stack.md",
     "misc/Why Remix.md",
