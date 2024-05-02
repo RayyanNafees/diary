@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/May 2, 2024.md",
+                "file": "articles/WriteSonic.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/May 2, 2024.md"
+                "file": "articles/WriteSonic.md"
               }
             }
           },
@@ -154,6 +154,9 @@
   },
   "active": "18506870a9b54fa9",
   "lastOpenFiles": [
+    "articles/todo - Go SSR with React.md",
+    "articles/WriteSonic.md",
+    "daily/May 2, 2024.md",
     "daily/Apr 27, 2024.md",
     "misc/Diary site Themes.md",
     "misc/Why Remix.md",
@@ -164,12 +167,10 @@
     "media/Pasted image 20240502074521.png",
     "media/Pasted image 20240502074251.png",
     "media",
-    "daily/May 2, 2024.md",
     "daily/Apr 30, 2024.md",
     "daily/Untitled.md",
     "Vercel back to Node.md",
     "articles/todo - Remix & the Modern MERN stack.md",
-    "articles/todo - Go SSR with React.md",
     "github.com/RayyanNafees/diary.md",
     "github.com/RayyanNafees",
     "github.com",
