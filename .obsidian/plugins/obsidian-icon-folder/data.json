@@ -2,15 +2,15 @@
   "settings": {
     "migrated": 4,
     "iconPacksPath": ".obsidian/icons",
-    "fontSize": 15,
+    "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "BoBxCalendar",
-      "BoBxPencil",
-      "✏",
-      "🥲",
-      "📄"
+      "LiNotebook",
+      "SiRemix",
+      "BoBxEditAlt",
+      "LiCalendar",
+      "BoBxNotepad"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -31,6 +31,11 @@
     "iconIdentifier": ":",
     "debugMode": false
   },
-  "articles": "BoBxPencil",
-  "daily": "BoBxCalendar"
+  "articles": "BoBxEditAlt",
+  "daily": "LiCalendar",
+  "cli": "BoBxTerminal",
+  "media": "LiImageUp",
+  "misc": "LiSparkles",
+  "template files": "LiBraces",
+  "README.md": "LiInfo"
 }
