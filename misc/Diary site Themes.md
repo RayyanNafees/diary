@@ -71,3 +71,10 @@ Keys:
 ### Yi
 - Quite boring look for non-devs... only reader friendly
 - (Might add look with images or so)
+### Zi
+- Date UI not so date-focused rather title focused
+
+### Vitesse 
+- Too professional and lifeless look
+- No images 
+- Less tabs and UX interactions ctions
