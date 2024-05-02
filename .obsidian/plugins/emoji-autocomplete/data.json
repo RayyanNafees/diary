@@ -3,7 +3,12 @@
   "suggester": true,
   "considerHistory": true,
   "historyLimit": 25,
-  "history": [],
+  "history": [
+    "cross_mark",
+    "white_check_mark",
+    "ballot_box_with_check",
+    "heavy_check_mark"
+  ],
   "highlightMatches": true,
   "strictTrigger": true,
   "triggerFromFirst": true,

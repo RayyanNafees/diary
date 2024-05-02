@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/May 2, 2024.md",
+                "file": "misc/Diary site Themes.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,35 +92,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1456157bf1ac9e1c",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "daily/Apr 27, 2024.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "78011f28ebc6c0a0",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "daily/Apr 27, 2024.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "3454f50550fc67cc",
             "type": "leaf",
             "state": {
@@ -130,24 +100,6 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
-            }
-          },
-          {
-            "id": "03a9ba225a59d1fe",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "daily/Apr 27, 2024.md"
-              }
-            }
-          },
-          {
-            "id": "cb4b45c8f97bb97e",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
             }
           },
           {
@@ -161,6 +113,24 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "03a9ba225a59d1fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "misc/Diary site Themes.md"
+              }
+            }
+          },
+          {
+            "id": "873a74090af3b429",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
@@ -173,24 +143,27 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "ribbon-divider:ribbon-divider-df5069dd-b0fb-4170-be28-01b8b246ab68": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "ribbon-divider:ribbon-divider-df5069dd-b0fb-4170-be28-01b8b246ab68": false,
       "ribbon-divider:ribbon-divider-86ec57d0-42dc-4e8a-900c-d4430e558348": false,
+      "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3e31f9fe3f64c671",
+  "active": "18506870a9b54fa9",
   "lastOpenFiles": [
-    "daily/Untitled.md",
-    "daily/Apr 27, 2024.md",
-    "misc/Diary site Themes.md",
+    "Pasted image 20240502074521.png",
+    "Pasted image 20240502074314.png",
+    "Pasted image 20240502074251.png",
     "daily/May 2, 2024.md",
+    "daily/Apr 27, 2024.md",
+    "daily/Apr 30, 2024.md",
+    "daily/Untitled.md",
+    "misc/Diary site Themes.md",
     "Rayyan.md",
     "cli/AI chat.md",
-    "daily/Apr 30, 2024.md",
     "Vercel back to Node.md",
     "articles/todo - Remix & the Modern MERN stack.md",
     "misc/Why Remix.md",

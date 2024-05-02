@@ -2,10 +2,13 @@
   "settings": {
     "migrated": 4,
     "iconPacksPath": ".obsidian/icons",
-    "fontSize": 16,
+    "fontSize": 15,
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxPencil",
+      "✏",
+      "🥲",
       "📄"
     ],
     "recentlyUsedIconsSize": 5,
@@ -26,5 +29,6 @@
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "debugMode": false
-  }
+  },
+  "articles": "BoBxPencil"
 }
