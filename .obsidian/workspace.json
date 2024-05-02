@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Diary site Themes.md",
+                "file": "daily/Apr 27, 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Diary site Themes.md",
+                "file": "daily/Apr 27, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Diary site Themes.md",
+                "file": "daily/Apr 27, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/Diary site Themes.md"
+                "file": "daily/Apr 27, 2024.md"
               }
             }
           },
@@ -177,14 +177,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "ribbon-divider:ribbon-divider-df5069dd-b0fb-4170-be28-01b8b246ab68": false,
+      "ribbon-divider:ribbon-divider-86ec57d0-42dc-4e8a-900c-d4430e558348": false,
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4b03902b9bd1d24e",
+  "active": "3e31f9fe3f64c671",
   "lastOpenFiles": [
-    "daily/May 2, 2024.md",
-    "misc/Diary site Themes.md",
+    "daily/Untitled.md",
     "daily/Apr 27, 2024.md",
+    "misc/Diary site Themes.md",
+    "daily/May 2, 2024.md",
     "Rayyan.md",
     "cli/AI chat.md",
     "daily/Apr 30, 2024.md",
