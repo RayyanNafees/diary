@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles/WriteSonic.md",
+                "file": "daily/Apr 30, 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "articles/WriteSonic.md"
+                "file": "daily/Apr 30, 2024.md"
               }
             }
           },
@@ -130,6 +130,35 @@
             "state": {
               "type": "calendar",
               "state": {}
+            }
+          },
+          {
+            "id": "038627397d77982c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "daily/Apr 30, 2024.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "508f970b196981b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "daily/Apr 30, 2024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ],
@@ -154,9 +183,9 @@
   },
   "active": "18506870a9b54fa9",
   "lastOpenFiles": [
-    "articles/todo - Go SSR with React.md",
-    "articles/WriteSonic.md",
     "daily/May 2, 2024.md",
+    "articles/WriteSonic.md",
+    "articles/todo - Go SSR with React.md",
     "daily/Apr 27, 2024.md",
     "misc/Diary site Themes.md",
     "misc/Why Remix.md",
