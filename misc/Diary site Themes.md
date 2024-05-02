@@ -10,4 +10,4 @@ The choice will be made based on the following criteria
 ## Considered Themes
 
 ### 1. [Zozo](https://astro-blog-zozo.pages.dev/about)
-- :check:
+- 💀hello 💀 wow
