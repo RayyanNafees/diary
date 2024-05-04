@@ -21,4 +21,12 @@ Things to do in 1st week after the exam to get started with the club as fast as 
 	3. Add initial contributors for that particular projects 
 	4. Create Github Projects having milestones and priorities & timelines assigned to different people throughout the project for each repo  
 5. Contact the seniors to get in touch with the right professors, get connections as much as you want
-6. Official Obsidian workspace for every member 
+6. Official Obsidian workspace for every member for collaboration (or look for another tool that makes collaboration on a specific project easy) 
+	1. Making others see what direction every member thinks the project should go in.
+	2. Else make them sync using git 
+	3. And have an astro or Hugo site to reflect 
+	4. Add RSS or webhooks to notify other members regarding a new updates
+7. Learn How to divide the currency (stonks) on a task based on its worth and time or work it requires
+	1. Learn how to Launch and manage a crypto currency 
+	2. U'll need to set up a corporate company to pay the prices in stonks if u link it to real currency (which would cost real money and donations wont be enough)
+8. 
