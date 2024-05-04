@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "b0cf88a424e103f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z- EliteClub/Club Todos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4b03902b9bd1d24e",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/May 4, 2024.md"
+                "file": "z- EliteClub/Club Todos.md"
               }
             }
           },
@@ -138,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/May 4, 2024.md",
+                "file": "z- EliteClub/Club Todos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/May 4, 2024.md",
+                "file": "z- EliteClub/Club Todos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,10 +194,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "18506870a9b54fa9",
+  "active": "b0cf88a424e103f7",
   "lastOpenFiles": [
-    "daily/Apr 30, 2024.md",
     "daily/May 4, 2024.md",
+    "z- EliteClub/Club Todos.md",
+    "z- EliteClub",
+    "daily/Apr 30, 2024.md",
     "daily/May 2, 2024.md",
     "misc/Diary site Themes.md",
     "daily/Apr 27, 2024.md",
