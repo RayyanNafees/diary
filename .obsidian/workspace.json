@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/Apr 30, 2024.md",
+                "file": "daily/May 4, 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/Apr 30, 2024.md"
+                "file": "daily/May 4, 2024.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/Apr 30, 2024.md",
+                "file": "daily/May 4, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/Apr 30, 2024.md",
+                "file": "daily/May 4, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,10 +183,11 @@
   },
   "active": "18506870a9b54fa9",
   "lastOpenFiles": [
+    "daily/Apr 30, 2024.md",
+    "daily/May 4, 2024.md",
     "daily/May 2, 2024.md",
     "misc/Diary site Themes.md",
     "daily/Apr 27, 2024.md",
-    "daily/Apr 30, 2024.md",
     "articles/WriteSonic.md",
     "articles/todo - Go SSR with React.md",
     "misc/Why Remix.md",
