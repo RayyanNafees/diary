@@ -14,7 +14,10 @@ Things to do in 1st week after the exam to get started with the club as fast as 
 	2. Also tell who the group is for in the group description and they can change their roles provided they stand up tot he expectations of responsibilities of that specific role 
 	3. Add all the members interested in their specific groups 
 	4. Have some for notifications, queries etc
-3. Ask Talha & Ashar if they are willing to participate in the club, infact ask everyone for their participation and roles 
+3. Ask Talha & Ashar if they are willing to participate in the club 
+	1. infact ask everyone for their participation and roles 
+	2. Take a quiz of everyone teaching a particular subject and let others judge it
+	3. rearrange if needed to switch roles to those better suited and more passionate
 4. Create a github organisation
 	1. Create repositories of all the software and hardware projects undertaking
 	2. Add their tech-stack, features & specs in their README.md together with the places of test & research for making the project success
@@ -29,4 +32,10 @@ Things to do in 1st week after the exam to get started with the club as fast as 
 7. Learn How to divide the currency (stonks) on a task based on its worth and time or work it requires
 	1. Learn how to Launch and manage a crypto currency 
 	2. U'll need to set up a corporate company to pay the prices in stonks if u link it to real currency (which would cost real money and donations wont be enough)
-8. 
+8. Buy a mic, Camera Stand & Green Curtain for shooting videos to be editted 
+	1. Write the scripts of each act 
+	2. Select the actors available
+	3. Full English with Awesome Animations and video professionalism
+	4. Ask Zuahir to edit stuff
+9. Create all the Videos for 1st week based on the [[Subject Timelines]] for the whole week
+10. 
