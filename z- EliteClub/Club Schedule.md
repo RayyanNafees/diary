@@ -31,4 +31,4 @@ Pretty vague on what to do in it but... will see
 
 # Daily Project Sessions
 2+ hr of daily project sessions 
-This is where the team members contribute to the [Planned Projects](/Projects)
+This is where the team members contribute to the [[/Projects|Planned Projects]]  
