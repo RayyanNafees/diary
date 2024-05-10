@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/May 8, 2024.md",
+                "file": "daily/May 10, 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/May 8, 2024.md"
+                "file": "daily/May 10, 2024.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/May 8, 2024.md",
+                "file": "daily/May 10, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/May 8, 2024.md",
+                "file": "daily/May 10, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,8 +172,9 @@
   },
   "active": "ff5cff4b5e8425e5",
   "lastOpenFiles": [
-    "daily/May 7, 2024.md",
     "daily/May 8, 2024.md",
+    "daily/May 10, 2024.md",
+    "daily/May 7, 2024.md",
     "z- EliteClub/Club Schedule.md",
     "z- EliteClub/Club Todos.md",
     "z- EliteClub/Projects/Subject Timelines.md",
@@ -210,7 +211,6 @@
     "articles",
     "daily/2024-04-27.md",
     "template files",
-    "cli",
-    "restic.md"
+    "cli"
   ]
 }
