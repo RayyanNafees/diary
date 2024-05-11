@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/May 11, 2024.md",
+                "file": "z- EliteClub/Interview Prep.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/May 11, 2024.md"
+                "file": "z- EliteClub/Interview Prep.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/May 11, 2024.md",
+                "file": "z- EliteClub/Interview Prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/May 11, 2024.md",
+                "file": "z- EliteClub/Interview Prep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,8 +172,9 @@
   },
   "active": "ff5cff4b5e8425e5",
   "lastOpenFiles": [
-    "daily/May 10, 2024.md",
     "daily/May 11, 2024.md",
+    "z- EliteClub/Interview Prep.md",
+    "daily/May 10, 2024.md",
     "daily/May 8, 2024.md",
     "daily/May 7, 2024.md",
     "z- EliteClub/Club Schedule.md",
@@ -208,7 +209,6 @@
     "github.com/RayyanNafees",
     "github.com",
     "().md",
-    "Track time hourly with daily reviews.md",
     "articles",
     "template files",
     "cli"
