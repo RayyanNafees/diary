@@ -130,9 +130,9 @@
 	- [ ] modulus of rigidity
 
 - [ ] Pressure due to a fluid column
+	- [ ] Pascal’s law and its applications (hydraulic lift and hydraulic brakes) 
+	- [ ] Effect of gravity on fluid pressure 
 
-- [ ] Pascal’s law and its applications (hydraulic lift and hydraulic brakes) 
-- [ ] Effect of gravity on fluid pressure 
 - [ ] Viscosity 
 	- [ ] Stokes’ law 
 	- [ ] terminal velocity 
@@ -144,143 +144,383 @@
 	- [ ] application of surface tension ideas to drops 
 	- [ ] bubbles
 	- [ ] capillary rise 
-- [ ] Heat, temperature, thermal expansion
-
-change of state-latent heat. Heat transferconduction, convection and radiation, thermal conductivity.
+- [ ] Heat & temperature 
+	- [ ] thermal expansion
+	- [ ] change of state-latent heat 
+	- [ ] Heat transfer (conduction) 
+	- [ ] convection and radiation 
+	- [ ] thermal conductivity.
 
 ## Thermodynamics
 
-Thermal equilibrium and definition of temperature (zeroth law of thermodynamics). Heat, work and internal energy. First law of thermodynamics. Isothermal & adiabatic process. Second law of thermodynamics: reversible and irreversible processes. Heat engines and refrigerators.
+- [ ] Thermal equilibrium and definition of temperature (zeroth law of thermodynamics) 
+- [ ] Heat, work and internal energy 
+- [ ] First law of thermodynamics 
+	- [ ] Isothermal process 
+	- [ ] adiabatic process 
+- [ ] Second law of thermodynamics 
+	- [ ] reversible and irreversible processes 
+	- [ ] Heat engines and refrigerators.
 
 ## Behaviour of Perfect Gas and Kinetic Theory
 
-Equation of state of perfect gas, work done on compressing a gas. Kinetic theory of gases-assumptions, concept of pressure. Kinetic Interpretation of temperature
-
-rms speed of gas molecules
-
-degrees of freedom, law of equipartition of energy (statement only) and application to specific heats of gases
-
-concept of mean free path, Avogadro’s number.
+- [ ] Equation of state of perfect gas 
+	- [ ] work done on compressing a gas 
+	- [ ] Kinetic theory of gases-assumptions 
+	- [ ] concept of pressure 
+- [ ] Kinetic Interpretation of temperature
+	- [ ] rms speed of gas molecules
+- [ ] degrees of freedom 
+	- [ ] law of equipartition of energy (statement only) 
+	- [ ] application to specific heats of gases
+- [ ] concept of mean free path 
+	- [ ] Avogadro’s number.
 
 ## Oscillations and Waves
 
-Periodic motion-period, frequency, displacement as a function of time. Periodic functions. Simple harmonic motion (S.H.M) and its equation
-
-oscillations of a springrestoring force and force constant
-
-energy in S.H.M.-kinetic and potential energies
-
-simple pendulum-derivation of expression for its time period
-
-free, forced and damped oscillations (qualitative ideas only), resonance. Wave motion. Longitudinal and transverse waves, speed of wave motion. Displacement relation for a progressive wave. Principle of superposition of waves, reflection of waves, standing waves in strings and organ pipes, fundamental mode and harmonics, Beats, Doppler effect.
+- [ ] Periodic motion-period
+	- [ ] frequency
+	- [ ] displacement as a function of time 
+	- [ ] Periodic function.
+- [ ] Simple harmonic motion (S.H.M) and its equation
+	- [ ] oscillations of a spring 
+	- [ ] restoring force and force constant
+	- [ ] energy in S.H.M.-kinetic and potential energies
+	- [ ] simple pendulum-derivation of expression for its time period
+	- [ ] free, forced and damped oscillations (qualitative ideas only) 
+		- [ ] resonance
+- [ ] Wave motion 
+	- [ ] Longitudinal and transverse waves 
+	- [ ] speed of wave motion 
+	- [ ] Displacement relation for a progressive wave 
+	- [ ] Principle of superposition of waves 
+		- [ ] reflection of waves 
+		- [ ] standing waves in strings and organ pipes 
+		- [ ] fundamental mode and harmonics 
+		- [ ] Beats 
+		- [ ] Doppler effect.
 
 ## Electrostatics
 
-Electric charges, Conservation of charge, Coulomb’s low-force between two point charges forces between multiple charges, superposition principle and continuous charge distribution. Electric field, electric field due to a point charge, electric field lines
+- [ ] Electric charges 
+	- [ ] Conservation of charge 
+	- [ ] Coulomb’s low-force between 
+		- [ ] two point charges forces
+		- [ ] between multiple charges 
+	- [ ] superposition principle and continuous charge distribution 
+	- [ ] Electric field 
+		- [ ] electric field due to a point charge 
+		- [ ] electric field lines
 
-electric dipole electric field due to a dipole torque on a dipole in uniform electric field. Electric flux, statement of gauss’s theorem and its applications to find field due to infinitely long straight wire uniformly charges infinite plane sheet and uniformly charged thin spherical shell (field inside and outside). Electric potential, potential difference, electric potential due to a point charge, a dipole and system of charge
+- [ ] electric dipole
+	- [ ] electric field due to a dipole
+	- [ ] torque on a dipole in uniform electric field 
+- [ ] Electric flux 
+	- [ ] statement of gauss’s theorem
+	- [ ] and its applications to find field due to 
+		- [ ] infinitely long straight wire
+		- [ ] uniformly charged infinite plane sheet
+		- [ ] and uniformly charged thin spherical shell (field inside and outside) 
+- [ ] Electric potential 
+	- [ ] potential difference 
+	- [ ] electric potential due
+		- [ ] to a point charge 
+		- [ ] a dipole
+		- [ ] system of charge
+	- [ ] equipotential surfaces 
+	- [ ] electrical potential energy of a system of two point charges and of electric dipole in an electrostatic field 
 
-equipotential surfaces, electrical potential energy of a system of two point charges and of electric dipole in an electrostatic field. Conductors and insulators, free charges and bound charges inside a conductor. Dielectrics and electric polarization, capacitors and capacitance, combination of capacitors in series and in parallel, capacitance of a parallel plate capacitor with and without dielectric medium between the plates, energy stored in a capacitor.
+- [ ] Conductors and insulators 
+	- [ ] free charges and bound charges inside a conductor 
+	- [ ] Dielectrics and electric polarization 
+		- [ ] capacitors and capacitance 
+		- [ ] combination of capacitors in series and in parallel 
+		- [ ] capacitance of a parallel plate capacitor with and without dielectric medium between the plates 
+		- [ ] energy stored in a capacitor.
 
 ## Current Electricity
 
-Electric current flow of electric chargers in a metallic conductor drift velocity, mobility and their relation with electric current
+- [ ] Electric current flow of electric chargers in a metallic conductor 
+	- [ ] drift velocity 
+	- [ ] mobility 
+	- [ ] their relation with electric current
 
-Ohm’s Law electrical resistance, V-I characteristics (linear and non-linear), electrical energy and power, electrical resistivity and conductivity. Carbon resistors colour code for carbon resistors
+- [ ] Ohm’s Law 
+	- [ ] electrical resistance 
+	- [ ] V-I characteristics (linear and non-linear) 
+	- [ ] electrical energy and power 
 
-series and parallel combinations of resistors
-
-temperature dependence of resistance. Internal resistance of a cell, potential difference and emf of a cell combination of cells in series and in parallel. Kirchhoff’s laws and simple applications. Wheatstone bridge and metre bridge. Potentiometer – principle and its applications to measure potential difference and for comparing emf of two cells
-
-measurement of internal resistance of a cell.
+- [ ] Electrical resistivity 
+	- [ ] conductivity 
+	- [ ] Carbon resistors color code for carbon resistors 
+	- [ ] series and parallel combinations of resistors
+	- [ ] temperature dependence of resistance 
+- [ ] Internal resistance of a cell 
+	- [ ] potential difference and emf of a cell 
+	- [ ] combination of cells in series and in parallel 
+	- [ ] Kirchhoff’s laws and simple applications 
+	- [ ] Wheatstone bridge 
+		- [ ] metre bridge 
+		- [ ] Potentiometer –
+			- [ ] principle and its applications to measure potential difference 
+			- [ ] comparing emf of two cells 
+	- [ ] measurement of internal resistance of a cell.
 
 ## Magnetic Effects of Current and Magnetism
 
-Concept of magnetic field, Oersted’s experiment. Biot-Savart law and its application to current carrying circular loop. Ampere’s law and its applications to infinitely long straight wire, straight and toroidal solenoids. Force on a moving charge in uniform magnetic and electric fields. Cyclotron. Force on a current – carrying conductor in a uniform magnetic field. Force between two parallel current – carrying conductors – definition of ampere. Torque experienced by a current loop in uniform magnetic field
+- [ ] Concept of magnetic field 
+	- [ ] Oersted’s experiment 
+	- [ ] Biot-Savart law and its application to current carrying circular loop 
+	- [ ] Ampere’s law and its applications to infinitely long straight wire 
+	- [ ] straight and toroidal solenoids 
+- [ ] Force on a moving charge in uniform magnetic and electric fields 
+	- [ ] Cyclotron 
+	- [ ] Force on a current – carrying conductor in a uniform magnetic field 
+	- [ ] Force between two parallel current – carrying conductors –
 
-moving coil galvanometer – its current sensitivity and conversion to ammeter and voltmeter. Current loop as a magnetic dipole and its magnetic dipole moment. Magnetic dipole, moment of a revolving electron, magnetic field intensity due to a magnetic dipole (bar magnet) along its axis and perpendicular to its axis. Torque on magnetic dipole (bar magnet) in a uniform magnetic field
+- [ ] definition of ampere
 
-bar magnet as an equivalent solenoid magnetic field line
+- [ ] Torque experienced by a current loop in uniform magnetic field
+	- [ ] moving coil galvanometer –
+		- [ ] its current sensitivity 
+		- [ ] conversion to ammeter and voltmeter 
 
-Earth’s magnetic field and magnetic elements para – dia – and ferro – magnetic substances, with examples. Electromagnets and factors of affecting their strengths. Permanent magnets.
+- [ ] Current loop as a magnetic dipole and its magnetic dipole moment 
+	- [ ] Magnetic dipole 
+	- [ ] moment of a revolving electron 
+	- [ ] magnetic field intensity due to a magnetic dipole (bar magnet) 
+		- [ ] along its axis 
+		- [ ] and perpendicular to its axis 
+	- [ ] Torque on magnetic dipole (bar magnet) in a uniform magnetic field
 
-## Electromagnetic Induction and Alternating Currents
+- [ ] bar magnet as an equivalent solenoid magnetic field line
 
-Electromagnetic Induction
+- [ ] Earth’s magnetic field 
+	- [ ] magnetic elements para – dia – and ferro – magnetic substances, with examples.
+	- [ ] Electromagnets and factors of affecting their strengths 
+	- [ ] Permanent magnets.
 
-Faraday’s law. Induced emf and current
+## Electromagnetic Induction 
 
-Lenz’s law, Eddy current self and mutual induction. Alternating currents, peak and rms value of alternating
+- [ ] Electromagnetic Induction
 
-current/voltage, reactance and impedance
+- [ ] Faraday’s law 
+	- [ ] Induced emf and current
 
-LC oscillations (qualitative treatment only), LCR series circuit, resonance
+- [ ] Lenz’s law 
+	- [ ] Eddy current
+	- [ ] self and mutual induction 
+## Alternating Currents
+- [ ] peak and rms value of alternating current/voltage 
+- [ ] reactance 
+- [ ] impedance
+- [ ] LC oscillations (qualitative treatment only) 
+	- [ ] LCR series circuit 
+	- [ ] resonance
 
-power in ac circuits wattles current. AC generator and transformer.
+- [ ] power in ac circuits 
+	- [ ] wattles current 
+	- [ ] AC generator 
+	- [ ] transformer.
 
 ## Electromagnetic Waves
 
-Displacement current, Electromagnetic wave and their characteristics (qualitative ideas only) Transverse nature of electromagnetic waves. Electromagnetic spectrum (radio waves, microwaves, infrared, visible, ultraviolet, xrays, gamma rays) including elementary facts about their uses.
+- [ ] Displacement current 
+- [ ] Electromagnetic wave and their characteristics (qualitative ideas only)
+- [ ] Transverse nature of electromagnetic waves 
+- [ ] Electromagnetic spectrum  (including elementary facts about their uses.)
+	- [ ] radio waves 
+	- [ ] microwaves 
+	- [ ] infrared 
+	- [ ] visible 
+	- [ ] ultraviolet 
+	- [ ] xrays 
+	- [ ] gamma rays 
+
 
 ## Optics
 
-Reflection of light spherical mirrors, mirror formula refraction of light, total internal reflection and its applications, optical fibres refraction at spherical surfaces, lenses thin lens formula lens maker’s Formula. Magnification power of a lens, combination of thin lenses in contract. Refraction and dispersion of light through a prism. Scattering of light – blue colour of the sky and reddish appearance of the sun at sunrise and sunset. Optical instruments: Microscopes and astronomical Telescopes (reflecting and refraction) and their magnifying powers. Waves optics: Wave front and Huygens principle reflection and refraction of plane wave at a plane surface using wave fronts. Proof of laws of reflection and refraction using Huygen’s principle. Interference, Young’s double slit experiment and expression for fringe width coherent sources and sustained interference of light. Diffraction due to a single slit, width of central maximum. Resolving power of microscopes and astronomical telescopes Polarization, plane polarized light
+- [ ] Reflection of light 
+	- [ ] spherical mirrors 
+	- [ ] mirror formula
+	- [ ] refraction of light 
+	- [ ] total internal reflection and its applications 
+	- [ ] optical fibres 
 
-Brewster’s law. Uses of plane polarized light and polaroids.
+- [ ] refraction at spherical surfaces 
+	- [ ] thin lenses
+	- [ ] lens formula
+	- [ ] lens maker’s Formula 
+	- [ ] Magnification power of a lens 
+	- [ ] combination of thin lenses in contract 
+	- [ ] Refraction and dispersion of light through a prism 
+	- [ ] Scattering of light –
+		- [ ] blue colour of the sky 
+		- [ ] reddish appearance of the sun at sunrise and sunset 
+		
+- [ ] Optical instruments 
+	- [ ] Microscopes 
+	- [ ] astronomical Telescopes (reflecting and refraction)
+	- [ ] their magnifying powers 
+
+- [ ] Waves optics 
+	- [ ] Wave front  
+		- [ ] Huygens principle reflection and refraction of plane wave at a plane surface using wave fronts 
+		- [ ] Proof of laws of reflection and refraction using Huygen’s principle 
+	- [ ] Interference 
+		- [ ] Young’s double slit experiment 
+			- [ ] expression for fringe width coherent sources 
+			- [ ] sustained interference of light
+		- [ ] Diffraction due to a single slit 
+			- [ ] slit- width of central maximum 
+	- [ ] Resolving power of microscopes and astronomical telescopes  
+	- [ ] Polarization 
+		- [ ] plane polarized light
+		- [ ] Brewster’s law 
+		- [ ] Uses of plane polarized light
+		- [ ] polaroids.
 
 ## Dual Nature of Matter and Radiation
 
-Dual nature of Radiation Photoelectric, Hertz and Lenard’s observations
+- [ ] Dual nature of Radiation
+	- [ ] Photoelectric 
+	- [ ] Hertz and Lenard’s observations
 
-Einstein’s Photoelectric equation – particle nature of light. Matter waves-wave nature of particles, de Broglie relation. Davission – Germer experiment.
+- [ ] Einstein’s Photoelectric equation – 
+	- [ ] particle nature of light 
+	- [ ] Matter waves 
+		- [ ] wave nature of particles 
+		- [ ] de Broglie relation 
+- [ ] Davission – Germer experiment.
 
 ## Atoms & Nuclei
 
-Alpha-particle scattering experiment, Rutherford’s model of atom
+- [ ] Alpha-particle scattering experiment 
+- [ ] Rutherford’s model of atom
+- [ ] Bohr model 
+	- [ ] energy levels hydrogen spectrum 
+- [ ] Composition and size of nucleus 
+- [ ] Radioactivity (particles/rays and their properties) –
+	- [ ] alpha 
+	- [ ] beta 
+	- [ ] gamma 
+	- [ ] radioactive decay law
+- [ ] Mass-energy relation 
+	- [ ] mass defect
+	- [ ] binding energy per nucleon 
+	- [ ] and its variation with mass number
+	- [ ] nuclear fission 
+	- [ ] nuclear fusion.
 
-Bohr model, energy levels hydrogen spectrum. Composition and size of nucleus, Radioactivity – alpha, beta and gamma particles/rays and their properties
+## Semiconductors
 
-radioactive decay law Mass-energy relation, mass defect
-
-binding energy per nucleon and its variation with mass number
-
-nuclear fission, nuclear fusion.
-
-## Electronic Devices
-
-Semiconductors
-
-semiconductor diode – I – V. characteristics in forward and reverse bias, diode as a rectifier
-
-I – V characteristics of LED, photodiode, solar cell and Zener diode: Zener diode as a voltage regulator.
+- [ ] semiconductor diode –
+	- [ ] I – V. characteristics in forward and reverse bias 
+	- [ ] diode as a rectifier
+- [ ] I – V characteristics of LED 
+- [ ] photodiode 
+- [ ] solar cell 
+- [ ] Zener diode 
+	- [ ] Zener diode as a voltage regulator.
 
 # Chemistry
+## Class 11th
+### Some Basic Concepts of Chemistry
 
-## Some Basic Concepts of Chemistry
+- [ ] General Introduction  
+	- [ ] Importance and scope of chemistry 
+	- [ ] Historical approach to particulate nature of matter 
+	- [ ] laws of chemical combination 
+- [ ] Dalton’s atomic theory 
+	- [ ] concept of elements 
+	- [ ] atoms and molecules 
+	- [ ] Atomic and molecular masses 
+	- [ ] Mole concept and molar mass
 
-General Introduction : Importance and scope of chemistry. Historical approach to particulate nature of matter, laws of chemical combination, Dalton’s atomic theory : concept of elements, atoms and molecules. Atomic and molecular masses. Mole concept and molar mass
-
-percentage composition and empirical and molecular formula
-
-chemical reactions, stoichiometry and calculations based on stoichiometry.
+- [ ] percentage composition and empirical and molecular formula
+- [ ] chemical reactions, stoichiometry and calculations based on stoichiometry.
 
 ## Structure of Atom
 
-Discovery of electron, proton and neutron
+- [ ] Discovery of electron, proton and neutron
 
-atomic number, isotopes and isobars. Thompson’s model and its limitations, Rutherford’s model and its limitations, Bohr’s model and its limitations, concept of shells and subshells, dual nature of matter and light, de Broglie’s relationship, Heisenberg uncertainty principle, concept of orbitals, quantum numbers, shapes of s, p and d orbitals, rules for filling electrons in orbitals Aufbau principle, Pauli exclusion principle and Hund’s rule, electronic configuration of atoms, stability of half filled and completely filled orbitals.
+- [ ] atomic number, isotopes and isobars 
+- [ ] Thompson’s model and its limitations 
+- [ ] Rutherford’s model and its limitations 
+- [ ] Bohr’s model and its limitations 
+	- [ ] concept of shells and subshells 
+	- [ ] dual nature of matter and light 
+	- [ ] de Broglie’s relationship 
+- [ ] Heisenberg uncertainty principle 
+	- [ ] concept of orbitals 
+	- [ ] quantum numbers 
+	- [ ] shapes of s, p and d orbitals 
+	- [ ] rules for filling electrons in orbitals
+- [ ] Aufbau principle 
+- [ ] Pauli exclusion principle
+- [ ] and Hund’s rule 
+	- [ ] electronic configuration of atoms 
+	- [ ] stability of half filled and completely filled orbitals.
 
 ## Classification of Elements and Periodicity in Properties
 
-Significance of classification, brief history of the development of periodic table, modern periodic law and the present form of periodic table, periodic trends in properties of elements – atomic radii, ionic radii, inert gas radii, ionization enthalpy, electron gain enthalpy, electronegativity, valence, Nomenclature of elements with atomic number greater than 100.
+- [ ] Significance of classification 
+- [ ] brief history of the development of periodic table 
+- [ ] modern periodic law
+- [ ] the present form of periodic table 
+- [ ] periodic trends in properties of elements –
+	- [ ] atomic radii 
+	- [ ] ionic radii 
+	- [ ] inert gas radii 
+	- [ ] ionization enthalpy 
+	- [ ] electron gain enthalpy 
+	- [ ] electronegativity 
+	- [ ] valence 
+	- [ ] Nomenclature of elements with atomic number greater than 100.
 
 ## Chemical Bonding and Molecular Structure
 
-Valence electrons, ionic bond, covalent bond, bond parameters, Lewis structure, polar character of covalent bond, covalent bond, covalent character of ionic bond, valence bond theory, resonance, geometry of covalent molecules, VSEPR theory, concept of hybridization involving s, p and d orbitals and shapes of some simple molecules, molecular orbital theory of homonuclear diatomic molecules (qualitative idea only). Hydrogen bond.
+- [ ] Valence electrons 
+	- [ ] ionic bond 
+	- [ ] covalent bond 
+	- [ ] bond parameters 
+	- [ ] Lewis structure 
+- [ ] polar character of covalent bond, 
+	- [ ] covalent bond 
+	- [ ] covalent character of ionic bond 
+- [ ] valence bond theory 
+	- [ ] resonance 
+	- [ ] geometry of covalent molecules 
+	- [ ] VSEPR theory 
+		- [ ] concept of hybridization involving s 
+		- [ ] p and d orbitals and shapes of some simple molecules 
+- [ ] molecular orbital theory of homonuclear diatomic molecules (qualitative idea only).
+- [ ] Hydrogen bond.
 
 ## States of Matter : Gases and Liquids
 
-Three states of matter, intermolecular interactions, types of bonding, melting and boiling points, role of gas laws in elucidating the concept of the molecule, Boyle’s law, Charle’s law, Gay Lussac’s law, Avogadro’s law, ideal behaviour, empirical derivation of gas equation, Avogadro number, ideal gas equation. Deviation from ideal behaviour, liquefaction of gases, critical temperature, Kinetic energy and molecular speeds (elementary idea). Liquid State – Vapour pressure, viscosity and surface tension (qualitative idea only, no mathematical derivations).
+- [ ] Three states of matter 
+	- [ ] intermolecular interactions 
+	- [ ] types of bonding 
+	- [ ] melting and boiling points 
+- [ ] role of gas laws in elucidating the concept of the molecule 
+	- [ ] Boyle’s law 
+	- [ ] Charle’s law 
+	- [ ] Gay Lussac’s law 
+	- [ ] Avogadro’s law 
+	- [ ] ideal behavior 
+	- [ ] empirical derivation of gas equation 
+	- [ ] Avogadro number 
+	- [ ] ideal gas equation.
+
+- [ ] Deviation from ideal behavior 
+	- [ ] liquefaction of gases 
+	- [ ] critical temperature 
+	- [ ] Kinetic energy and molecular speeds (elementary idea) 
+- [ ] Liquid State –
+	- [ ] Vapor pressure 
+	- [ ] viscosity
+	- [ ] surface tension (qualitative idea only, no mathematical derivations).
 
 ## Chemical Thermodynamics
 
@@ -472,89 +712,138 @@ isomerism (structural and stereo) importance of coordination compounds (in quali
 
 ## Alcohols, Phenols and Ethers
 
-### Alcohols
+- [ ]  Alcohols 
+	- [ ] Nomenclature 
+	- [ ] methods of preparation 
+	- [ ] physical and chemical properties (of primary alcohols only)
+	- [ ] identification of primary, secondary and tertiary alcohols
+	- [ ] mechanism of dehydration 
+	- [ ] uses with special reference to methanol and ethanol.
 
-    : Nomenclature, methods of preparation, physical and chemical properties (of primary alcohols only)
+- [ ] Phenols 
+	- [ ] Nomenclature 
+	- [ ] methods of preparation 
+	- [ ] physical and chemical properties 
+	- [ ] acidic nature of phenol 
+	- [ ] electrophillic substitution reaction 
+	- [ ] uses of phenols.
 
-identification of primary, secondary and tertiary alcohols
-
-mechanism of dehydration, uses, with special reference to methanol and ethanol.
-
-### Phenols
-
-: Nomenclature, methods of preparation, physical and chemical properties, acidic nature of phenol, electrophillic substitution reaction, uses of phenols.
-
-### Ethers
-
- : Nomenclature, methods of preparation, physical and chemical properties, uses.
+- [ ]  Ethers 
+	- [ ] Nomenclature 
+	- [ ] methods of preparation 
+	- [ ] physical and chemical properties 
+	- [ ] uses.
 
 ## Aldehydes, Ketones and Carboxylic Acids
 
-### Aldehydes and ketones
+- [ ] Aldehydes and ketones 
+	- [ ] Nomenclature 
+	- [ ] nature of carbonyl group 
+	- [ ] method of preparation 
+	- [ ] physical and chemical properties 
+	- [ ] and mechanism of nucleophilic addition 
+	- [ ] reactivity of alpha hydrogen in aldehydes 
+	- [ ] uses.
 
- Nomenclature, nature of carbonyl group, method of preparation, physical and chemical properties, and mechanism of nucleophilic addition, reactivity of alpha hydrogen in aldehydes
-
-uses.
-
-### Carboxylic Acids
-
- Nomenclature, acidic nature, methods of preparation, physical and chemical properties
-
-uses.
+- [ ] Carboxylic Acids 
+	 - [ ] Nomenclature 
+	 - [ ] acidic nature 
+	 - [ ] methods of preparation 
+	 - [ ] physical and chemical properties 
+	 - [ ] uses.
 
 ## Organic Compounds Containing Nitrogen
 
-### Amines
+- [ ] Amines 
+	- [ ] Nomenclature 
+	- [ ] classification 
+	- [ ] structure 
+	- [ ] methods of preparation 
+	- [ ] physical and chemical properties 
+	- [ ] uses 
+	- [ ] identification of primary secondary and tertiary amines.
 
- : Nomenclature, classification, structure, methods of preparation, physical and chemical properties, uses, identification of primary secondary and tertiary amines.
+- [ ] Cyanides and Isocyanides – will be mentioned at relevant places in context.
 
-### Cyanides and Isocyanides
-
- – will be mentioned at relevant places in context.
-
-### Diazonium salts
-
- : Preparation, chemical reactions and importance in synthetic organic chemistry.
+- [ ]  Diazonium salts 
+	- [ ] Preparation 
+	- [ ] chemical reactions 
+	- [ ] importance in synthetic organic chemistry.
 
 ## Biomolecules
 
-### Carbohydrates
+- [ ] **Carbohydrates**
+	- [ ]  Classification (aldoses and ketoses) 
+		- [ ] monosaccharide 
+			- [ ] glucose 
+			- [ ] fructose  
+			- [ ] D-L configuration 
+		- [ ] oligosaccharides 
+			- [ ] sucrose 
+			- [ ] lactose 
+			- [ ] maltose  
+		- [ ] polysaccharides
+			- [ ] starch 
+			- [ ] cellulose 
+			- [ ] glycogen
 
- – Classification (aldoses and ketoses), monosaccharide (glucose and fructose), D-L configuration, oligosaccharides (sucrose, lactose, maltose), polysaccharides (starch, cellulose, glycogen)
+	- [ ] importance.
 
-importance.
+- [ ] **Proteins** 
+	- [ ] Elementary idea of
+		- [ ] amino acids 
+			- [ ] peptide bond 
+			- [ ] polypeptides 
+		- [ ] proteins 
+			- [ ] primary structure 
+			- [ ] secondary structure 
+			- [ ] tertiary structure
+			- [ ] quaternary structure (qualitative idea only) 
+			- [ ] denaturation of proteins
 
-### Proteins – Elementary idea of
+	- [ ] enzymes.
 
- – amino acids, peptide bond, polypeptides, proteins, primary structure, secondary structure, tertiary structure and quaternary structure (qualitative idea only), denaturation of proteins
-
-enzymes.
-
-### Hormones
-
- – Elementary idea (excluding structure).
-
-### Vitamins
-
-  – Classification and functions.
-  
-### Nucleic Acids
-
-   : DNA and RNA
+- [ ] **Hormones** – Elementary idea (excluding structure).
+- [ ]  Vitamins – Classification and functions.
+- [ ]  Nucleic Acids: DNA and RNA
 
 ## Polymers
 
-### Classification
-
- – Natural and synthetic, methods of polymerization (addition and condensation), copolymerization, Some important polymers
-
-natural and synthetic like polythene, nylon, polyesters, bakelite, rubber, Biodegradable and non-biodegradable polymers.
+- [ ] Classification 
+	- [ ] Natural and synthetic 
+	- [ ] methods of polymerization  
+		- [ ] addition 
+		- [ ] condensation 
+	- [ ] copolymerization 
+- [ ] Some important polymers 
+	- [ ] natural and synthetic like
+		- [ ] polythene 
+		- [ ] nylon 
+		- [ ] polyesters 
+		- [ ] bakelite 
+		- [ ] rubber 
+		- [ ] Biodegradable 
+	- [ ] and non-biodegradable polymers.
 
 ## Chemistry in Every Day Life
 
- 1. Chemicals in medicines – analgesics, tranqualizers, antiseptic, disinfectants, antimicrobials, antifertility drugs, antibiotics, antacids, antithistamines.
- 2. Chemicals in food – preservatives, artificial sweetening agents, elementary idea of antioxidants.
- 3. Cleansing agents – soaps and detergents, cleansing action.
+ 1. [ ] Chemicals in medicines 
+	 1. [ ] analgesics
+	 2. [ ] tranqualizers 
+	 3. [ ] antiseptic 
+	 4. [ ] disinfectants 
+	 5. [ ] antimicrobials 
+	 6. [ ] antifertility drugs 
+	 7. [ ] antibiotics 
+	 8. [ ] antacids 
+	 9. [ ] antithistamines.
+ 2. [ ] Chemicals in food – 
+	 1. [ ] preservatives,
+	 2. [ ] artificial sweetening agents
+	 3. [ ]  elementary idea of antioxidants.
+ 3. [ ] Cleansing agents –
+	 1. [ ] soaps and detergents 
+	 2. [ ] cleansing action.
 
 # Mathematics
 
