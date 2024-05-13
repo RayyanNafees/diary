@@ -424,7 +424,7 @@
 	- [ ] Zener diode as a voltage regulator.
 
 # Chemistry
-## Class 11th
+## Physical 
 ### Some Basic Concepts of Chemistry
 
 - [ ] General Introduction  
@@ -440,7 +440,7 @@
 - [ ] percentage composition and empirical and molecular formula
 - [ ] chemical reactions, stoichiometry and calculations based on stoichiometry.
 
-## Structure of Atom
+### Structure of Atom
 
 - [ ] Discovery of electron, proton and neutron
 
@@ -462,7 +462,7 @@
 	- [ ] electronic configuration of atoms 
 	- [ ] stability of half filled and completely filled orbitals.
 
-## Classification of Elements and Periodicity in Properties
+### Classification of Elements and Periodicity in Properties
 
 - [ ] Significance of classification 
 - [ ] brief history of the development of periodic table 
@@ -478,7 +478,7 @@
 	- [ ] valence 
 	- [ ] Nomenclature of elements with atomic number greater than 100.
 
-## Chemical Bonding and Molecular Structure
+### Chemical Bonding and Molecular Structure
 
 - [ ] Valence electrons 
 	- [ ] ionic bond 
@@ -497,7 +497,7 @@
 - [ ] molecular orbital theory of homonuclear diatomic molecules (qualitative idea only).
 - [ ] Hydrogen bond.
 
-## States of Matter : Gases and Liquids
+### States of Matter : Gases and Liquids
 
 - [ ] Three states of matter 
 	- [ ] intermolecular interactions 
@@ -522,45 +522,162 @@
 	- [ ] viscosity
 	- [ ] surface tension (qualitative idea only, no mathematical derivations).
 
-## Chemical Thermodynamics
+### Chemical Thermodynamics
 
-- [ ] Concepts of system, types of systems, surroundings, work, heat, energy, extensive and intensive properties, state functions. First law of thermodynamics – internal energy and enthalpy, heat capacity and specific heat, measurement of ∆U and ∆H, Hess’s law of constant heat summation, enthalpy of : bond dissociation, combustion, formation, atomization, sublimation, phase transition, ionization, solution and dilution. Introduction of entropy as a state function, Second law of thermodynamics, Gibbs energy change for spontaneous and non-spontaneous process, criteria for equilibrium.
+- [ ] Concepts of system 
+	- [ ] types of systems 
+	- [ ] surroundings 
+	- [ ] work, heat, energy 
+	- [ ] extensive and intensive properties 
+	- [ ] state functions.
+- [ ] First law of thermodynamics –
+	- [ ] internal energy and enthalpy 
+	- [ ] heat capacity and specific heat 
+	- [ ] measurement of ∆U and ∆H 
+	- [ ] Hess’s law of constant heat summation 
+	- [ ] enthalpy of : 
+		- [ ] bond dissociation 
+		- [ ] combustion,
+		- [ ] formation,
+		- [ ] atomization,
+		- [ ] sublimation,
+		- [ ] phase transition,
+		- [ ] ionization,
+		- [ ] solution 
+		- [ ] and dilution.
+	- [ ] Introduction of entropy as a state function 
+- [ ] Second law of thermodynamics 
+	- [ ] Gibbs energy change for spontaneous and non-spontaneous process 
+	- [ ] criteria for equilibrium.
 
-## Equilibrium
+### Equilibrium
 
-  Equilibrium in physical and chemical processes, dynamic nature of equilibrium, law of mass action, equilibrium constant, factors affecting equilibrium – Le Chatelier’s principle
+ - [ ] Equilibrium in physical and chemical processes 
+	 - [ ] dynamic nature of equilibrium 
+	 - [ ] law of mass action 
+	 - [ ] equilibrium constant 
+	 - [ ] factors affecting equilibrium – Le Chatelier’s principle
 
-ionic equilibrium – ionization of acids and bases, strong and weak electrolytes, degree of ionization, ionization of polybasic acids, acid strength, concept of pH, Hydrolysis of salts (elementary idea), buffer solutions, Henderson equation, solubility product, common ion effect (with illustrative examples). Redox Reactions Concept of oxidation and reduction, redox reactions, oxidation number, balancing redox reactions in terms of loss and gain of electron and change in oxidation numbers, applications of redox reactions.
+- [ ] ionic equilibrium –
+	- [ ] ionization of
+		- [ ] acids and bases 
+		- [ ] strong and weak electrolytes 
+	- [ ] degree of ionization 
+		- [ ] Ionization of polybasic acids 
+	- [ ] acid strength 
+	- [ ] concept of pH 
+		- [ ] Hydrolysis of salts (elementary idea) 
+		- [ ] buffer solutions 
+		- [ ] Henderson equation 
+		- [ ] solubility product 
+		- [ ] common ion effect (with illustrative examples) 
+- [ ] Redox Reactions 
+	- [ ] Concept of oxidation and reduction 
+	- [ ] redox reactions 
+	- [ ] oxidation number 
+	- [ ] balancing redox reactions in terms of loss and gain of electron 
+	- [ ] and change in oxidation numbers,
+	- [ ] applications of redox reactions.
 
-## Hydrogen
+## In-Organic
+### Hydrogen
 
- Position of hydrogen in periodic table, occurrence, isotopes, preparation, properties and uses of hydrogen
+ - [ ] Position of hydrogen in periodic table 
+	 - [ ] occurrence 
+	 - [ ] isotopes 
+	 - [ ] preparation 
+	 - [ ] properties 
+	 - [ ] and uses of hydrogen 
+- [ ] hydrides –
+	- [ ] ionic,
+	- [ ] covalent
+	- [ ] and interstitial 
+- [ ] physical and chemical properties of water 
+- [ ] heavy water 
+- [ ] hydrogen peroxide – 
+	- [ ] preparation,
+	- [ ] reactions,
+	- [ ] use
+	- [ ] and structure 
+- [ ] hydrogen as a fuel.
 
-hydrides – ionic, covalent and interstitial
+### s-Block Elements (Alkali and Alkaline earth metals)
 
-physical and chemical properties of water, heavy water
+- [ ] Group 1 and Group 2 elements
+	- [ ] General introduction 
+	- [ ] electronic configuration,
+	- [ ] occurrence,
+	- [ ] anomalous properties of the first element of each group,
+	- [ ] diagonal relationship,
+	- [ ] trends in the variation of properties (such as
+		- [ ] ionization enthalpy
+		- [ ] , atomic 
+		- [ ] and ionic radii),
+	- [ ] trends in chemical reactivity with
+		- [ ] oxygen,
+		- [ ] water,
+		- [ ] hydrogen 
+		- [ ] and halogens
+	- [ ] uses.
+- [ ] Preparation and Properties of some Important Compounds:
+	- [ ] Sodium carbonate,
+	- [ ] sodium chloride,
+	- [ ] sodium hydroxide
+	- [ ] and sodium hydrogencarbonate, 
+- [ ] biological importance of
+	- [ ] sodium and potassium.
+	- [ ]  Mg and Ca
+- [ ] CaO CaCO3,
+- [ ] and industrial use of lime and limestone,
 
-hydrogen peroxide – preparation, reactions, use and structure
+### Some p-Block Elements
 
-hydrogen as a fuel.
+ - [ ] General Introduction to p-Block Elements 
+ - [ ] **Group 13 elements** :
+	 - [ ] General introduction,
+	 - [ ] electronic configuration,
+	 - [ ] occurrence,
+	 - [ ] variation of properties,
+	 - [ ] oxidation states,
+	 - [ ] trends in chemical reactivity,
+	 - [ ] anomalous properties of first element of the group
 
-## s-Block Elements (Alkali and Alkaline earth metals)
+	- [ ] Boron-
+		- [ ] physical and chemical properties,
+		- [ ] some important compounds 
+			- [ ] borax,
+			- [ ] boric acids,
+			- [ ] boron hydrides.
+	- [ ] Aluminium:
+		- [ ] uses,
+		- [ ] reactions with acids and alkalies.
+- [ ] **Group 14 elements** :
+	- [ ] General introduction,
+	- [ ] electronic configuration,
+	- [ ] occurrence,
+	- [ ] variation of properties,
+	- [ ] oxidation states,
+	- [ ] trends in chemical reactivity,
+	- [ ] anomalous behavior of first element.
+	
+	- [ ] Carbon – 
+		- [ ] catenation,
+		- [ ] allotropic forms,
+		- [ ] physical 
+		- [ ] and chemical properties
 
- Group 1 and Group 2 elements General introduction, electronic configuration, occurrence, anomalous properties of the first element of each group, diagonal relationship, trends in the variation of properties (such as ionization enthalpy, atomic and ionic radii), trends in chemical reactivity with oxygen, water, hydrogen and halogens
+	- [ ] uses of some important compounds:
+		- [ ] oxides.
+		- [ ] Silicon compounds and a few uses :
+			- [ ] silicon tetrachloride,
+			- [ ] silicones,
+			- [ ] silicates 
+			- [ ] and zeolites,
+			- [ ] their uses.
 
-uses. Preparation and Properties of some Important Compounds: Sodium carbonate, sodium chloride, sodium hydroxide and sodium hydrogencarbonate, biological importance of sodium and potassium. CaO CaCO3, and industrial use of lime and limestone, biological importance of Mg and Ca.
+## Organic 
 
-## Some p-Block Elements
-
- General Introduction to p-Block Elements Group 13 elements : General introduction, electronic configuration, occurrence, variation of properties, oxidation states, trends in chemical reactivity, anomalous properties of first element of the group
-
-Boron-physical and chemical properties, some important compounds
-
-borax, boric acids, boron hydrides. Aluminium: uses, reactions with acids and alkalies. Group 14 elements : General introduction, electronic configuration, occurrence, variation of properties, oxidation states, trends in chemical reactivity, anomalous beheaviour of first element. Carbon – catenation, allotropic forms, physical and chemical properties
-
-uses of some important compounds: oxides. Important compounds of silicon and a few uses : silicon tetrachloride, silicones, silicates and zeolites, their uses.
-
-## Organic Chemistry – Some Basic Principles and Techniques
+### Some Basic Principles and Techniques
 
 General introduction, methods of purification, qualitative and quantitative analysis, classification and IUPAC nomenclature of organic compounds. Electronic displacements in a covalent bond: inductive effect, electrometric effect, resonance and hyper conjugation. Homolytic and heterolytic fission of a covalent bond: free radicals, carbocations, carbonions
 
@@ -694,7 +811,21 @@ compounds of halogens: preparation, properties and uses of chlorine and hydrochl
 
 ## d and f-Block Elements
 
-  General introduction, electronic configuration, occurrence and characteristics of transition metals, general trends in properties of the first row transition metals – metallic character, ionization enthalpy, oxidation states, ionic radii, colour, catalytic property, magnetic properties, interstitial compounds, alloy formation. Preparation and properties of K2Cr2O7 and KMnO4.
+  - [ ] General introduction,
+  - [ ] electronic configuration,
+  - [ ] occurrence 
+  - [ ] and characteristics of transition metals,
+	  - [ ] general trends in properties of the first row transition metals –
+		  - [ ] metallic character,
+		  - [ ] ionization enthalpy, 
+		  - [ ] oxidation states,
+		  - [ ] ionic radii,
+		  - [ ] colour,
+		  - [ ] catalytic property,
+		  - [ ] magnetic properties,
+	  - [ ] interstitial compounds,
+	  - [ ] alloy formation.
+	  - [ ] Preparation and properties of K2Cr2O7 and KMnO4.
   
 ## Lanthanoids
 
