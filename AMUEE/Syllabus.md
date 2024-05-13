@@ -691,7 +691,7 @@ chemical reactions: addition of hydrogen, halogen, water, hydrogen halides (Mark
 
 Benzene : resonance, aromaticity
 
-chemical properties : mechanism of electrophilic substitution – nitration sulphonation, halogenation, Friedel Craft’s alkylation and acylation
+chemical properties : mechanism of electrophilic substitution – nitration sulphonation, halogenation, Friedel Craft’s alkylation and acylation 
 
 directive influence of functional group in mon-substituted benzene
 
