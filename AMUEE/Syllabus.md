@@ -524,7 +524,7 @@
 
 ## Chemical Thermodynamics
 
-Concepts of system, types of systems, surroundings, work, heat, energy, extensive and intensive properties, state functions. First law of thermodynamics – internal energy and enthalpy, heat capacity and specific heat, measurement of ∆U and ∆H, Hess’s law of constant heat summation, enthalpy of : bond dissociation, combustion, formation, atomization, sublimation, phase transition, ionization, solution and dilution. Introduction of entropy as a state function, Second law of thermodynamics, Gibbs energy change for spontaneous and non-spontaneous process, criteria for equilibrium.
+- [ ] Concepts of system, types of systems, surroundings, work, heat, energy, extensive and intensive properties, state functions. First law of thermodynamics – internal energy and enthalpy, heat capacity and specific heat, measurement of ∆U and ∆H, Hess’s law of constant heat summation, enthalpy of : bond dissociation, combustion, formation, atomization, sublimation, phase transition, ionization, solution and dilution. Introduction of entropy as a state function, Second law of thermodynamics, Gibbs energy change for spontaneous and non-spontaneous process, criteria for equilibrium.
 
 ## Equilibrium
 
@@ -620,27 +620,41 @@ concept of collision theory (elementary idea, no mathematical treatment). Activa
 
 ## Surface Chemistry
 
- Adsorption – physisorption and chemisorption
+ - [ ] Adsorption –
+	 - [ ] physisorption and chemisorption 
+	 - [ ] factors affecting adsorption of gases on solids
 
-factors affecting adsorption of gases on solids
+- [ ] catalysis 
+	- [ ] homogenous and heterogeneous 
+	- [ ] activity and selectivity: enzyme catalysis
 
-catalysis thomogenous and heterogeneous, activity and selectivity: enzyme catalysis
+- [ ] colloidal state:
+	- [ ] distinction between true solutions, colloids and suspensions 
+	- [ ] lyophillic 
+	- [ ] lyophobic multimolecular
+	- [ ] and macromolecular colloids 
+	- [ ] properties of colloids
+	- [ ] emulsions – types of emulsions.
+	
+	- [ ] Tyndall effect 
+		- [ ] Brownian movement 
+		- [ ] electrophoresis 
+		- [ ] coagulation
 
-colloidal state: distinction between true solutions, colloids and suspensions
-
-lyophillic, lyophobic multimolecular and macromolecular colloids
-
-properties of colloids
-
-Tyndall effect, Brownian movement, electrophoresis, coagulation
-
-emulsions – types of emulsions.
 
 ## General Principles and Processes of Isolation of Elements
 
- Principles and methods of extraction – concentration, oxidation, reduction electrolytic method and refining
+ - [ ] Principles and methods of extraction
+	 - [ ] – concentration 
+	 - [ ] oxidation,
+	 - [ ] reduction electrolytic method
+	 - [ ] and refining
 
-occurrence and principles of extraction of aluminium, copper, zinc and iron.
+- [ ] occurrence and principles of extraction of
+	- [ ] aluminium 
+	- [ ] copper 
+	- [ ] zinc
+	- [ ] and iron.
 
 ## p-Block Elements
 
@@ -692,23 +706,42 @@ compounds of halogens: preparation, properties and uses of chlorine and hydrochl
 
 ## Coordination Compounds
 
- : Introduction, ligands, coordination number, colour, magnetic properties and shapes, IUPAC nomenclature of mononuclear coordination compounds, bonding, Werner’s theory VBT, CFT
-
-isomerism (structural and stereo) importance of coordination compounds (in qualitative inclusion, extraction of metals and biological systems.).
+ - [ ] Introduction 
+	 - [ ] ligands 
+	 - [ ] coordination number 
+	 - [ ] colour 
+	 - [ ] magnetic properties and shapes 
+ - [ ] IUPAC nomenclature of mononuclear coordination compounds 
+ - [ ] bonding 
+	 - [ ] Werner’s theory 
+	 - [ ] VBT 
+	 - [ ] CFT
+- [ ] isomerism (structural and stereo)
+- [ ] importance of coordination compounds 
+	- [ ] (in qualitative inclusion 
+	- [ ] extraction of metals 
+	- [ ] and biological systems.).
 
 ## Haloalkanes and Haloarenes
 
-### Haloalkanes
+- [ ] Haloalkanes 
+	- [ ] Nomenclature 
+	- [ ] nature of C-X bond 
+	- [ ] physical and chemical properties 
+	- [ ] mechanism of substitution reactions 
+	- [ ] Optical rotation.
 
- Nomenclature, nature of C-X bond, physical and chemical properties, mechanism of substitution reactions. Optical rotation.
-
-### Haloarenes
-
-  : Nature of C-X bond, substitution reactions (directive influence of halogen for monosubstituted compounds only).
+- [ ] Haloarenes 
+	- [ ] Nature of C-X bond 
+	- [ ] substitution reactions (directive influence of halogen for monosubstituted compounds only).
   
-### Uses and environmental effects of
-  
-   – dichloromethane, trichloromethane, tetrachloromethane, iodoform, freons, DDT.
+- [ ] Uses and environmental effects of 
+	- [ ] dichloromethane 
+	- [ ] trichloromethane 
+	- [ ] tetrachloromethane 
+	- [ ] iodoform
+	- [ ] freons 
+	- [ ] DDT.
 
 ## Alcohols, Phenols and Ethers
 
