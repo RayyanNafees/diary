@@ -2,41 +2,84 @@
 
 ## Physical World and Measurement
 
-Physics-scope and excitement, nature of physical laws
-
-Physics, technology and society. Need for measurement: Units of measurement
-
-systems of units
-
-SI units, fundamental and derived units. Length, mass and time measurements
-
-accuracy and precision of measuring instruments, errors in measurement
-
-significant figures. Dimensions of physical quantities, dimensional analysis and its applications.
+- [ ] Physics-scope and excitement
+- [ ] nature of physical laws
+- [ ] Physics, technology and society 
+- [ ] Need for measurement: Units of measurement 
+- [ ] Systems of units 
+	- [ ] SI units 
+	- [ ] fundamental and derived units 
+	- [ ] Length, mass and time measurements 
+	- [ ] accuracy and precision of measuring instruments, errors in measurements 
+	- [ ] significant figures 
+	- [ ] Dimensions of physical quantities 
+	- [ ] dimensional analysis and its applications.
 
 ## Kinematics
 
-Frame of reference. Motion in a straight line: Position-time graph, speed and velocity. Uniform and non-uniform motion, average speed and instantaneous velocity. Uniformly accelerated motion, velocity-time, position-time graphs, relations for uniformly accelerated motion (graphical treatment). Elementary concepts of differentiation and integration for describing motion. Scalar and vector quantities: Position and displacement vectors, general vectors and notation, equality of vectors, multiplication of vectors by a real number
+- [ ] Frame of reference 
+- [ ] Motion in a straight line 
+	- [ ] Position-time graph 
+	- [ ] speed and velocity 
+	- [ ] Uniform and non-uniform motion 
+	- [ ] average speed and instantaneous velocity 
+	- [ ] Uniformly accelerated motion 
+		- [ ] velocity-time
+		- [ ] position-time graphs 
+		- [ ] relations for uniformly accelerated motion (graphical treatment)
+	- [ ] Elementary concepts of differentiation and integration for describing motion 
+	- [ ] Scalar and vector quantities 
+		- [ ] Position and displacement vectors 
+		- [ ] general vectors and notation 
+		- [ ] equality of vectors 
+		- [ ] multiplication of vectors by a real number 
+		- [ ] addition and subtraction of vectors.
+		- [ ] Unit vector  
+		- [ ] Resolution of a vector in a plane-rectangular components
 
-addition and subtraction of vectors. Relative velocity. Unit vector
+- [ ] Motion in a plane 
+	- [ ] Cases of uniform velocity and uniform acceleration  
+	- [ ] projectile motion.
 
-Resolution of a vector in a plane-rectangular components. Motion in a plane. Cases of uniform velocity and uniform accelerationprojectile motion. Uniform circular motion.
+- [ ] Relative velocity 
+- [ ] Uniform circular motion.
 
 ## Laws of Motion
 
-Intuitive concepts of force. Inertia, Newton’s first law of motion
+- [ ] Intuitive concepts of forces 
+- [ ] Inertia  
+- [ ] Newton’s first law of motion
+	- [ ] momentum  
+- [ ] Newton’s second law of motion
+	- [ ] impulse
 
-momentum and Newton’s second law of motion
-
-impulse
-
-Newton’s third law of motion. Law of conservation of linear momentum and its applications. Equilibrium of concurrent forces. Static and kinetic friction, laws of friction, rolling friction. Lubrication, Dynamics of uniform circular motion: Centripetal force, examples of circular motion (vehicle on level circular road, vehicle on banked road).
+- [ ] Newton’s third law of motion  
+	- [ ] Law of conservation of linear momentum and its applications 
+	- [ ] Equilibrium of concurrent forces 
+	- [ ] Static and kinetic friction
+		- [ ] laws of friction 
+		- [ ] rolling friction
+		- [ ] Lubrication 
+	- [ ] Dynamics of uniform circular motion 
+		- [ ] Centripetal force 
+		- [ ] examples of circular motion  
+			- [ ] vehicle on level circular road 
+			- [ ] vehicle on banked road
 
 ## Work, Energy and Power
 
-Scalar product of vectors. Work done by a constant force and a variable force
+- [ ] Scalar product of vectors 
+- [ ] Work done by a constant force and a variable force
 
-kinetic energy, work-energy theorem, power. Notion of potential energy, potential energy of a spring, conservative forces: conservation of mechanical energy (kinetic and potential energies)
+- [ ] kinetic energy 
+- [ ] work-energy theorem 
+- [ ] power 
+- [ ] Notion of potential energy 
+	- [ ] potential energy of a spring 
+	- [ ] conservative forces 
+		- [ ] conservation of mechanical energy 
+			- [ ] kinetic energies  and 
+			- [ ] potential energies
 
 non-conservative forces: elastic and inelastic collisions in one and two dimensions.
 
