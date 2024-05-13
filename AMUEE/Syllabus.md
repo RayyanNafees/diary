@@ -825,7 +825,7 @@ compounds of halogens: preparation, properties and uses of chlorine and hydrochl
 		  - [ ] magnetic properties,
 	  - [ ] interstitial compounds,
 	  - [ ] alloy formation.
-	  - [ ] Preparation and properties of K2Cr2O7 and KMnO4.
+  - [ ] ‘¾Preparation and properties of K2Cr2O7 and KMnO4.
   
 ## Lanthanoids
 
