@@ -80,30 +80,71 @@
 		- [ ] conservation of mechanical energy 
 			- [ ] kinetic energies  and 
 			- [ ] potential energies
-
-non-conservative forces: elastic and inelastic collisions in one and two dimensions.
-
+	- [ ] non-conservative forces 
+		- [ ] Collision
+			- [ ] Elastic Collision in 1 & 2D
+			- [ ] Inelastic collision in 1 & 2D
 ## Motion of System of Particles and Rigid Body
 
-Centre of mass of a two-particle system, momentum conversation and centre of mass motion. Centre of mass of a rigid body
+- [ ] Centre of mass of a two-particle system 
+	- [ ] momentum conversation and centre of mass motion 
+	- [ ] Centre of mass of a rigid body
+	- [ ] centre of mass of uniform rod.
+	- [ ] Vector product of vectors
 
-centre of mass of uniform rod. Vector product of vectors
+- [ ] moment of a force 
+	- [ ] torque 
+	- [ ] angular momentum 
+	- [ ] conservation of angular momentum with some examples 
+	- [ ] Equilibrium of rigid bodies 
 
-moment of a force, torque, angular momentum, conservation of angular momentum with some examples. Equilibrium of rigid bodies, rigid body rotation and equations of rotational motion. Comparison of linear and rotational motions
-
-moment of inertia, radius of gyration. Values of moments of inertia for simple geometrical objects (no derivation). Statement of parallel and perpendicular axes theorems and their applications.
+- [ ] rigid body rotation 
+	- [ ] equations of rotational motion 
+	- [ ] Comparison of linear and rotational motions
+	- [ ] moment of inertia 
+	- [ ] radius of gyration 
+	- [ ] Values of moments of inertia for simple geometrical objects (no derivation) 
+	- [ ] Statement of parallel and perpendicular axes theorems and their applications.
 
 ## Gravitation
 
-Keplar’s laws of planetary motion. The universal law of gravitation. Acceleration due to gravity and its variation with altitude and depth. Gravitational potential energy
+- [ ] Keplar’s laws of planetary motion 
+- [ ] The universal law of gravitation 
+	- [ ] Acceleration due to gravity 
+	- [ ] variation of g with altitude and depth 
 
-gravitational potential. Escape velocity. Orbital velocity of a satellite. Geo-stationary satellites.
+- [ ] Gravitational potential energy
+	- [ ] gravitational potential 
+	- [ ] Escape velocity 
+	- [ ] Orbital velocity of a satellite 
+	- [ ] Geo-stationary satellites.
 
 ## Properties of Bulk Matter
 
-Elastic behaviour, Stress-strain relationship, Hooke’s law, Young’s modulus, bulk modulus, shear, modulus of rigidity. Pressure due to a fluid column
+- [ ] Elastic behaviour 
+	- [ ] Stress-strain relationship 
+	- [ ] Hooke’s law 
+	- [ ] Young’s modulus 
+	- [ ] bulk modulus 
+	- [ ] shear 
+	- [ ] modulus of rigidity
 
-Pascal’s law and its applications (hydraulic lift and hydraulic brakes). Effect of gravity on fluid pressure. Viscosity, Stokes’ law, terminal velocity, streamline and turbulent flow. Bernoulli’s theorem and its applications. Surface energy and surface tension, angle of contact, application of surface tension ideas to drops, bubbles and capillary rise. Heat, temperature, thermal expansion
+- [ ] Pressure due to a fluid column
+
+- [ ] Pascal’s law and its applications (hydraulic lift and hydraulic brakes) 
+- [ ] Effect of gravity on fluid pressure 
+- [ ] Viscosity 
+	- [ ] Stokes’ law 
+	- [ ] terminal velocity 
+	- [ ] streamline 
+	- [ ] turbulent flow. 
+- [ ] Bernoulli’s theorem and its applications 
+- [ ] Surface energy and surface tension 
+	- [ ] angle of contact 
+	- [ ] application of surface tension ideas to drops 
+	- [ ] bubbles
+	- [ ] capillary rise 
+- [ ] Heat, temperature, thermal expansion
 
 change of state-latent heat. Heat transferconduction, convection and radiation, thermal conductivity.
 
