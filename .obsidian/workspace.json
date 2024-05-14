@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9377ec358a6709cf",
+        "id": "2a99e575ea735ae0",
         "type": "tabs",
         "children": [
           {
-            "id": "ff5cff4b5e8425e5",
+            "id": "190d714079bd122e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/May 13, 2024.md",
+                "file": "AMUEE/Syllabus.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/May 13, 2024.md"
+                "file": "AMUEE/Syllabus.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/May 13, 2024.md",
+                "file": "AMUEE/Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,18 +143,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/May 13, 2024.md",
+                "file": "AMUEE/Syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 355.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,16 +170,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ff5cff4b5e8425e5",
+  "active": "190d714079bd122e",
   "lastOpenFiles": [
-    "AMUEE/Syllabus.md",
+    "daily/May 4, 2024.md",
+    "daily/May 7, 2024.md",
+    "daily/May 8, 2024.md",
+    "daily/May 10, 2024.md",
+    "daily/May 11, 2024.md",
     "daily/May 13, 2024.md",
+    "AMUEE/Syllabus.md",
     "AMUEE",
     "z- EliteClub/Interview Prep.md",
-    "daily/May 11, 2024.md",
-    "daily/May 10, 2024.md",
-    "daily/May 8, 2024.md",
-    "daily/May 7, 2024.md",
     "z- EliteClub/Club Schedule.md",
     "z- EliteClub/Club Todos.md",
     "z- EliteClub/Projects/Subject Timelines.md",
@@ -192,7 +193,6 @@
     "media/Pasted image 20240502074314.png",
     "media/Pasted image 20240502074251.png",
     "daily/Apr 27, 2024.md",
-    "daily/May 4, 2024.md",
     "z- EliteClub/Things to Add.md",
     "z- EliteClub/Projects",
     "z- EliteClub",

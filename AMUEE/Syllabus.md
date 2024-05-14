@@ -17,16 +17,16 @@
 
 ## Kinematics
 
-- [ ] Frame of reference 
-- [ ] Motion in a straight line 
-	- [ ] Position-time graph 
-	- [ ] speed and velocity 
-	- [ ] Uniform and non-uniform motion 
-	- [ ] average speed and instantaneous velocity 
-	- [ ] Uniformly accelerated motion 
-		- [ ] velocity-time
-		- [ ] position-time graphs 
-		- [ ] relations for uniformly accelerated motion (graphical treatment)
+- [x] Frame of reference 
+- [x] Motion in a straight line 
+	- [x] Position-time graph 
+	- [x] speed and velocity 
+	- [x] Uniform and non-uniform motion 
+	- [x] average speed and instantaneous velocity 
+	- [x] Uniformly accelerated motion 
+		- [x] velocity-time
+		- [x] position-time graphs 
+		- [x] relations for uniformly accelerated motion (graphical treatment)
 	- [ ] Elementary concepts of differentiation and integration for describing motion 
 	- [ ] Scalar and vector quantities 
 		- [ ] Position and displacement vectors 
