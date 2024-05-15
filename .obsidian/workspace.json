@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AMUEE/Syllabus.md",
+                "file": "daily/May 15, 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AMUEE/Syllabus.md"
+                "file": "daily/May 15, 2024.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AMUEE/Syllabus.md",
+                "file": "daily/May 15, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AMUEE/Syllabus.md",
+                "file": "daily/May 15, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,13 +172,14 @@
   },
   "active": "190d714079bd122e",
   "lastOpenFiles": [
+    "daily/May 8, 2024.md",
+    "daily/May 15, 2024.md",
+    "AMUEE/Syllabus.md",
     "daily/May 4, 2024.md",
     "daily/May 7, 2024.md",
-    "daily/May 8, 2024.md",
     "daily/May 10, 2024.md",
     "daily/May 11, 2024.md",
     "daily/May 13, 2024.md",
-    "AMUEE/Syllabus.md",
     "AMUEE",
     "z- EliteClub/Interview Prep.md",
     "z- EliteClub/Club Schedule.md",
@@ -207,7 +208,6 @@
     "media",
     "daily/Untitled.md",
     "Vercel back to Node.md",
-    "articles/todo - Remix & the Modern MERN stack.md",
     "github.com/RayyanNafees",
     "github.com",
     "articles",
