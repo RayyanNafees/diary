@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2a99e575ea735ae0",
+        "id": "f269cc167513af51",
         "type": "tabs",
         "children": [
           {
-            "id": "190d714079bd122e",
+            "id": "c35087dfa3cc79bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -170,10 +170,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "190d714079bd122e",
+  "active": "c35087dfa3cc79bd",
   "lastOpenFiles": [
-    "daily/May 16, 2024.md",
+    "AMUEE/Study Notes.md",
     "daily/May 17, 2024.md",
+    "Untitled",
+    "daily/May 16, 2024.md",
     "Pasted image 20240516200549.png",
     "Pasted image 20240516200450.png",
     "daily/May 15, 2024.md",
@@ -211,9 +213,7 @@
     "misc/Diary site Themes.md",
     "articles/WriteSonic.md",
     "articles/todo - Go SSR with React.md",
-    "cli/AI chat.md",
     "misc",
-    "media",
-    "github.com/RayyanNafees"
+    "media"
   ]
 }
