@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "daily/May 19, 2024.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "83bc59d2f9c6653e",
@@ -154,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5
+    "width": 355.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
