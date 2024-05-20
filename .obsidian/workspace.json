@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/May 20, 2024.md",
+                "file": "z- EliteClub/Side Hustles.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/May 20, 2024.md"
+                "file": "z- EliteClub/Side Hustles.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/May 20, 2024.md",
+                "file": "z- EliteClub/Side Hustles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/May 20, 2024.md",
+                "file": "z- EliteClub/Side Hustles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,10 +171,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c35087dfa3cc79bd",
+  "active": "3e31f9fe3f64c671",
   "lastOpenFiles": [
-    "daily/May 19, 2024.md",
     "daily/May 20, 2024.md",
+    "z- EliteClub/Side Hustles.md",
+    "daily/May 19, 2024.md",
     "daily/May 17, 2024.md",
     "Pasted image 20240517211049.png",
     "Pasted image 20240517210852.png",
@@ -200,7 +201,7 @@
     "z- EliteClub/Interview Prep.md",
     "z- EliteClub/Club Schedule.md",
     "z- EliteClub/Club Todos.md",
-    "z- EliteClub/Projects/Subject Timelines.md",
+    "z- EliteClub/Subject Timelines.md",
     "Projects.md",
     "z- EliteClub/Projects/AMUpedia Pro.md",
     "misc/Why Remix.md",
@@ -215,7 +216,6 @@
     "z- EliteClub",
     "daily/Apr 30, 2024.md",
     "daily/May 2, 2024.md",
-    "misc/Diary site Themes.md",
     "misc",
     "media"
   ]
