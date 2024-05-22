@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCodeXml",
       "LiNotebook",
       "SiRemix",
       "BoBxEditAlt",
-      "LiCalendar",
-      "BoBxNotepad"
+      "LiCalendar"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,5 +37,6 @@
   "media": "LiImageUp",
   "misc": "LiSparkles",
   "template files": "LiBraces",
-  "README.md": "LiInfo"
+  "README.md": "LiInfo",
+  "z- EliteClub/Coding Roadmap.md": "LiCodeXml"
 }

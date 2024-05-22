@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f269cc167513af51",
+        "id": "64f109f0e3aedc19",
         "type": "tabs",
         "children": [
           {
-            "id": "c35087dfa3cc79bd",
+            "id": "b1bfbd5568e9f764",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/May 23, 2024.md",
+                "file": "z- EliteClub/Coding Roadmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/May 23, 2024.md"
+                "file": "z- EliteClub/Coding Roadmap.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/May 23, 2024.md",
+                "file": "z- EliteClub/Coding Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/May 23, 2024.md",
+                "file": "z- EliteClub/Coding Roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,10 +171,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c35087dfa3cc79bd",
+  "active": "b1bfbd5568e9f764",
   "lastOpenFiles": [
-    "z- EliteClub/Projects/AMU Deen App.md",
+    "YouTube Content Creation/Astro CHAD/Astro CHAT SSE.md",
+    "z- EliteClub/Coding Roadmap.md",
+    "media/Pasted image 20240516200450.png",
     "daily/May 23, 2024.md",
+    "z- EliteClub/Projects/AMU Deen App.md",
     "z- EliteClub/Projects/AMU Dining.md",
     "z- EliteClub/Projects/Clothing Store.md",
     "daily/May 22, 2024.md",
@@ -184,13 +187,12 @@
     "daily/May 20, 2024.md",
     "daily/May 19, 2024.md",
     "daily/May 17, 2024.md",
-    "Pasted image 20240517211049.png",
-    "Pasted image 20240517210852.png",
+    "media/Pasted image 20240517211049.png",
+    "media/Pasted image 20240517210852.png",
     "AMUEE/Study Notes.md",
     "Untitled",
     "daily/May 16, 2024.md",
-    "Pasted image 20240516200549.png",
-    "Pasted image 20240516200450.png",
+    "media/Pasted image 20240516200549.png",
     "daily/May 15, 2024.md",
     "YouTube Content Creation/Astro CHAD/Projects Planned.md",
     "YouTube Content Creation/EliteClub AMU",
@@ -207,8 +209,6 @@
     "AMUEE",
     "z- EliteClub/Interview Prep.md",
     "z- EliteClub/Club Schedule.md",
-    "z- EliteClub/Club Todos.md",
-    "z- EliteClub/Subject Timelines.md",
     "media/Schedule.png",
     "Schedule.canvas",
     "media/Pasted image 20240502074521.png",
