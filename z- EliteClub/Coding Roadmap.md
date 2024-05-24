@@ -39,15 +39,21 @@
 - Teach Firebase, Supabase, or Pocketbase
 	- Thereby Teach Databases like Postgres & SQLite
 	- Teach SQL
+
+- Tech JSON & REST, HTTP, using curl, httpie etc
+- Teach them [json-server](https://youtube.com/playlist?list=PLC3y8-rFHvwhc9YZIdqNL5sWeTCGxF4ya&si=TWDFbQt8fHMJ1AF7) to the maximum
+- Make them use Pocketbase, Firebase & Supabase via REST API instead of SDK from then (use light js on frontend)
+- Teach them accessibility, biome, Vite etc
+
 - Introduce little NodeJS by using Firebase Cloud Functions and also telling why do we use Server Side 
 - Teach NodeJS
-- Teach Express
+- Teach Hono
 	- Teach Auth
 	- Teach CRUD
 	- Teach cron
 - Introduce Astro and using it
 	- Make lots of Projects 
 	- Introduce HTMX
-- Introduce Hono
 - Introduce Cloudflare
 - Introduce AWS with SST , build all apps using it
+- Teach Deno & Bun, and use Deno for new projects from then on
