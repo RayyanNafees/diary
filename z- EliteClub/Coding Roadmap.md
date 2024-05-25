@@ -22,12 +22,13 @@
 ## 2nd Week 
 
 - Teach them HTML, relating to the Markdown Syntax 
-- Make them use PicoCSS, Bulma etc for different Styles
+- Teach basic Figma Design for designing the webpage first before adding elements on it 
+- Make them use PicoCSS, Bulma, [MatchaCSS](https://matcha.mizu.sh/#custom-build) etc for different Styles
 - Make them learn CSS fast by finding some repositories 
 	- Teach them to use Sololearn
 	- Make them use CSS-Tricks
 	- Make them use sites like FrontendProjects, FrontendPractice
-- Introduce all the modern Browser APIs that don't require slightest JS
+- Introduce all the modern Browser APIs that don't require slightest JS, eg Media & Container Queries
 
 ## From then on
 
