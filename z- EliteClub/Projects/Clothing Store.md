@@ -1,5 +1,5 @@
 
-Clothe store with Islamic Grafiti on the T-shirt etch
+Clothe store with Islamic Grafiti on the T-shirt etc
 Jeans-looking pants and lowers to disguise
 
 Splash screen opens with logo &  a message (msg also on playstore after appname hyphen)

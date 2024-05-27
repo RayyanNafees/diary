@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z- EliteClub/Projects/Clothing Store.md",
+                "file": "z- EliteClub/Projects/Redesigning Quran sites.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z- EliteClub/Projects/Clothing Store.md"
+                "file": "z- EliteClub/Projects/Redesigning Quran sites.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z- EliteClub/Projects/Clothing Store.md",
+                "file": "z- EliteClub/Projects/Redesigning Quran sites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,14 +143,22 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z- EliteClub/Projects/Clothing Store.md",
+                "file": "z- EliteClub/Projects/Redesigning Quran sites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "478eeb3b441aa529",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -170,13 +178,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "508f970b196981b3",
+  "active": "8c201175c811828d",
   "lastOpenFiles": [
-    "z- EliteClub/Projects/Course Evalaution.md",
+    "z- EliteClub/Projects/Local Infra.md",
+    "z- EliteClub/Projects/AMU Deen App.md",
+    "z- EliteClub/Projects/AMU Dining.md",
+    "z- EliteClub/Projects/AMUpedia Pro.md",
     "z- EliteClub/Projects/Clothing Store.md",
+    "z- EliteClub/Projects/Course Evalaution.md",
     "z- EliteClub/Projects/Khizr AI model.md",
     "z- EliteClub/Projects/Redesigning Quran sites.md",
-    "z- EliteClub/Projects/Local Infra.md",
     "daily/May 27, 2024.md",
     "z- EliteClub/Projects/Rijjaal app.md",
     "daily/May 25, 2024.md",
@@ -186,8 +197,6 @@
     "YouTube Content Creation/Astro CHAD/Astro CHAT SSE.md",
     "media/Pasted image 20240516200450.png",
     "daily/May 23, 2024.md",
-    "z- EliteClub/Projects/AMU Deen App.md",
-    "z- EliteClub/Projects/AMU Dining.md",
     "daily/May 22, 2024.md",
     "z- EliteClub/Side Hustles.md",
     "daily/May 20, 2024.md",
@@ -207,7 +216,6 @@
     "YouTube Content Creation",
     "daily/May 8, 2024.md",
     "AMUEE/Syllabus.md",
-    "daily/May 4, 2024.md",
     "AMUEE",
     "media/Schedule.png",
     "Schedule.canvas",
