@@ -5,9 +5,8 @@ The best way is to make use of their data from https://data.gov.in or to organiz
 
 Ask if u could get govt/community funds for the projects that might be useful for future etc
 
-https://github.com/jdorfman/awesome-json-datasets
 
-Use these Datasets to see which apps can be made
+Use these [JSON datasets](https://github.com/jdorfman/awesome-json-datasets) to see which apps can be made
 
 Use the Indian Govt data to create datasets like these 
 
