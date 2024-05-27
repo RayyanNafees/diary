@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z- EliteClub/Projects/Course Evalaution.md",
+                "file": "z- EliteClub/Projects/Clothing Store.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z- EliteClub/Projects/Course Evalaution.md"
+                "file": "z- EliteClub/Projects/Clothing Store.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z- EliteClub/Projects/Course Evalaution.md",
+                "file": "z- EliteClub/Projects/Clothing Store.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,14 +143,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z- EliteClub/Projects/Course Evalaution.md",
+                "file": "z- EliteClub/Projects/Clothing Store.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -170,10 +170,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8c201175c811828d",
+  "active": "508f970b196981b3",
   "lastOpenFiles": [
-    "z- EliteClub/Projects/Clothing Store.md",
     "z- EliteClub/Projects/Course Evalaution.md",
+    "z- EliteClub/Projects/Clothing Store.md",
     "z- EliteClub/Projects/Khizr AI model.md",
     "z- EliteClub/Projects/Redesigning Quran sites.md",
     "z- EliteClub/Projects/Local Infra.md",
