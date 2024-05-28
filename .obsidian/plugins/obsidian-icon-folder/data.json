@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FiHeadphones",
       "🏝",
       "LiCodeXml",
       "LiNotebook",
-      "SiRemix",
-      "BoBxEditAlt"
+      "SiRemix"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,6 @@
   "template files": "LiBraces",
   "README.md": "LiInfo",
   "z- EliteClub/Coding Roadmap.md": "LiCodeXml",
-  "z- EliteClub/Projects/Redesigning Quran sites.md": "🏝"
+  "z- EliteClub/Projects/Redesigning Quran sites.md": "🏝",
+  "z- EliteClub/Projects/Halalify.md": "FiHeadphones"
 }
