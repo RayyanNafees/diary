@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiWandSparkles",
       "FiHeadphones",
       "🏝",
       "LiCodeXml",
-      "LiNotebook",
-      "SiRemix"
+      "LiNotebook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,6 +39,7 @@
   "template files": "LiBraces",
   "README.md": "LiInfo",
   "z- EliteClub/Coding Roadmap.md": "LiCodeXml",
-  "z- EliteClub/Projects/Redesigning Quran sites.md": "🏝",
-  "z- EliteClub/Projects/Halalify.md": "FiHeadphones"
+  "z- EliteClub/Projects/Halalify.md": "FiHeadphones",
+  "z- EliteClub/Redesigning Commercial Apps.md": "LiWandSparkles",
+  "z- EliteClub/Redesigning Quran sites.md": "🏝"
 }

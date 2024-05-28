@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z- EliteClub/Projects/Halalify.md",
+                "file": "z- EliteClub/Redesigning Commercial Apps.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z- EliteClub/Projects/Halalify.md"
+                "file": "z- EliteClub/Redesigning Commercial Apps.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z- EliteClub/Projects/Halalify.md",
+                "file": "z- EliteClub/Redesigning Commercial Apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z- EliteClub/Projects/Halalify.md",
+                "file": "z- EliteClub/Redesigning Commercial Apps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,14 +178,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8c201175c811828d",
+  "active": "3e31f9fe3f64c671",
   "lastOpenFiles": [
-    "daily/May 28, 2024.md",
     "z- EliteClub/Projects/Halalify.md",
+    "z- EliteClub/Redesigning Commercial Apps.md",
+    "daily/May 28, 2024.md",
     "z- EliteClub/Projects/DBaaS.md",
     "z- EliteClub/Projects/Govt Websites (hackathon & apps).md",
     "z- EliteClub/Projects/Actix Dataset Server.md",
-    "z- EliteClub/Projects/Redesigning Quran sites.md",
+    "z- EliteClub/Redesigning Quran sites.md",
     "z- EliteClub/Projects/Local Infra.md",
     "z- EliteClub/Projects/AMU Deen App.md",
     "z- EliteClub/Projects/AMU Dining.md",
@@ -209,7 +210,6 @@
     "daily/May 17, 2024.md",
     "media/Pasted image 20240517211049.png",
     "media/Pasted image 20240517210852.png",
-    "AMUEE/Study Notes.md",
     "Untitled",
     "media/Pasted image 20240516200549.png",
     "YouTube Content Creation/EliteClub AMU",
