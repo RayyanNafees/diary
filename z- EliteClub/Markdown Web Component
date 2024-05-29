@@ -1,0 +1,6 @@
+
+A web component based on lit.dev o create the functionality similar to this
+
+https://github.com/MarketingPipeline/Markdown-Tag
+
+i.e, rendering markdown to HTML in fastest possible manner... benchamrk with WASM to see if it improves rendering speed
