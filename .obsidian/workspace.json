@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z- EliteClub/Backend Development.md",
+                "file": "z- EliteClub/Elite Store Products.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z- EliteClub/Backend Development.md"
+                "file": "z- EliteClub/Elite Store Products.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z- EliteClub/Backend Development.md",
+                "file": "z- EliteClub/Elite Store Products.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z- EliteClub/Backend Development.md",
+                "file": "z- EliteClub/Elite Store Products.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,8 +180,9 @@
   },
   "active": "8c201175c811828d",
   "lastOpenFiles": [
-    "z- EliteClub/Side Hustles.md",
     "z- EliteClub/Backend Development.md",
+    "z- EliteClub/Elite Store Products.md",
+    "z- EliteClub/Side Hustles.md",
     "z- EliteClub/Subject Timelines.md",
     "z- EliteClub/Silent Teacher Apps.md",
     "daily/May 30, 2024.md",
@@ -210,7 +211,6 @@
     "z- EliteClub/Projects/Rijjaal app.md",
     "daily/May 25, 2024.md",
     "media/Pasted image 20240525230342.png",
-    "z- EliteClub/Coding Roadmap.md",
     "media/Pasted image 20240516200450.png",
     "media/Pasted image 20240517211049.png",
     "media/Pasted image 20240517210852.png",
