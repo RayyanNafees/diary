@@ -6,10 +6,10 @@ Teach students backend development in all the languages as they study especially
 - Python
 	- Fast-API
 	- Django 
-- JS
+- Bun.js
 	- Astro 
 	- Hono
-	- React-
+	- Expo (Solito)
 
 Plan a schedule for making them learn Backend Technologies based on [this roadmap](https://roadmap.sh/backend/project-ideas)
 - It's by roadmap.sh
