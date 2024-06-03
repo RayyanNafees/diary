@@ -4,6 +4,7 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "cross_mark",
     "arrow_right",
     "arrow_left",
     "four",
@@ -27,8 +28,7 @@
     "user",
     "cloud",
     "receipt",
-    "credit_card",
-    "festival"
+    "credit_card"
   ],
   "highlightMatches": true,
   "strictTrigger": true,
