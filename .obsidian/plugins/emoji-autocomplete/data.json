@@ -4,9 +4,10 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "arrow_right",
+    "arrow_left",
     "four",
     "two",
-    "arrow_right",
     "eyes",
     "time",
     "brain",
@@ -27,8 +28,7 @@
     "cloud",
     "receipt",
     "credit_card",
-    "festival",
-    "desktop_computer"
+    "festival"
   ],
   "highlightMatches": true,
   "strictTrigger": true,
