@@ -1,0 +1,1 @@
+# Taqwa - Qari + Hafiz + Arabic Molvi in 1 year grind

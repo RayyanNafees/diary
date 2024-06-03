@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "📿",
       "LiDatabase",
       "SiWindowsxp",
       "LiFan",
-      "🌐",
-      "💲"
+      "🌐"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -47,5 +47,6 @@
   "misc/Domains for Projects.md": "🌐",
   "z- EliteClub/Projects/Elite Drones.md": "LiFan",
   "z- EliteClub/Elite OS.md": "SiWindowsxp",
-  "misc/LiteBase - Pocketbase Alternative.md": "LiDatabase"
+  "misc/LiteBase - Pocketbase Alternative.md": "LiDatabase",
+  "z- EliteClub/Taqwa App.md": "📿"
 }
