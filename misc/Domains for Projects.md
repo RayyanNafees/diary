@@ -21,6 +21,7 @@
 	- billing.myamu.app
 	- api.myamu.app - for our public APIs 
 	- data.myamu.app - Our public Datasets
+	- cloud.myamu.app - AMUwide cloudservices (includes donations, student plans, )
 
 ## amu.wiki
 - Contains public wikis of students to make them build a habit of writing diary entries and articles & blogs
