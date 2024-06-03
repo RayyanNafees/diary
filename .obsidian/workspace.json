@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/Jun 3, 2024.md",
+                "file": "misc/LiteBase - Pocketbase Alternative.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/Jun 3, 2024.md"
+                "file": "misc/LiteBase - Pocketbase Alternative.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/Jun 3, 2024.md",
+                "file": "misc/LiteBase - Pocketbase Alternative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/Jun 3, 2024.md",
+                "file": "misc/LiteBase - Pocketbase Alternative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,12 +180,13 @@
   },
   "active": "8c201175c811828d",
   "lastOpenFiles": [
+    "daily/Jun 3, 2024.md",
+    "misc/LiteBase - Pocketbase Alternative.md",
     "misc/Where to spend your next Bucks.md",
     "z- EliteClub/Elite OS.md",
     "misc/Domains for Projects.md",
     "z- EliteClub/Projects/Elite Drones.md",
     "misc/Diary site Themes.md",
-    "daily/Jun 3, 2024.md",
     "daily/Jun 2, 2024.md",
     "z- EliteClub/Linux.md",
     "z- EliteClub/Elite Store Products.md",
@@ -209,7 +210,6 @@
     "z- EliteClub/Projects/Actix Dataset Server.md",
     "z- EliteClub/Redesigning Quran sites.md",
     "z- EliteClub/Projects/Local Infra.md",
-    "z- EliteClub/Projects/AMU Deen App.md",
     "media/Pasted image 20240525230342.png",
     "media/Pasted image 20240516200450.png",
     "media/Pasted image 20240517211049.png",
