@@ -5,4 +5,5 @@ When u receive money, here a few services to invest them on (prioritized in orde
 3. More RAM (16GB) for this desktop
 4. Google Play Store Account
 5. Open-AI API keys (GPT-4o)
-6. 
+6. Build your first manned-drone
+7. Buying Cloud GPUs at cheapest prices (Runem)
