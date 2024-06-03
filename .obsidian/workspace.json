@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Domains for Projects.md",
+                "file": "misc/Where to spend your next Bucks.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/Domains for Projects.md"
+                "file": "misc/Where to spend your next Bucks.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Domains for Projects.md",
+                "file": "misc/Where to spend your next Bucks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Domains for Projects.md",
+                "file": "misc/Where to spend your next Bucks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,9 +180,9 @@
   },
   "active": "8c201175c811828d",
   "lastOpenFiles": [
-    "misc/Where to spend your next Bucks.md",
-    "z- EliteClub/Projects/Elite Drones.md",
     "misc/Domains for Projects.md",
+    "z- EliteClub/Projects/Elite Drones.md",
+    "misc/Where to spend your next Bucks.md",
     "misc/Diary site Themes.md",
     "daily/Jun 3, 2024.md",
     "daily/Jun 2, 2024.md",
