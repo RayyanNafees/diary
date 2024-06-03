@@ -30,9 +30,9 @@ Included integrations
 
 ## Molviyat
 
-- Islamic Banking 
+- Islamic Banking
 -  Prophetic Medicine (need a doctor for that who has actually applied them)
-- Basic Shariya / Fiqh understanding 
+- Basic Shariya / Fiqh understanding
 ### Darul Uloom Online Integration
 - Redesign their website in Astro + Wordpress (suggest storyblok if they can use it)
 - Create Integrations for accessing their paid & free courses and streamline their degree programs
@@ -40,9 +40,9 @@ Included integrations
 - Make it easily accessible to students using websites and phones
 
 
-### Misc 
-- Islamic Games 
-- [[Khizr AI model]] 
+### Misc
+- Islamic Games
+- [[Khizr AI model]]
 - Datasets on Islamic Docs, Fatawa, Books, Records, Biographies of Sahaba, Isnad etc
 - Make all this material available as Podcasts with good Background Hymns & an addicting Male voice
 - AI bots for social media for implementing the deen
@@ -55,15 +55,14 @@ Included integrations
 - Registry of Closed Source Islamic Software to Create new Open Source  "inspired" from it with better SEO making them a stronger Alternative
 - Quran Translation, Hadith Translation, Sahaba QUotes as Podcasts with Background Nasheeds
 	- Project ZamZam
-	- Quran translated for all 
+	- Quran tafseers
 		- Qurtubi
-		
 		- Ibn Taymiyah
 		- Ibn Kathir
-		
+
 		- Molana Modudi
 		- Ashraf Ali Thanvi
 		- Israr Ahmed
-		
+
 		- Mohammad Ali Mirza
 		- Nauman Ali kahn

@@ -8,5 +8,7 @@
   "calendar",
   "settings-search",
   "cmdr",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-trim-whitespace",
+  "obsidian-linter"
 ]

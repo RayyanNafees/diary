@@ -166,6 +166,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-trim-whitespace:Trim whitespace": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "ribbon-divider:ribbon-divider-df5069dd-b0fb-4170-be28-01b8b246ab68": false,
