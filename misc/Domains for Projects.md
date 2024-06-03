@@ -42,6 +42,7 @@
 		- RainShield Drones
 		- Rainman Cloudseeding drone
 		- Cyborg Drone - Impossible (using real organism brain to train neural network and using his brain to guide the drone via organic neural networks)
+		- Viper Drone - Moves & behaves like a snake to skill them 
 		- 
 
 
