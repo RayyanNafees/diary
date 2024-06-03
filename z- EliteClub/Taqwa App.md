@@ -13,8 +13,8 @@ Included integrations
 	- ❌ A per-ayat similarity checker that tells which popular reciter style does yours match to
 
 ## Quran Hifz
-> 1 Juz/week  $=> 7*30 => 210 days$
-> $360-210=150 days$ for [[#Molviyat| Basic Molviyat]]
+> 1 Juz/week  => 730 => 210 days
+> 360-210=150 days for [[#Molviyat| Basic Molviyat]]
 - Hafiz teachers that would voluntarily help other muslims listening to their hifz sessions (ask your molana faraz etc)
 - Integrated Memory theory & Memory research papers, R&D on how to easily memorize quran
 - Psychological Approach to memorization
