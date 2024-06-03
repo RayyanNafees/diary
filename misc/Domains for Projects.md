@@ -21,7 +21,8 @@
 	- billing.myamu.app
 	- api.myamu.app - for our public APIs 
 	- data.myamu.app - Our public Datasets
-	- cloud.myamu.app - AMUwide cloudservices (includes donations, student plans, )
+	- cloud.myamu.app - AMUwide cloudservices (includes donations, student plans, and [[Local Infra]] )
+	- accounts.myamu.app - For easily managing student accounts for ZHCET institutional email, Clubs' domains & workspaces, OAuth to our services (TOTP stuff),  
 
 ## amu.wiki
 - Contains public wikis of students to make them build a habit of writing diary entries and articles & blogs
