@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiWindowsxp",
       "LiFan",
       "🌐",
       "💲",
-      "FabLinux",
-      "LiWandSparkles"
+      "FabLinux"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -45,5 +45,6 @@
   "z- EliteClub/Linux.md": "FabLinux",
   "misc/Where to spend your next Bucks.md": "💲",
   "misc/Domains for Projects.md": "🌐",
-  "z- EliteClub/Projects/Elite Drones.md": "LiFan"
+  "z- EliteClub/Projects/Elite Drones.md": "LiFan",
+  "z- EliteClub/Elite OS.md": "SiWindowsxp"
 }
