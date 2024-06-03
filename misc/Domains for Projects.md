@@ -41,7 +41,8 @@
 		- SunSheild Drones
 		- RainShield Drones
 		- Rainman Cloudseeding drone
-		- Cyborg Drone - Impossible, but 
+		- Cyborg Drone - Impossible (using real organism brain to train neural network and using his brain to guide the drone via organic neural networks)
+		- 
 
 
 ## amu.wiki
