@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFan",
       "🌐",
       "💲",
       "FabLinux",
-      "LiWandSparkles",
-      "FiHeadphones"
+      "LiWandSparkles"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -44,5 +44,6 @@
   "z- EliteClub/Redesigning Quran sites.md": "🏝",
   "z- EliteClub/Linux.md": "FabLinux",
   "misc/Where to spend your next Bucks.md": "💲",
-  "misc/Domains for Projects.md": "🌐"
+  "misc/Domains for Projects.md": "🌐",
+  "z- EliteClub/Projects/Elite Drones.md": "LiFan"
 }

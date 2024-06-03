@@ -34,16 +34,6 @@
 		- Showcases all our Products & Technologies and References to EliteTech
 		- All the Halal Apps & Bots built for social media apps
 	- drones.myamu.app
-		- Shows our various drone programs for various use cases
-		- Library Drones 
-		- Game 3D model enhancer drone
-		- Router Drones
-		- SunSheild Drones
-		- RainShield Drones
-		- Rainman Cloudseeding drone
-		- Cyborg Drone - Impossible (using real organism brain to train neural network and using his brain to guide the drone via organic neural networks)
-		- Viper Drone - Moves & behaves like a snake to skill them 
-		- 
 
 
 ## amu.wiki
