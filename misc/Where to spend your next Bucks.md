@@ -9,7 +9,6 @@ Purpose for now is to get money and buy these
 | 4.   | Battery & Charging Port Replacement                                                | 4k           |
 | 5.   | New Phone                                                                          | 20k          |
 | 6.   | Google Play Store Account                                                          | 2k           |
-| 7.   | Open-AI API keys (GPT-4o)                                                          |              |
-| 8.   | Build your first manned-drone                                                      |              |
-| 9.   | Buying Cloud GPUs at cheapest prices [replicate](https://replicate.com)            |              |
-| 10.  | Tab or eDrawing Pad                                                                |              |
+| 8.   | Build your first manned-drone                                                      | 5k           |
+| 9.   | Buying Cloud GPUs at cheapest prices [replicate](https://replicate.com)            | 1k           |
+| 10.  | Tab or eDrawing Pad                                                                | 10k          |
