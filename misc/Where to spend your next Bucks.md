@@ -1,7 +1,7 @@
 When u receive money, here a few services to invest them on (prioritized in order)
 Purpose for now is to get money and buy these
 
-# ₹ 60k
+# Total =  ₹ 60k
 
 
 | S.no | Items                                                                              | Prices (INR) |
@@ -15,5 +15,5 @@ Purpose for now is to get money and buy these
 | 8.   | Build your first manned-drone                                                      | 5k           |
 | 9.   | Buying Cloud GPUs at cheapest prices [replicate](https://replicate.com)            | 1k           |
 | 10.  | Tab or eDrawing Pad                                                                | 10k          |
-|      | Total                                                                              | 57k          |
+| 11.  | [[Domains for Projects]]                                                           |              |
 |      |                                                                                    |              |
