@@ -9,4 +9,8 @@ When u receive money, here a few services to invest them on (prioritized in orde
 7. Open-AI API keys (GPT-4o)
 8. Build your first manned-drone
 9. Buying Cloud GPUs at cheapest prices ([replicate](https://replicate.com))
-10. Tab or eDrawing Pag
+10. Tab or eDrawing Pad
+
+| S.no | Item | Prices |
+| ---- | ---- | ------ |
+|      |      |        |

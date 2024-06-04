@@ -103,16 +103,6 @@
             }
           },
           {
-            "id": "03a9ba225a59d1fe",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "misc/Where to spend your next Bucks.md"
-              }
-            }
-          },
-          {
             "id": "873a74090af3b429",
             "type": "leaf",
             "state": {
@@ -158,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
