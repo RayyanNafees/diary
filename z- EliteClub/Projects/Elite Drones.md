@@ -12,4 +12,4 @@ Shows our various drone programs for various use cases
 - 👁️Drone-Sense - AI based drones with sensitive sensors for protecting other drones, act as their eyes & ears for avoiding attacks
 - 🪒Mower Drones - For lawn mowing & tree management, also for scaring away dogs & monkeys
 
-Copy the workings of [Nerf Guns](https://youtube.com/shorts/iDLAp6pRCao?si=dhzWTTYIcJ4EX46I) & Water Guns or even SpaceX flame thrower and use them in the drones
+Copy the workings of [Nerf Guns](https://youtube.com/shorts/iDLAp6pRCao?si=dhzWTTYIcJ4EX46I) & Water Guns or even SpaceX flame thrower and see if they can be used in the drones, just... for educational purpose
