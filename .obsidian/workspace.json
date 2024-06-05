@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Easy Open Source.md",
+                "file": "daily/Jun 5, 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Easy Open Source.md",
+                "file": "daily/Jun 5, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Easy Open Source.md",
+                "file": "daily/Jun 5, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,8 +180,9 @@
   },
   "active": "8c201175c811828d",
   "lastOpenFiles": [
-    "misc/Where to spend your next Bucks.md",
     "misc/Easy Open Source.md",
+    "daily/Jun 5, 2024.md",
+    "misc/Where to spend your next Bucks.md",
     "misc/PowerToys Run Directory.md",
     "misc/LiteBase - Pocketbase Alternative.md",
     "z- EliteClub/Elite OS.md",
@@ -205,7 +206,6 @@
     "misc/Diary site Themes.md",
     "z- EliteClub/Linux.md",
     "z- EliteClub/Elite Store Products.md",
-    "z- EliteClub/Backend Development.md",
     "canvas",
     "media/Pasted image 20240530131124.png",
     "media/Pasted image 20240530131134.png",
