@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/Jun 8, 2024.md",
+                "file": "misc/Where to spend your next Bucks.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/Jun 8, 2024.md",
+                "file": "misc/Where to spend your next Bucks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/Jun 8, 2024.md",
+                "file": "misc/Where to spend your next Bucks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,10 +163,10 @@
   },
   "active": "8c201175c811828d",
   "lastOpenFiles": [
+    "daily/Jun 8, 2024.md",
     "z- EliteClub/Projects/DBaaS.md",
     "z- EliteClub/Projects/Phone Projector.md",
     "misc/RayCam PWA.md",
-    "daily/Jun 8, 2024.md",
     "misc/ShareDown.md",
     "misc/Where to spend your next Bucks.md",
     "z- EliteClub/Coding Roadmap.md",

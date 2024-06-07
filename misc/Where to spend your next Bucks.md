@@ -16,4 +16,5 @@ Purpose for now is to get money and buy these
 | 9.   | Buying Cloud GPUs at cheapest prices [replicate](https://replicate.com)            | 1k           |
 | 10.  | Tab or eDrawing Pad                                                                | 10k          |
 | 11.  | [[Domains for Projects]]                                                           |              |
+| 12.  | Hetzner \| Coolify                                                                 | 500          |
 |      |                                                                                    |              |
