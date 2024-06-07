@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FiShare2",
+      "📸",
       "SiAlfred",
       "📿",
-      "LiDatabase",
-      "SiWindowsxp",
-      "LiFan"
+      "LiDatabase"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -49,5 +49,7 @@
   "misc/LiteBase - Pocketbase Alternative.md": "LiDatabase",
   "z- EliteClub/Taqwa App.md": "📿",
   "misc/PowerToys Run Directory.md": "SiAlfred",
-  "z- EliteClub/Elite OS.md": "SiWindowsxp"
+  "z- EliteClub/Elite OS.md": "SiWindowsxp",
+  "misc/RayCam.md": "📸",
+  "misc/ShareDown.md": "FiShare2"
 }
