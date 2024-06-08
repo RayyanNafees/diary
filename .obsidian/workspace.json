@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e4ed90047d0e7607",
+        "id": "9448d7f32dfbbe48",
         "type": "tabs",
         "children": [
           {
-            "id": "8c201175c811828d",
+            "id": "a6101c42d0e1cb1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/Jun 9, 2024.md",
+                "file": "z- EliteClub/Ship Products Fast.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/Jun 9, 2024.md",
+                "file": "z- EliteClub/Ship Products Fast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/Jun 9, 2024.md",
+                "file": "z- EliteClub/Ship Products Fast.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,11 +162,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8c201175c811828d",
+  "active": "a6101c42d0e1cb1f",
   "lastOpenFiles": [
-    "z- EliteClub/Projects/Feature & product voting platform.md",
     "daily/Jun 9, 2024.md",
-    "z- EliteClub/Ship Produtcs Fast.md",
+    "z- EliteClub/Ship Products Fast.md",
+    "z- EliteClub/Projects/Feature & product voting platform.md",
     "misc/Never use these services.md",
     "z- EliteClub/Managing Software Projects.md",
     "daily/Jun 8, 2024.md",

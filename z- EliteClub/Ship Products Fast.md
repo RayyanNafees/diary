@@ -1,3 +1,5 @@
+Start with no-user mindset
+think no one will use and just hack your way in making stuff up
 
 In order to think about the project and itereate on it, the first thing u should do on getting the idea is to design the MVP and give it to test users & then iterate on the real project based on the feedback
 
