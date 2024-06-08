@@ -3,6 +3,8 @@ In order to think about the project and itereate on it, the first thing u should
 
 Will really help u to tell if u should continue investing time in this and is it really that useful that all the efforts would be worth it
 
+[5 SaaS projects to get started in to time](https://youtu.be/NTBeJjqf_IA?si=R6Min5WsFf-Hk9dJ)
+
 [5 No-Code tools](https://youtu.be/NXUkC8swWls?si=usHs68CfsSM7BDeF)
 - Relume
 	- Build Design with AI and other tools
