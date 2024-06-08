@@ -34,7 +34,6 @@
   "articles": "BoBxEditAlt",
   "daily": "LiCalendar",
   "cli": "BoBxTerminal",
-  "media": "LiImageUp",
   "misc": "LiSparkles",
   "template files": "LiBraces",
   "README.md": "LiInfo",
@@ -53,5 +52,6 @@
   "misc/ShareDown.md": "FiShare2",
   "misc/RayCam PWA.md": "📸",
   "misc/Diary site Themes.md": "🔖",
-  "misc/Easy Open Source.md": "SiGithub"
+  "misc/Easy Open Source.md": "SiGithub",
+  "media": "LiImageUp"
 }

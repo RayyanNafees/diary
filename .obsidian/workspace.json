@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z- EliteClub/Managing Software Projects.md",
+                "file": "misc/Never use these services.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z- EliteClub/Managing Software Projects.md",
+                "file": "misc/Never use these services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z- EliteClub/Managing Software Projects.md",
+                "file": "misc/Never use these services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,8 +164,10 @@
   },
   "active": "8c201175c811828d",
   "lastOpenFiles": [
-    "daily/Jun 8, 2024.md",
+    "z- EliteClub/MVP no-codes.md",
+    "misc/Never use these services.md",
     "z- EliteClub/Managing Software Projects.md",
+    "daily/Jun 8, 2024.md",
     "daily/Jun 7, 2024.md",
     "misc/Diary site Themes.md",
     "misc/Easy Open Source.md",
@@ -188,8 +190,6 @@
     "misc/LiteBase - Pocketbase Alternative.md",
     "daily/Jun 4, 2024.md",
     "daily/Jun 3, 2024.md",
-    "z- EliteClub/Taqwa App.md",
-    "daily/Jun 2, 2024.md",
     "canvas",
     "media/Pasted image 20240530131124.png",
     "media/Pasted image 20240530131134.png",
