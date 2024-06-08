@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Where to spend your next Bucks.md",
+                "file": "daily/Jun 8, 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Where to spend your next Bucks.md",
+                "file": "daily/Jun 8, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Where to spend your next Bucks.md",
+                "file": "daily/Jun 8, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -163,16 +164,18 @@
   },
   "active": "8c201175c811828d",
   "lastOpenFiles": [
+    "daily/Jun 7, 2024.md",
     "daily/Jun 8, 2024.md",
+    "misc/Diary site Themes.md",
+    "misc/Easy Open Source.md",
+    "articles/Why Remix.md",
+    "misc/Where to spend your next Bucks.md",
     "z- EliteClub/Projects/DBaaS.md",
     "z- EliteClub/Projects/Phone Projector.md",
     "misc/RayCam PWA.md",
     "misc/ShareDown.md",
-    "misc/Where to spend your next Bucks.md",
     "z- EliteClub/Coding Roadmap.md",
-    "misc/Easy Open Source.md",
     "z- EliteClub/100+ project ideas from buildspace.co.md",
-    "daily/Jun 7, 2024.md",
     "AMUEE/Syllabus.md",
     "AMUEE/Study Notes.md",
     "z- EliteClub/Elite OS.md",
@@ -182,13 +185,11 @@
     "misc/Domains for Projects.md",
     "misc/PowerToys Run Directory.md",
     "misc/LiteBase - Pocketbase Alternative.md",
-    "misc/Why Remix.md",
     "daily/Jun 4, 2024.md",
     "daily/Jun 3, 2024.md",
     "z- EliteClub/Taqwa App.md",
     "daily/Jun 2, 2024.md",
     "daily/May 8, 2024.md",
-    "daily/May 10, 2024.md",
     "canvas",
     "media/Pasted image 20240530131124.png",
     "media/Pasted image 20240530131134.png",
