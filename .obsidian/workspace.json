@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z- EliteClub/Ship Products Fast.md",
+                "file": "misc/Never use these services.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z- EliteClub/Ship Products Fast.md",
+                "file": "misc/Never use these services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z- EliteClub/Ship Products Fast.md",
+                "file": "misc/Never use these services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5
+    "width": 355.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,8 +165,9 @@
   },
   "active": "a6101c42d0e1cb1f",
   "lastOpenFiles": [
-    "daily/Jun 9, 2024.md",
+    "daily/Jun 11, 2024.md",
     "z- EliteClub/Ship Products Fast.md",
+    "daily/Jun 9, 2024.md",
     "z- EliteClub/Projects/Feature & product voting platform.md",
     "misc/Never use these services.md",
     "z- EliteClub/Managing Software Projects.md",
@@ -189,7 +191,6 @@
     "daily/Jun 5, 2024.md",
     "misc/Domains for Projects.md",
     "misc/PowerToys Run Directory.md",
-    "misc/LiteBase - Pocketbase Alternative.md",
     "canvas",
     "media/Pasted image 20240530131124.png",
     "media/Pasted image 20240530131134.png",
