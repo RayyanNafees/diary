@@ -1,8 +1,3 @@
-# June Schedule
-
-## - Week 1 
-waste
-
 ## - Week 2
 - ✅ Complete Juz 28
 - 🧠 Revise Juz 30
@@ -27,7 +22,7 @@ waste
 
 ## Daily Goals
 - Look for Job, Unbox etc
-- Describe all the [[Projects Planned]] in github org README 
+- Describe all the [[Projects Planned]] in github org README
 - Work for Elite [[Club Todos]] , get connections, ready students
 - Work on AstroCHAD & Pocketbased channels
 - Work on Muneer's Idea

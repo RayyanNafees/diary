@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Never use these services.md",
+                "file": "June Schedule.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Never use these services.md",
+                "file": "June Schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Never use these services.md",
+                "file": "June Schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,16 +163,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a6101c42d0e1cb1f",
+  "active": "3e31f9fe3f64c671",
   "lastOpenFiles": [
-    "daily/Jun 11, 2024.md",
-    "z- EliteClub/Ship Products Fast.md",
-    "daily/Jun 9, 2024.md",
-    "z- EliteClub/Projects/Feature & product voting platform.md",
-    "misc/Never use these services.md",
-    "z- EliteClub/Managing Software Projects.md",
-    "daily/Jun 8, 2024.md",
+    "daily/Jun 4, 2024.md",
+    "daily/Jun 5, 2024.md",
     "daily/Jun 7, 2024.md",
+    "daily/Jun 8, 2024.md",
+    "daily/Jun 9, 2024.md",
+    "daily/Jun 11, 2024.md",
+    "z- EliteClub/Redesigning Quran sites.md",
+    "z- EliteClub/Taqwa App.md",
+    "misc/Never use these services.md",
+    "z- EliteClub/Ship Products Fast.md",
+    "z- EliteClub/Projects/Feature & product voting platform.md",
+    "z- EliteClub/Managing Software Projects.md",
     "misc/Diary site Themes.md",
     "misc/Easy Open Source.md",
     "articles/Why Remix.md",
@@ -187,10 +191,6 @@
     "AMUEE/Study Notes.md",
     "z- EliteClub/Elite OS.md",
     "z- EliteClub/Club Todos.md",
-    "z- EliteClub/Projects/Elite Drones.md",
-    "daily/Jun 5, 2024.md",
-    "misc/Domains for Projects.md",
-    "misc/PowerToys Run Directory.md",
     "canvas",
     "media/Pasted image 20240530131124.png",
     "media/Pasted image 20240530131134.png",
