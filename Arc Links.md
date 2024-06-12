@@ -107,6 +107,15 @@ https://socialscreenshots.com/editor
 
 https://app.aidbase.ai/sources?ws=e757a50c-c643-4e3c-bd39-ff1cfb3e87d3
 
-
-```p
+### Arc recovery packet
+```
+################################################################################
+#                             ARC RECOVERY PACKET                              #
+#                              -- Confidential --                              #
+################################################################################
+#        ACCOUNT:                              nafees.rayyan@gmail.com         #
+#        RECOVERY PHRASE: V66Cs9oTvinqqRU9sy/HH0rPkt1EZ8Gv+HkF4oM0fno=         #
+################################################################################
+#                                   arc.net                                    #
+################################################################################
 ```
