@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "June Schedule.md",
+                "file": "daily/Jun 12, 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c5196e4b413bb38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arc Links.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "June Schedule.md",
+                "file": "Arc Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "June Schedule.md",
+                "file": "Arc Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,8 +176,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3e31f9fe3f64c671",
+  "active": "6c5196e4b413bb38",
   "lastOpenFiles": [
+    "daily/Jun 12, 2024.md",
+    "Arc Links.md",
+    "June Schedule.md",
     "daily/Jun 4, 2024.md",
     "daily/Jun 5, 2024.md",
     "daily/Jun 7, 2024.md",
@@ -188,9 +204,6 @@
     "z- EliteClub/Coding Roadmap.md",
     "z- EliteClub/100+ project ideas from buildspace.co.md",
     "AMUEE/Syllabus.md",
-    "AMUEE/Study Notes.md",
-    "z- EliteClub/Elite OS.md",
-    "z- EliteClub/Club Todos.md",
     "canvas",
     "media/Pasted image 20240530131124.png",
     "media/Pasted image 20240530131134.png",
