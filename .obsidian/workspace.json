@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To Do steps.md",
+                "file": "daily/Jun 14, 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do steps.md",
+                "file": "daily/Jun 14, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To Do steps.md",
+                "file": "daily/Jun 14, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,8 +178,8 @@
   },
   "active": "5e80269192245b1b",
   "lastOpenFiles": [
-    "daily/May 30, 2024.md",
     "To Do steps.md",
+    "daily/May 30, 2024.md",
     "daily/README.md",
     "daily/May 28, 2024.md",
     "daily/May 29, 2024.md",
