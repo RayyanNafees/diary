@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5e80269192245b1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To Do steps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/May 30, 2024.md",
+                "file": "To Do steps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/May 30, 2024.md",
+                "file": "To Do steps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,10 +176,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c5196e4b413bb38",
+  "active": "5e80269192245b1b",
   "lastOpenFiles": [
-    "daily/README.md",
     "daily/May 30, 2024.md",
+    "To Do steps.md",
+    "daily/README.md",
     "daily/May 28, 2024.md",
     "daily/May 29, 2024.md",
     "daily/May 25, 2024.md",
@@ -190,7 +204,6 @@
     "daily/Jun 2, 2024.md",
     "daily/Jun 4, 2024.md",
     "daily/Jun 8, 2024.md",
-    "daily/Jun 13, 2024.md",
     "canvas",
     "media/Pasted image 20240530131124.png",
     "media/Pasted image 20240530131134.png",
