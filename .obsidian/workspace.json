@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z- EliteClub/Side Hustles.md",
+                "file": "daily/Jun 15, 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z- EliteClub/Side Hustles.md",
+                "file": "daily/Jun 15, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z- EliteClub/Side Hustles.md",
+                "file": "daily/Jun 15, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z- EliteClub/Side Hustles.md"
+                "file": "daily/Jun 15, 2024.md"
               }
             }
           },
@@ -156,6 +156,14 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "b51cddb4d0c46455",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 6
@@ -184,6 +192,8 @@
   },
   "active": "17fa94d582197279",
   "lastOpenFiles": [
+    "z- EliteClub/Side Hustles.md",
+    "daily/Jun 15, 2024.md",
     "articles/Why Remix.md",
     "media/Recording 20240615013330.webm",
     "daily/May 30, 2024.md",
@@ -194,7 +204,6 @@
     "media/448360123_970885227868195_3651311734176739597_n.gif",
     "z- EliteClub/Silent Teaching Apps.md",
     "z- EliteClub/Coding Practice Site.md",
-    "z- EliteClub/Side Hustles.md",
     "z- EliteClub/Ship Products Fast.md",
     "z- EliteClub/Redesigning Quran sites.md",
     "z- EliteClub/Redesigning Commercial Apps.md",
@@ -212,7 +221,6 @@
     "To Do steps.md",
     "daily/README.md",
     "daily/May 28, 2024.md",
-    "daily/May 29, 2024.md",
     "canvas",
     "media/Pasted image 20240530131124.png",
     "media/Pasted image 20240530131134.png",
