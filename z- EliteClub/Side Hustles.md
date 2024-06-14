@@ -1,1 +1,1 @@
-https://dev.to/lilxyzz/side-hustle-ideas-for-developers-in-2024-jh5
+[Side Hustle Ideas for developers](https://dev.to/lilxyzz/side-hustle-ideas-for-developers-in-2024-jh5)

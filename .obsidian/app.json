@@ -8,5 +8,8 @@
     "Vercel",
     "Vercel",
     "Maintai"
-  ]
+  ],
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "media"
 }

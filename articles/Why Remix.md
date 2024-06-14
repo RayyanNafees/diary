@@ -1,3 +1,4 @@
+
 in order to create MERN stack apps, there's no better option than to use remix if u are planning on doing SSR
 
 SSR in React is a problem developers have been facing since the dawn of React. MERN stack apps were never meant to be rendered server side… But instead, Client Side routing with build output rendered as static HTML pages & express used as a REST API server was the conventional strategy.
@@ -18,11 +19,11 @@ In the current model even I, the guy who handles the SSR is afraid to touch anyt
 
 With such a mindset, there is 0 possibility that any customization related to rendering on the client might be extended or utilized by us by tweaking the current SSR strategy
 
-We need a better model that requires the least changes in our codebase while giving us an easier & customizable  SSR strategy 
+We need a better model that requires the least changes in our codebase while giving us an easier & customizable  SSR strategy
 And also enables us to find help online at GitHub Issues or Stack Overflow forums in case something goes wrong, and we are stuck with no clue — Something, that is impossible to get if u create your custom functionality for SSR
 ## Introducing Remix
 
-Remix is just a Vite plugin is created by the developers behind the popular library for handling Client Side Routing `react-router` 
+Remix is just a Vite plugin is created by the developers behind the popular library for handling Client Side Routing `react-router`
 
 It really eases up the way SSR is handled in MERN stack apps without adding significant complexity that meta frameworks like Next.js come along with
 
@@ -32,6 +33,6 @@ Here I have ported the project to Remix & it simplified the project by a lot
 The only difference is that `client` folder is now just renamed to `app` and everything works as it was
 
 While it may seem that since the current code works with the current model & the same code works with remix so there is no need of adding additional complexity of Remix
-Well, "additional complexity" was added the moment we decided doing SSR ourselves, remix only handles that for us. 
+Well, "additional complexity" was added the moment we decided doing SSR ourselves, remix only handles that for us.
 
 The important thing to consider is not only that it worked with no changes required to our codebase.. But the fact that remix does provide us a path to avoid the potential risks easily that may come along the way during the development process of this project with its great community resources and wide adoption by the industry
