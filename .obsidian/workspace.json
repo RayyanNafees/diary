@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a6101c42d0e1cb1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/Jun 12, 2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6c5196e4b413bb38",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,17 +165,17 @@
   },
   "active": "6c5196e4b413bb38",
   "lastOpenFiles": [
-    "daily/Jun 13, 2024.md",
+    "daily/Jun 9, 2024.md",
     "daily/Jun 14, 2024.md",
+    "daily/Jun 11, 2024.md",
+    "daily/Jun 12, 2024.md",
+    "daily/Jun 13, 2024.md",
     "June Schedule.md",
     "Arc Links.md",
-    "daily/Jun 12, 2024.md",
     "daily/Jun 4, 2024.md",
     "daily/Jun 5, 2024.md",
     "daily/Jun 7, 2024.md",
     "daily/Jun 8, 2024.md",
-    "daily/Jun 9, 2024.md",
-    "daily/Jun 11, 2024.md",
     "z- EliteClub/Redesigning Quran sites.md",
     "z- EliteClub/Taqwa App.md",
     "misc/Never use these services.md",
