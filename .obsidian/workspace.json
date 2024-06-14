@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/Jun 14, 2024.md",
+                "file": "z- EliteClub/Projects/AMU calendar.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/Jun 14, 2024.md",
+                "file": "z- EliteClub/Projects/AMU calendar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/Jun 14, 2024.md",
+                "file": "z- EliteClub/Projects/AMU calendar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,10 +176,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5e80269192245b1b",
+  "active": "3e31f9fe3f64c671",
   "lastOpenFiles": [
-    "Pasted image 20240614184319.png",
-    "448360123_970885227868195_3651311734176739597_n.gif",
+    "daily/Jun 14, 2024.md",
+    "z- EliteClub/Projects/AMU calendar.md",
+    "daily/Jun 13, 2024.md",
+    "media/Pasted image 20240614184319.png",
+    "media/448360123_970885227868195_3651311734176739597_n.gif",
     "z- EliteClub/Silent Teaching Apps.md",
     "z- EliteClub/Coding Practice Site.md",
     "z- EliteClub/Side Hustles.md",
@@ -197,14 +200,12 @@
     "z- EliteClub/Club Schedule.md",
     "z- EliteClub/100+ project ideas from buildspace.co.md",
     "z- EliteClub/Backend Development.md",
-    "daily/Jun 14, 2024.md",
     "To Do steps.md",
     "daily/May 30, 2024.md",
     "daily/README.md",
     "daily/May 28, 2024.md",
     "daily/May 29, 2024.md",
     "daily/May 25, 2024.md",
-    "daily/May 27, 2024.md",
     "canvas",
     "media/Pasted image 20240530131124.png",
     "media/Pasted image 20240530131134.png",
@@ -221,7 +222,6 @@
     "AMUEE",
     "media/Schedule.png",
     "canvas/Schedule.canvas",
-    "media/Pasted image 20240502074521.png",
     "z- EliteClub/Projects",
     "z- EliteClub",
     "misc"
