@@ -1,10 +1,11 @@
 
 Teach students backend development in all the languages as they study especially in 3
-- Golang 
-	- Go Fiber
+- Golang
+	- Go Chi
+	- Go Fibre
 	- Go Echo (with Pocketbase)
-- Bun.js
-	- Astro 
+- Bun/Deno/Cloudflare
+	- Astro
 	- Hono
 	- Expo (Solito)
 - Rust
