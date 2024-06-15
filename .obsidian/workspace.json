@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/Jun 15, 2024.md",
+                "file": "Arc Links.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/Jun 15, 2024.md",
+                "file": "Arc Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/Jun 15, 2024.md",
+                "file": "Arc Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/Jun 15, 2024.md"
+                "file": "Arc Links.md"
               }
             }
           },
@@ -192,8 +192,8 @@
   },
   "active": "17fa94d582197279",
   "lastOpenFiles": [
-    "z- EliteClub/Side Hustles.md",
     "daily/Jun 15, 2024.md",
+    "z- EliteClub/Side Hustles.md",
     "articles/Why Remix.md",
     "media/Recording 20240615013330.webm",
     "daily/May 30, 2024.md",

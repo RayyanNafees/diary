@@ -43,6 +43,10 @@ https://www.youtube.com/shorts/cha5I-mhzZs
 https://www.youtube.com/shorts/z39Qb49uDTA
 https://www.youtube.com/shorts/dZN0r905YSM
 
+## Muslim Estic
+- [Asbaab is important](https://youtube.com/shorts/CpHucGvO4Ws?si=CE3GSAh008cWuEIg)
+- [Tariq-e-Quran](https://youtube.com/shorts/uW0b5vM_nwk?si=uM6R6s9LEAaUToDr)
+
 ### Development
 https://www.youtube.com/watch?v=ruW2omT88c4
 https://www.youtube.com/shorts/Hr2gcJv3YSI
