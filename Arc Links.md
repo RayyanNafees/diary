@@ -46,6 +46,7 @@ https://www.youtube.com/shorts/dZN0r905YSM
 ## Muslim Estic
 - [Asbaab is important](https://youtube.com/shorts/CpHucGvO4Ws?si=CE3GSAh008cWuEIg)
 - [Tariq-e-Quran](https://youtube.com/shorts/uW0b5vM_nwk?si=uM6R6s9LEAaUToDr)
+- [Neither your blood comes to us nor your sacrifice](https://youtube.com/shorts/gI7w8R8WCbs?si=4yiLsVb8w-Xpn_r7)
 
 ### Development
 https://www.youtube.com/watch?v=ruW2omT88c4
