@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Postgres Stack.md",
+                "file": "misc/better htmx.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Postgres Stack.md",
+                "file": "misc/better htmx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Postgres Stack.md",
+                "file": "misc/better htmx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/Postgres Stack.md"
+                "file": "misc/better htmx.md"
               }
             }
           },
@@ -192,8 +192,9 @@
   },
   "active": "17fa94d582197279",
   "lastOpenFiles": [
-    "daily/Jun 17, 2024.md",
     "misc/Postgres Stack.md",
+    "misc/better htmx.md",
+    "daily/Jun 17, 2024.md",
     "daily/Jun 15, 2024.md",
     "Arc Links.md",
     "daily/Jun 14, 2024.md",
@@ -220,7 +221,6 @@
     "z- EliteClub/Club Todos.md",
     "z- EliteClub/Club Schedule.md",
     "z- EliteClub/100+ project ideas from buildspace.co.md",
-    "z- EliteClub/Backend Development.md",
     "canvas",
     "media/Pasted image 20240530131124.png",
     "media/Pasted image 20240530131134.png",
