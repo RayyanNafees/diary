@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/better htmx.md",
+                "file": "misc/Easier APIs at cheaper rates.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/better htmx.md",
+                "file": "misc/Easier APIs at cheaper rates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/better htmx.md",
+                "file": "misc/Easier APIs at cheaper rates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/better htmx.md"
+                "file": "misc/Easier APIs at cheaper rates.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -192,12 +192,13 @@
   },
   "active": "17fa94d582197279",
   "lastOpenFiles": [
-    "misc/Postgres Stack.md",
-    "misc/better htmx.md",
     "daily/Jun 17, 2024.md",
-    "daily/Jun 15, 2024.md",
-    "Arc Links.md",
+    "misc/Easier APIs at cheaper rates.md",
     "daily/Jun 14, 2024.md",
+    "daily/Jun 15, 2024.md",
+    "misc/better htmx.md",
+    "misc/Postgres Stack.md",
+    "Arc Links.md",
     "daily/Jun 13, 2024.md",
     "z- EliteClub/Side Hustles.md",
     "articles/Why Remix.md",
@@ -220,7 +221,6 @@
     "z- EliteClub/Coding Roadmap.md",
     "z- EliteClub/Club Todos.md",
     "z- EliteClub/Club Schedule.md",
-    "z- EliteClub/100+ project ideas from buildspace.co.md",
     "canvas",
     "media/Pasted image 20240530131124.png",
     "media/Pasted image 20240530131134.png",
