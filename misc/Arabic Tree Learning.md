@@ -1,4 +1,3 @@
-
 ## Features to Implement
 
 1. Library
@@ -21,3 +20,14 @@
 8. Chats & Doubts Forum
 	1. AI filter that filters out Arabic-related posts only
 	2. Members can report their post deletion for reviewing by Human Admins if it was relevant or not
+9. RAG trained on Arabic + Quranic Grammar resources
+10. Batch management
+11. Donation Management
+12. Ads + Marketing + Mail Campaigns
+13. Sales & Cost + Analytics
+14. Offline first notes in markdown
+15. Remake the UI design in tailwind for now
+16. WhatsApp Business CatalogIntegration
+17. Islamic Games
+18. Mobile App & UI
+19. Gender Mixing Over chat & other Fitna Protection rules
