@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z- EliteClub/Club Todos.md",
+                "file": "Monthly Goals/June Schedule.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7bd91a6eb7e1ae2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monthly Goals/Small yet important Goals.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z- EliteClub/Club Todos.md",
+                "file": "Monthly Goals/Small yet important Goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z- EliteClub/Club Todos.md",
+                "file": "Monthly Goals/Small yet important Goals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z- EliteClub/Club Todos.md"
+                "file": "Monthly Goals/Small yet important Goals.md"
               }
             }
           },
@@ -190,8 +203,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d3150cdb8cbbd337",
+  "active": "7bd91a6eb7e1ae2e",
   "lastOpenFiles": [
+    "Monthly Goals",
+    "Monthly Goals/June Schedule.md",
+    "Monthly Goals/Small yet important Goals.md",
+    "z- EliteClub/Club Todos.md",
     "z- EliteClub/Projects/AMU Dining.md",
     "YouTube Content Creation/Astro CHAD/Astro CHAT SSE.md",
     "YouTube Content Creation/Astro CHAD/Astro Zoom Clone.md",
@@ -216,10 +233,6 @@
     "z- EliteClub/Ideas Day.md",
     "z- EliteClub/Club Schedule.md",
     "articles/Why Remix.md",
-    "articles/todo - Remix & the Modern MERN stack.md",
-    "daily/Jun 14, 2024.md",
-    "misc/Easier APIs at cheaper rates.md",
-    "misc/better htmx.md",
     "media/Recording 20240615013330.webm",
     "media/Pasted image 20240614184319.png",
     "media/448360123_970885227868195_3651311734176739597_n.gif",
