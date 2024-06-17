@@ -8,8 +8,5 @@
 	- having College names, Engineering Branches, , Tech Quotes specific to those branches or meme slangs for ppl to proudly wear and diss others
 - Roboclub's personlised drones and machines for students to buy and use
 - Book Bundles at lower rates than book bank (Go to delhi) - One time buy no return
-- AMU modules
-	- Just like PW batch modules, make for AMU related content
-	- Take help from professors or seniors to jot them down together on Obsidian etc
-	- 
--
+- [[AMU modules]] for sale and early access
+- 
