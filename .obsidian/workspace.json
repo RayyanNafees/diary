@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z- EliteClub/Projects/Biggest Projects.md",
+                "file": "YouTube Content Creation/Pocketbased/HTMxChat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01fd6fc11f3d5e07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YouTube Content Creation/Pocketbased/HTMxChat.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z- EliteClub/Projects/Biggest Projects.md",
+                "file": "YouTube Content Creation/Pocketbased/HTMxChat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z- EliteClub/Projects/Biggest Projects.md",
+                "file": "YouTube Content Creation/Pocketbased/HTMxChat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z- EliteClub/Projects/Biggest Projects.md"
+                "file": "YouTube Content Creation/Pocketbased/HTMxChat.md"
               }
             }
           },
@@ -192,8 +204,11 @@
   },
   "active": "17fa94d582197279",
   "lastOpenFiles": [
+    "YouTube Content Creation/Pocketbased/Daisy Chat.md",
+    "YouTube Content Creation/Pocketbased/HTMxChat.md",
+    "z- EliteClub/Projects/20 Biggest Projects.md",
+    "YouTube Content Creation/Pocketbased",
     "z- EliteClub/Mentors.md",
-    "z- EliteClub/Projects/Biggest Projects.md",
     "z- EliteClub/Ideas Day.md",
     "z- EliteClub/Club Schedule.md",
     "daily/Jun 17, 2024.md",
@@ -219,8 +234,6 @@
     "z- EliteClub/Redesigning Commercial Apps.md",
     "z- EliteClub/Open Source Culture.md",
     "z- EliteClub/Managing Software Projects.md",
-    "z- EliteClub/Linux.md",
-    "z- EliteClub/Interview Prep.md",
     "canvas",
     "media/Pasted image 20240530131124.png",
     "media/Pasted image 20240530131134.png",
@@ -237,7 +250,6 @@
     "AMUEE",
     "media/Schedule.png",
     "canvas/Schedule.canvas",
-    "z- EliteClub/Projects",
-    "z- EliteClub"
+    "z- EliteClub/Projects"
   ]
 }
