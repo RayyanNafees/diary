@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7bd91a6eb7e1ae2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z- EliteClub/Projects/AMU Merchandise.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z- EliteClub/Projects/AMU Merchandise.md",
+                "file": "Monthly Goals/June Schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z- EliteClub/Projects/AMU Merchandise.md",
+                "file": "Monthly Goals/June Schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z- EliteClub/Projects/AMU Merchandise.md"
+                "file": "Monthly Goals/June Schedule.md"
               }
             }
           },
@@ -203,14 +190,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7bd91a6eb7e1ae2e",
+  "active": "d3150cdb8cbbd337",
   "lastOpenFiles": [
-    "z- EliteClub/Projects/AMU Modules.md",
-    "z- EliteClub/Projects/AMU Merchandise.md",
-    "z- EliteClub/Projects/AMU Accords.md",
-    "z- EliteClub/Projects/20 Biggest Projects.md",
-    "z- EliteClub/Projects/AMU Helpline.md",
     "Monthly Goals/Small yet important Goals.md",
+    "Arc Links.md",
+    "z- EliteClub/Projects/20 Biggest Projects.md",
+    "z- EliteClub/Projects/AMU Merchandise.md",
+    "z- EliteClub/Projects/AMU Modules.md",
+    "z- EliteClub/Projects/AMU Accords.md",
+    "z- EliteClub/Projects/AMU Helpline.md",
     "Monthly Goals",
     "Monthly Goals/June Schedule.md",
     "z- EliteClub/Club Todos.md",
@@ -233,7 +221,6 @@
     "YouTube Content Creation/Pocketbased/HTMxChat.md",
     "YouTube Content Creation/Pocketbased/Daisy Chat.md",
     "YouTube Content Creation/Pocketbased",
-    "z- EliteClub/Mentors.md",
     "media/Recording 20240615013330.webm",
     "media/Pasted image 20240614184319.png",
     "media/448360123_970885227868195_3651311734176739597_n.gif",
