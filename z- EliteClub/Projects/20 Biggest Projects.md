@@ -21,7 +21,7 @@ that means 1 project completion every 2 months (With success) since 2 months are
 	7. [[Stonks - Crypto Currency]] value & perks promotion
 6. [[Elite Drones]]
 7. AMU Sports & Gaming
-8. AMU Helpline
+8. [[AMU Helpline]]
 	1. Psychological
 	2. Voice changer
 	3. Anonymous mode
@@ -47,3 +47,6 @@ that means 1 project completion every 2 months (With success) since 2 months are
 	4. Molana Tariq Masood
 	5. Yasir Qadhi
 	6. Nauman Ali Khan
+21. [[AMU Merchandise]]
+	1. Our eCommerce store selling Elite Club products & the products made by other clubs for sale so students can benefit
+	2. Also sells Islamic shirts from the art of students from Arts college that are interested in deigns

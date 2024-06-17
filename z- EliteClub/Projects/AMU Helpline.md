@@ -1,0 +1,21 @@
+## Planned Features
+
+- Fully Anonymous Experience
+- Contains the numbers of all the userful emergency numbers & emergency centers
+	- fire department
+	- Police
+	- Govt Helpline
+	- Vice Chancelor
+	- Provost
+	- Hospital / Medicine store etc
+- Psychology Seniors interested in taking Couselling sessions (Fee/paid)
+	- Love counselling
+	- Psychiatrist doctorm @ JNMC
+	- Resolving Conflict
+	- Depression / Alone / Anxious
+	- needing a friend to talk to
+- Senios/Teachers that act as guides for volunteers for helping others can open their chats, if available online, u can chat them
+	- Chats are moderated for anonymous users
+	- Not allowed with opposite gender (check their GP)
+- Feeling lonely ? Talk to a friend who will be interested in listening to you (moderated)
+- Molvis/Jamatis for taking care of the brother and meeting him & giving him islamic guidance for feeling that way

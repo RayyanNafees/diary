@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly Goals/Small yet important Goals.md",
+                "file": "z- EliteClub/Projects/AMU Merchandise.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monthly Goals/Small yet important Goals.md",
+                "file": "z- EliteClub/Projects/AMU Merchandise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monthly Goals/Small yet important Goals.md",
+                "file": "z- EliteClub/Projects/AMU Merchandise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly Goals/Small yet important Goals.md"
+                "file": "z- EliteClub/Projects/AMU Merchandise.md"
               }
             }
           },
@@ -205,9 +205,12 @@
   },
   "active": "7bd91a6eb7e1ae2e",
   "lastOpenFiles": [
+    "z- EliteClub/Projects/20 Biggest Projects.md",
+    "z- EliteClub/Projects/AMU Merchandise.md",
+    "z- EliteClub/Projects/AMU Helpline.md",
+    "Monthly Goals/Small yet important Goals.md",
     "Monthly Goals",
     "Monthly Goals/June Schedule.md",
-    "Monthly Goals/Small yet important Goals.md",
     "z- EliteClub/Club Todos.md",
     "z- EliteClub/Projects/AMU Dining.md",
     "YouTube Content Creation/Astro CHAD/Astro CHAT SSE.md",
@@ -227,12 +230,10 @@
     "z- EliteClub/Projects/Untitled",
     "YouTube Content Creation/Pocketbased/HTMxChat.md",
     "YouTube Content Creation/Pocketbased/Daisy Chat.md",
-    "z- EliteClub/Projects/20 Biggest Projects.md",
     "YouTube Content Creation/Pocketbased",
     "z- EliteClub/Mentors.md",
     "z- EliteClub/Ideas Day.md",
     "z- EliteClub/Club Schedule.md",
-    "articles/Why Remix.md",
     "media/Recording 20240615013330.webm",
     "media/Pasted image 20240614184319.png",
     "media/448360123_970885227868195_3651311734176739597_n.gif",
@@ -249,7 +250,6 @@
     "YouTube Content Creation/Ryanlog",
     "YouTube Content Creation/Astro CHAD",
     "YouTube Content Creation",
-    "AMUEE",
     "media/Schedule.png",
     "canvas/Schedule.canvas"
   ]
