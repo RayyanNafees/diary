@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Easier APIs at cheaper rates.md",
+                "file": "daily/Jun 17, 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Easier APIs at cheaper rates.md",
+                "file": "daily/Jun 17, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Easier APIs at cheaper rates.md",
+                "file": "daily/Jun 17, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/Easier APIs at cheaper rates.md"
+                "file": "daily/Jun 17, 2024.md"
               }
             }
           },
@@ -192,9 +192,9 @@
   },
   "active": "17fa94d582197279",
   "lastOpenFiles": [
+    "daily/Jun 14, 2024.md",
     "daily/Jun 17, 2024.md",
     "misc/Easier APIs at cheaper rates.md",
-    "daily/Jun 14, 2024.md",
     "daily/Jun 15, 2024.md",
     "misc/better htmx.md",
     "misc/Postgres Stack.md",
