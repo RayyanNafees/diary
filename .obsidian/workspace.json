@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/Jun 17, 2024.md",
+                "file": "z- EliteClub/Elite Community.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/Jun 17, 2024.md",
+                "file": "z- EliteClub/Elite Community.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/Jun 17, 2024.md",
+                "file": "z- EliteClub/Elite Community.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/Jun 17, 2024.md"
+                "file": "z- EliteClub/Elite Community.md"
               }
             }
           },
@@ -192,8 +192,15 @@
   },
   "active": "d3150cdb8cbbd337",
   "lastOpenFiles": [
-    "misc/Whatsapp CMS.md",
     "misc/Arabic Tree Learning.md",
+    "z- EliteClub/Elite Community.md",
+    "z- EliteClub/Projects/AMU Courier.md",
+    "articles/Paper.wf - Fast Draft Blogging.md",
+    "misc/P3 stack.md",
+    "daily/Jun 15, 2024.md",
+    "z- EliteClub/Projects/Untitled",
+    "daily/Jun 17, 2024.md",
+    "misc/Whatsapp CMS.md",
     "z- EliteClub/Redesigning Quran sites.md",
     "YouTube Content Creation/Pocketbased/Pocketbase Auth Crash Course.md",
     "YouTube Content Creation/Astro CHAD/Astro Auth.md",
@@ -207,19 +214,13 @@
     "z- EliteClub/Mentors.md",
     "z- EliteClub/Ideas Day.md",
     "z- EliteClub/Club Schedule.md",
-    "daily/Jun 17, 2024.md",
-    "daily/Jun 15, 2024.md",
     "articles/Why Remix.md",
     "articles/todo - Remix & the Modern MERN stack.md",
     "daily/Jun 14, 2024.md",
     "misc/Easier APIs at cheaper rates.md",
     "misc/better htmx.md",
     "misc/Postgres Stack.md",
-    "Arc Links.md",
-    "daily/Jun 13, 2024.md",
-    "z- EliteClub/Side Hustles.md",
     "media/Recording 20240615013330.webm",
-    "daily/May 30, 2024.md",
     "media/Pasted image 20240614184319.png",
     "media/448360123_970885227868195_3651311734176739597_n.gif",
     "canvas",
@@ -237,7 +238,6 @@
     "YouTube Content Creation",
     "AMUEE",
     "media/Schedule.png",
-    "canvas/Schedule.canvas",
-    "z- EliteClub/Projects"
+    "canvas/Schedule.canvas"
   ]
 }
