@@ -15,7 +15,7 @@ Usually after 4 pm to isha (or maybe after maghrib time to bed time) - Needs to 
 
 | Day       | Activity                                   |
 | --------- | ------------------------------------------ |
-| Monday    | Business Marketing                         |
+| Monday    | Business Marketing / [[Ideas Day]]         |
 | Tuesday   | Design                                     |
 | Wednesday | Cyber Security                             |
 | Thursday  | Hardware                                   |
@@ -23,12 +23,34 @@ Usually after 4 pm to isha (or maybe after maghrib time to bed time) - Needs to 
 | Saturday  | Academic Revision of the whole week        |
 | Sunday    | Academic Short revision + Weekly Questions |
 
-# Daily Software Sessions 
-1 hr daily Software Sessions 
+# Daily Software Sessions
+1 hr daily Software Sessions
 
 Pretty vague on what to do in it but... will see
 
+### Decided Weekly Daily Software Planner for now
+
+| Day       | Software Activity |
+| --------- | ----------------- |
+| Monday    | Embedded Systems  |
+| Tuesday   | Cyber Security    |
+| Wednesday | Frontend UX       |
+| Thursday  | New Language      |
+| Friday    | DSA               |
+| Saturday  | Backend           |
 
 # Daily Project Sessions
-2+ hr of daily project sessions 
-This is where the team members contribute to the [[/Projects|Planned Projects]]  
+2+ hr of daily project sessions
+This is where the team members contribute to the [[/Projects|Planned Projects]]
+
+# Weekly Schedule
+
+- Every week has a Weekly Project Lead (most stonks)
+- Every Month has 4 weeks (+ 2-3 days for Marketing)
+
+| Week   | System   |
+| ------ | -------- |
+| Week 1 | Software |
+| Week 2 | Software |
+| Week 3 | Hardware |
+| Week 4 | Hardware |

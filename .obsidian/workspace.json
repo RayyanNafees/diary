@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/Jun 17, 2024.md",
+                "file": "z- EliteClub/Mentors.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/Jun 17, 2024.md",
+                "file": "z- EliteClub/Mentors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/Jun 17, 2024.md",
+                "file": "z- EliteClub/Mentors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/Jun 17, 2024.md"
+                "file": "z- EliteClub/Mentors.md"
               }
             }
           },
@@ -192,10 +192,13 @@
   },
   "active": "17fa94d582197279",
   "lastOpenFiles": [
+    "z- EliteClub/Ideas Day.md",
+    "z- EliteClub/Mentors.md",
+    "z- EliteClub/Club Schedule.md",
+    "daily/Jun 17, 2024.md",
     "daily/Jun 15, 2024.md",
     "articles/Why Remix.md",
     "articles/todo - Remix & the Modern MERN stack.md",
-    "daily/Jun 17, 2024.md",
     "daily/Jun 14, 2024.md",
     "misc/Easier APIs at cheaper rates.md",
     "misc/better htmx.md",
@@ -218,9 +221,6 @@
     "z- EliteClub/Linux.md",
     "z- EliteClub/Interview Prep.md",
     "z- EliteClub/Elite OS.md",
-    "z- EliteClub/Elite Store Products.md",
-    "z- EliteClub/Coding Roadmap.md",
-    "z- EliteClub/Club Todos.md",
     "canvas",
     "media/Pasted image 20240530131124.png",
     "media/Pasted image 20240530131134.png",
