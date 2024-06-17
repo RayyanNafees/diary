@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "05b00383e739408c",
+        "id": "3e2378933790dcf6",
         "type": "tabs",
         "children": [
           {
-            "id": "17fa94d582197279",
+            "id": "d3150cdb8cbbd337",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YouTube Content Creation/Pocketbased/HTMxChat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01fd6fc11f3d5e07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YouTube Content Creation/Pocketbased/HTMxChat.md",
+                "file": "YouTube Content Creation/Astro CHAD/Astro Zoom Clone.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YouTube Content Creation/Pocketbased/HTMxChat.md",
+                "file": "YouTube Content Creation/Astro CHAD/Astro Zoom Clone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YouTube Content Creation/Pocketbased/HTMxChat.md",
+                "file": "YouTube Content Creation/Astro CHAD/Astro Zoom Clone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YouTube Content Creation/Pocketbased/HTMxChat.md"
+                "file": "YouTube Content Creation/Astro CHAD/Astro Zoom Clone.md"
               }
             }
           },
@@ -202,10 +190,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "17fa94d582197279",
+  "active": "d3150cdb8cbbd337",
   "lastOpenFiles": [
-    "YouTube Content Creation/Pocketbased/Daisy Chat.md",
+    "YouTube Content Creation/Astro CHAD/Astro CHAT SSE.md",
+    "YouTube Content Creation/Astro CHAD/Astro Zoom Clone.md",
     "YouTube Content Creation/Pocketbased/HTMxChat.md",
+    "YouTube Content Creation/Pocketbased/Daisy Chat.md",
     "z- EliteClub/Projects/20 Biggest Projects.md",
     "YouTube Content Creation/Pocketbased",
     "z- EliteClub/Mentors.md",
@@ -232,8 +222,6 @@
     "z- EliteClub/Ship Products Fast.md",
     "z- EliteClub/Redesigning Quran sites.md",
     "z- EliteClub/Redesigning Commercial Apps.md",
-    "z- EliteClub/Open Source Culture.md",
-    "z- EliteClub/Managing Software Projects.md",
     "canvas",
     "media/Pasted image 20240530131124.png",
     "media/Pasted image 20240530131134.png",
