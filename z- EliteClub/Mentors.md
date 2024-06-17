@@ -8,20 +8,54 @@ _The subjects in parenthesis are undecided for now_
 ## 1. Asher
 - Programming Languages
 - Framework Usage
-- (DSA)
+- DSA
 ## 2. Anas AI
 - Computational Mathematics
 - Advanced Algorithms
-- (DSA)
+- AI
 
 ## 3. Talha
 - Marketing
 - AI tools useful for business
 - (Video/Color for Branding)
 
+## 4. Muneer
+- Marketing
+- Technical Writing
+- Research Paper
+- Mobile Dev
+
 ## 4. Anas Rabbani
 - Drones
 - IOT & Embedded Systems
 - Hardware Repair
 
-## 5. 
+## 5. Aman Javed
+- Advices for Drones
+- Electric Circuits
+- KiCad & Software tools
+
+## 6. Rayyan
+- Web Backend
+- Game Dev
+- AI
+
+## 7. Zuhair
+- Game Dev
+- Photo Shop
+- Video Editting
+- UI/UX Design
+
+## 8. Sharjeel
+- Web Frontend
+- Cyber Security
+- No Code tools
+
+## 9. Tanishka Sharma
+- Git & GitHub
+- Project Management
+- Documentation
+- Machine Learning
+- No Code Solutions
+	- Wordpress
+	- Framer
