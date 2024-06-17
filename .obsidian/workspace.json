@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Untitled.md",
+                "file": "daily/Jun 17, 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Untitled.md",
+                "file": "daily/Jun 17, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Untitled.md",
+                "file": "daily/Jun 17, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/Untitled.md"
+                "file": "daily/Jun 17, 2024.md"
               }
             }
           },
@@ -192,8 +192,8 @@
   },
   "active": "d3150cdb8cbbd337",
   "lastOpenFiles": [
+    "misc/Whatsapp CMS.md",
     "misc/Arabic Tree Learning.md",
-    "misc/Untitled.md",
     "z- EliteClub/Redesigning Quran sites.md",
     "YouTube Content Creation/Pocketbased/Pocketbase Auth Crash Course.md",
     "YouTube Content Creation/Astro CHAD/Astro Auth.md",

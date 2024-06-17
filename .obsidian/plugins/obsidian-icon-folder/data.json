@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiWhatsapp",
       "🌴",
       "🌟",
       "📈",
-      "🎓",
-      "💡"
+      "🎓"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -58,5 +58,6 @@
   "z- EliteClub/Ideas Day.md": "💡",
   "z- EliteClub/Mentors.md": "🎓",
   "z- EliteClub/Projects/20 Biggest Projects.md": "🌟",
-  "misc/Arabic Tree Learning.md": "🌴"
+  "misc/Arabic Tree Learning.md": "🌴",
+  "misc/Whatsapp CMS.md": "SiWhatsapp"
 }
