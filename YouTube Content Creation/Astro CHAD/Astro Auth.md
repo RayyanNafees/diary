@@ -1,0 +1,3 @@
+- Based on both the levels on [LevelUp Node JS Authentcation courses](https://levelup.video/library?tags=node#library-grid)
+- Uses Lucia & Arctic for Authentcation
+- Astro DB for databases

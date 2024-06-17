@@ -6,7 +6,7 @@
 
 
 ## Islamic Software Collections for Contributions
-- [Awesome Islamic Software resources](https://github.com/AhmedKamal/awesome-Islam) 
+- [Awesome Islamic Software resources](https://github.com/AhmedKamal/awesome-Islam)
 	- [Open Source Islamic Software](https://github.com/AhmedKamal/awesome-Islam/blob/master/islamic-software/README.md)
 - [Open Source Islamic Projects](https://github.com/choubari/Awesome-Muslims)
 - [Awesome Arabic](https://github.com/01walid/awesome-arabic) for dealing with Arabic Text, rendering etc
@@ -15,3 +15,11 @@
 	- Videos - Might be helpful for Creating short versions of other's content
 	- PDFs - A rewrite or redesign may be helpful, and we can publish our own books on the matter
 	- Websites - Might need a redesign or Open Source Alternatives with better SEO
+
+## Refunction THese Sites
+
+- Arabic Tree Learning Arabic Verbs Game
+	- Add AI verbs generation feature
+	- Add Polling & Multiplayer
+	- Add game sharing and play with friends online
+	- Create similar games inspied from DuoLingo
