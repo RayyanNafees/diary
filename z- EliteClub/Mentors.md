@@ -25,33 +25,33 @@ _The subjects in parenthesis are undecided for now_
 - Research Paper
 - Mobile Dev
 
-## 4. Anas Rabbani
+## 5. Anas Rabbani
 - Drones
 - IOT & Embedded Systems
 - Hardware Repair
 
-## 5. Aman Javed
+## 6. Aman Javed
 - Advices for Drones
 - Electric Circuits
 - KiCad & Software tools
 
-## 6. Rayyan
+## 7. Rayyan
 - Web Backend
 - Game Dev
 - AI
 
-## 7. Zuhair
+## 8. Zuhair
 - Game Dev
 - Photo Shop
 - Video Editting
 - UI/UX Design
 
-## 8. Sharjeel
+## 9. Sharjeel
 - Web Frontend
 - Cyber Security
 - No Code tools
 
-## 9. Tanishka Sharma
+## 0. Tanishka Sharma
 - Git & GitHub
 - Project Management
 - Documentation
@@ -59,3 +59,4 @@ _The subjects in parenthesis are undecided for now_
 - No Code Solutions
 	- Wordpress
 	- Framer
+

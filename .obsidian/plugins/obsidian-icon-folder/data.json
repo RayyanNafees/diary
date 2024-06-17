@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "📈",
       "🎓",
       "💡",
       "LiTimer",
-      "SiGithub",
-      "🔖"
+      "SiGithub"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -56,5 +56,6 @@
   "media": "LiImageUp",
   "z- EliteClub/Club Schedule.md": "LiTimer",
   "z- EliteClub/Ideas Day.md": "💡",
-  "z- EliteClub/Mentors.md": "🎓"
+  "z- EliteClub/Mentors.md": "🎓",
+  "z- EliteClub/Projects/Biggest Projects.md": "📈"
 }
