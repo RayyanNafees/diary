@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d8379610e6e29ae7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/Jun 17, 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "snippets/GitHub/file upload.js.md",
+                "file": "daily/Jun 17, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "snippets/GitHub/file upload.js.md",
+                "file": "daily/Jun 17, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "snippets/GitHub/file upload.js.md"
+                "file": "daily/Jun 17, 2024.md"
               }
             }
           },
@@ -166,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -190,10 +203,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d3150cdb8cbbd337",
+  "active": "d8379610e6e29ae7",
   "lastOpenFiles": [
-    "snippets/HTML/You Dont need Bootstrap.md",
+    "snippets/GitHub/PostgreSQL is Enough.md",
     "snippets/GitHub/file upload.js.md",
+    "pasted articles",
+    "snippets/HTML/You Dont need Bootstrap.md",
     "snippets/HTML/prose.css.md",
     "snippets/HTML/spinner.css.md",
     "snippets/Django Roadmap.md",
@@ -222,7 +237,6 @@
     "z- EliteClub/Projects/AMU Dining.md",
     "YouTube Content Creation/Astro CHAD/Astro CHAT SSE.md",
     "YouTube Content Creation/Astro CHAD/Astro Zoom Clone.md",
-    "YouTube Content Creation/Astro CHAD/Astro Vercel Clone.md",
     "z- EliteClub/Projects/Untitled",
     "YouTube Content Creation/Pocketbased",
     "media/Recording 20240615013330.webm",
@@ -231,7 +245,6 @@
     "canvas",
     "media/Pasted image 20240530131124.png",
     "media/Pasted image 20240530131134.png",
-    "z- EliteClub/Markdown Web Component",
     "media/Pasted image 20240525230342.png",
     "media/Pasted image 20240516200450.png",
     "media/Pasted image 20240517211049.png",
