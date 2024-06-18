@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "snippets/HTML/ServiceWorker - offline assets.md",
+                "file": "snippets/Django Roadmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#node",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "snippets/HTML/ServiceWorker - offline assets.md",
+                "file": "snippets/Django Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "snippets/HTML/ServiceWorker - offline assets.md",
+                "file": "snippets/Django Roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "snippets/HTML/ServiceWorker - offline assets.md"
+                "file": "snippets/Django Roadmap.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -190,10 +190,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d3150cdb8cbbd337",
+  "active": "3e31f9fe3f64c671",
   "lastOpenFiles": [
-    "snippets/Web Scraping/Cheerio with Deno.md",
+    "snippets/GitHub/PR template.md",
+    "snippets/Django Roadmap.md",
     "snippets/HTML/ServiceWorker - offline assets.md",
+    "snippets/GitHub",
+    "snippets/Web Scraping/Cheerio with Deno.md",
     "snippets/HTML/JSON to Description List.md",
     "snippets/HT.md",
     "snippets/HTML",
@@ -220,8 +223,6 @@
     "YouTube Content Creation/Pocketbased/Pocketbase Auth Crash Course.md",
     "z- EliteClub/Redesigning Quran sites.md",
     "misc/Arabic Tree Learning.md",
-    "misc/Whatsapp CMS.md",
-    "daily/Jun 15, 2024.md",
     "z- EliteClub/Projects/Untitled",
     "YouTube Content Creation/Pocketbased",
     "media/Recording 20240615013330.webm",
@@ -236,7 +237,6 @@
     "media/Pasted image 20240517211049.png",
     "media/Pasted image 20240517210852.png",
     "media/Pasted image 20240516200549.png",
-    "YouTube Content Creation/EliteClub AMU",
     "media/Schedule.png",
     "canvas/Schedule.canvas"
   ]
