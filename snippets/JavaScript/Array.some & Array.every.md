@@ -1,8 +1,6 @@
 
-## Things I learnt Today
-
-### 1. JavaScript `[].every()` & `[].some()`
-- Taken from [can u break a [].forEach loop](https://javascript.plainenglish.io/javascript-interview-can-you-stop-or-break-a-foreach-loop-9608ba2a1710)
+- Taken from [can u break a .forEach loop](https://javascript.plainenglish.io/javascript-interview-can-you-stop-or-break-a-foreach-loop-9608ba2a1710)
+-
 - `[].some()` - is like `.forEach()` but breaks if u return a `truthy` value
 ```js
 // will run
