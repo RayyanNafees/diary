@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "snippets/HTML/spinner.css.md",
+                "file": "snippets/GitHub/file upload.js.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "snippets/HTML/spinner.css.md",
+                "file": "snippets/GitHub/file upload.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "snippets/HTML/spinner.css.md",
+                "file": "snippets/GitHub/file upload.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "snippets/HTML/spinner.css.md"
+                "file": "snippets/GitHub/file upload.js.md"
               }
             }
           },
@@ -192,8 +192,11 @@
   },
   "active": "d3150cdb8cbbd337",
   "lastOpenFiles": [
-    "snippets/Django Roadmap.md",
+    "snippets/HTML/You Dont need Bootstrap.md",
+    "snippets/GitHub/file upload.js.md",
+    "snippets/HTML/prose.css.md",
     "snippets/HTML/spinner.css.md",
+    "snippets/Django Roadmap.md",
     "snippets/GitHub/PR template.md",
     "snippets/HTML/ServiceWorker - offline assets.md",
     "snippets/GitHub",
@@ -220,9 +223,6 @@
     "YouTube Content Creation/Astro CHAD/Astro CHAT SSE.md",
     "YouTube Content Creation/Astro CHAD/Astro Zoom Clone.md",
     "YouTube Content Creation/Astro CHAD/Astro Vercel Clone.md",
-    "YouTube Content Creation/Astro CHAD/Astro Auth.md",
-    "YouTube Content Creation/Pocketbased/Pocketbase Auth Crash Course.md",
-    "z- EliteClub/Redesigning Quran sites.md",
     "z- EliteClub/Projects/Untitled",
     "YouTube Content Creation/Pocketbased",
     "media/Recording 20240615013330.webm",
