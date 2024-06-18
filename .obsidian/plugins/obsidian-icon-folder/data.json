@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "✅",
       "⚠",
       "SiWhatsapp",
       "🌴",
-      "🌟",
-      "📈"
+      "🌟"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -60,5 +60,6 @@
   "z- EliteClub/Projects/20 Biggest Projects.md": "🌟",
   "misc/Arabic Tree Learning.md": "🌴",
   "misc/Whatsapp CMS.md": "SiWhatsapp",
-  "Monthly Goals": "⚠"
+  "Monthly Goals": "⚠",
+  "z- EliteClub/Club Todos.md": "✅"
 }
