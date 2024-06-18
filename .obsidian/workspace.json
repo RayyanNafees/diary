@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "snippets/Web Scraping/Cheerio with Deno.md",
+                "file": "snippets/HTML/ServiceWorker - offline assets.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "snippets/Web Scraping/Cheerio with Deno.md",
+                "file": "snippets/HTML/ServiceWorker - offline assets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "snippets/Web Scraping/Cheerio with Deno.md",
+                "file": "snippets/HTML/ServiceWorker - offline assets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "snippets/Web Scraping/Cheerio with Deno.md"
+                "file": "snippets/HTML/ServiceWorker - offline assets.md"
               }
             }
           },
@@ -192,12 +192,13 @@
   },
   "active": "d3150cdb8cbbd337",
   "lastOpenFiles": [
-    "snippets/HTML Manipulation/JSON to Description List.md",
+    "snippets/Web Scraping/Cheerio with Deno.md",
+    "snippets/HTML/ServiceWorker - offline assets.md",
+    "snippets/HTML/JSON to Description List.md",
     "snippets/HT.md",
-    "snippets/HTML Manipulation",
+    "snippets/HTML",
     "misc/Untitled.md",
     "snippets",
-    "snippets/Web Scraping/Cheerio with Deno.md",
     "daily/Jun 17, 2024.md",
     "snippets/Web Scraping",
     "daily/Jun 18, 2024.md",
