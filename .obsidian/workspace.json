@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3e2378933790dcf6",
+        "id": "c048349c801cfe59",
         "type": "tabs",
         "children": [
           {
-            "id": "d3150cdb8cbbd337",
+            "id": "b4b78c65d0ab609b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "snippets/GitHub/file upload.js.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0fab1d4dab5e548",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "snippets/GitHub/chutad.md",
+                "file": "daily/Jun 18, 2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "snippets/GitHub/chutad.md",
+                "file": "daily/Jun 18, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "snippets/GitHub/chutad.md",
+                "file": "daily/Jun 18, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "snippets/GitHub/chutad.md"
+                "file": "daily/Jun 18, 2024.md"
               }
             }
           },
@@ -204,15 +191,16 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "d0fab1d4dab5e548",
+  "active": "b4b78c65d0ab609b",
   "lastOpenFiles": [
+    "daily/Jun 2, 2024.md",
+    "daily/Jun 18, 2024.md",
     "snippets/GitHub/file upload.js.md",
     "snippets/GitHub/chutad.md",
     "daily/Jun 17, 2024.md",
     "snippets/JavaScript/Array.some & Array.every.md",
     "snippets/JavaScript/Array Square Root.md",
     "snippets/JavaScript",
-    "daily/Jun 18, 2024.md",
     "snippets/GitHub/PostgreSQL is Enough.md",
     "pasted articles",
     "snippets/HTML/You Dont need Bootstrap.md",
@@ -237,7 +225,6 @@
     "z- EliteClub/Projects/AMU Merchandise.md",
     "z- EliteClub/Projects/AMU Modules.md",
     "z- EliteClub/Projects/AMU Accords.md",
-    "z- EliteClub/Projects/AMU Helpline.md",
     "Monthly Goals",
     "z- EliteClub/Projects/Untitled",
     "YouTube Content Creation/Pocketbased",
