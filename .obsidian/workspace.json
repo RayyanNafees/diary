@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/Jun 17, 2024.md",
+                "file": "snippets/JavaScript/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/Jun 17, 2024.md",
+                "file": "snippets/JavaScript/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/Jun 17, 2024.md",
+                "file": "snippets/JavaScript/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/Jun 17, 2024.md"
+                "file": "snippets/JavaScript/Untitled.md"
               }
             }
           },
@@ -205,6 +205,10 @@
   },
   "active": "d8379610e6e29ae7",
   "lastOpenFiles": [
+    "daily/Jun 17, 2024.md",
+    "snippets/JavaScript/Untitled.md",
+    "snippets/JavaScript",
+    "daily/Jun 18, 2024.md",
     "snippets/GitHub/PostgreSQL is Enough.md",
     "snippets/GitHub/file upload.js.md",
     "pasted articles",
@@ -221,9 +225,7 @@
     "snippets/HTML",
     "misc/Untitled.md",
     "snippets",
-    "daily/Jun 17, 2024.md",
     "snippets/Web Scraping",
-    "daily/Jun 18, 2024.md",
     "z- EliteClub/Club Todos.md",
     "Monthly Goals/Small yet important Goals.md",
     "Monthly Goals/June Schedule.md",
@@ -236,13 +238,11 @@
     "Monthly Goals",
     "z- EliteClub/Projects/AMU Dining.md",
     "YouTube Content Creation/Astro CHAD/Astro CHAT SSE.md",
-    "YouTube Content Creation/Astro CHAD/Astro Zoom Clone.md",
     "z- EliteClub/Projects/Untitled",
     "YouTube Content Creation/Pocketbased",
     "media/Recording 20240615013330.webm",
     "media/Pasted image 20240614184319.png",
     "media/448360123_970885227868195_3651311734176739597_n.gif",
-    "canvas",
     "media/Pasted image 20240530131124.png",
     "media/Pasted image 20240530131134.png",
     "media/Pasted image 20240525230342.png",
