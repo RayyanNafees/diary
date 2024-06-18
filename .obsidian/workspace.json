@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/Jun 17, 2024.md",
+                "file": "snippets/Web Scraping/Cheerio with Deno.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/Jun 17, 2024.md",
+                "file": "snippets/Web Scraping/Cheerio with Deno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/Jun 17, 2024.md",
+                "file": "snippets/Web Scraping/Cheerio with Deno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/Jun 17, 2024.md"
+                "file": "snippets/Web Scraping/Cheerio with Deno.md"
               }
             }
           },
@@ -190,9 +190,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "3e31f9fe3f64c671",
+  "active": "d3150cdb8cbbd337",
   "lastOpenFiles": [
-    "Untitled",
+    "snippets/HTML Manipulation/JSON to Description List.md",
+    "snippets/HT.md",
+    "snippets/HTML Manipulation",
+    "misc/Untitled.md",
+    "snippets",
+    "snippets/Web Scraping/Cheerio with Deno.md",
+    "daily/Jun 17, 2024.md",
+    "snippets/Web Scraping",
     "daily/Jun 18, 2024.md",
     "z- EliteClub/Club Todos.md",
     "Monthly Goals/Small yet important Goals.md",
@@ -213,12 +220,7 @@
     "z- EliteClub/Redesigning Quran sites.md",
     "misc/Arabic Tree Learning.md",
     "misc/Whatsapp CMS.md",
-    "daily/Jun 17, 2024.md",
     "daily/Jun 15, 2024.md",
-    "z- EliteClub/Projects/AMU Courier.md",
-    "z- EliteClub/Elite Community.md",
-    "articles/Paper.wf - Fast Draft Blogging.md",
-    "misc/P3 stack.md",
     "z- EliteClub/Projects/Untitled",
     "YouTube Content Creation/Pocketbased",
     "media/Recording 20240615013330.webm",
@@ -234,9 +236,6 @@
     "media/Pasted image 20240517210852.png",
     "media/Pasted image 20240516200549.png",
     "YouTube Content Creation/EliteClub AMU",
-    "YouTube Content Creation/Ryanlog",
-    "YouTube Content Creation/Astro CHAD",
-    "YouTube Content Creation",
     "media/Schedule.png",
     "canvas/Schedule.canvas"
   ]
