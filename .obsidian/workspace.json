@@ -11,8 +11,12 @@
             "id": "ea5755fb7669a2c7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "MCU UX leanrings.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/Jun 20, 2024.md",
+                "file": "MCU UX leanrings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/Jun 20, 2024.md",
+                "file": "MCU UX leanrings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/Jun 20, 2024.md"
+                "file": "MCU UX leanrings.md"
               }
             }
           },
@@ -187,10 +191,11 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "3e31f9fe3f64c671",
+  "active": "ea5755fb7669a2c7",
   "lastOpenFiles": [
-    "Project ideas.md",
+    "MCU UX leanrings.md",
     "daily/Jun 20, 2024.md",
+    "Project ideas.md",
     "daily/Jun 18, 2024.md",
     "daily/Jun 2, 2024.md",
     "snippets/GitHub/file upload.js.md",
@@ -220,7 +225,6 @@
     "Monthly Goals/June Schedule.md",
     "Arc Links.md",
     "z- EliteClub/Projects/20 Biggest Projects.md",
-    "z- EliteClub/Projects/AMU Merchandise.md",
     "Monthly Goals",
     "z- EliteClub/Projects/Untitled",
     "YouTube Content Creation/Pocketbased",
