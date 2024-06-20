@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b2221aef0d255da5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business/Webpage Document Scanner.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business/User Retention.md",
+                "file": "Business/Webpage Document Scanner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business/User Retention.md",
+                "file": "Business/Webpage Document Scanner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business/User Retention.md"
+                "file": "Business/Webpage Document Scanner.md"
               }
             }
           },
@@ -204,10 +216,12 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "1c0dc347593619d8",
+  "active": "b2221aef0d255da5",
   "lastOpenFiles": [
-    "Business/Project ideas.md",
     "Business/User Retention.md",
+    "Business/Webpage Document Scanner.md",
+    "ai",
+    "Business/Project ideas.md",
     "MCU UX leanrings.md",
     "Business",
     "daily/Jun 20, 2024.md",
@@ -238,10 +252,8 @@
     "z- EliteClub/Club Todos.md",
     "Monthly Goals/Small yet important Goals.md",
     "Monthly Goals/June Schedule.md",
-    "Arc Links.md",
     "Monthly Goals",
     "z- EliteClub/Projects/Untitled",
-    "YouTube Content Creation/Pocketbased",
     "media/Pasted image 20240614184319.png",
     "media/448360123_970885227868195_3651311734176739597_n.gif",
     "media/Pasted image 20240530131124.png",
