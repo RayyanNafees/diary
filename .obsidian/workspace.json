@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c048349c801cfe59",
+        "id": "2a91a2b49703468d",
         "type": "tabs",
         "children": [
           {
-            "id": "b4b78c65d0ab609b",
+            "id": "ea5755fb7669a2c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/Jun 20, 2024.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "daily/Jun 20, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "daily/Jun 20, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/Untitled.md"
+                "file": "daily/Jun 20, 2024.md"
               }
             }
           },
@@ -191,9 +189,9 @@
   },
   "active": "3e31f9fe3f64c671",
   "lastOpenFiles": [
+    "Project ideas.md",
     "daily/Jun 20, 2024.md",
     "daily/Jun 18, 2024.md",
-    "daily/Untitled.md",
     "daily/Jun 2, 2024.md",
     "snippets/GitHub/file upload.js.md",
     "snippets/GitHub/chutad.md",
