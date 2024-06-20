@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/Webpage Document Scanner.md",
+                "file": "daily/Jun 21, 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business/Webpage Document Scanner.md",
+                "file": "daily/Jun 21, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business/Webpage Document Scanner.md",
+                "file": "daily/Jun 21, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business/Webpage Document Scanner.md"
+                "file": "daily/Jun 21, 2024.md"
               }
             }
           },
@@ -218,8 +218,9 @@
   },
   "active": "b2221aef0d255da5",
   "lastOpenFiles": [
-    "Business/User Retention.md",
     "Business/Webpage Document Scanner.md",
+    "daily/Jun 21, 2024.md",
+    "Business/User Retention.md",
     "ai",
     "Business/Project ideas.md",
     "MCU UX leanrings.md",
@@ -251,7 +252,6 @@
     "snippets/Web Scraping",
     "z- EliteClub/Club Todos.md",
     "Monthly Goals/Small yet important Goals.md",
-    "Monthly Goals/June Schedule.md",
     "Monthly Goals",
     "z- EliteClub/Projects/Untitled",
     "media/Pasted image 20240614184319.png",
