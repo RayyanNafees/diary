@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/Jun 18, 2024.md",
+                "file": "daily/Jun 20, 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/Jun 18, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/Jun 18, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/Jun 18, 2024.md"
+                "file": "daily/Untitled.md"
               }
             }
           },
@@ -191,10 +189,12 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "b4b78c65d0ab609b",
+  "active": "3e31f9fe3f64c671",
   "lastOpenFiles": [
-    "daily/Jun 2, 2024.md",
+    "daily/Jun 20, 2024.md",
     "daily/Jun 18, 2024.md",
+    "daily/Untitled.md",
+    "daily/Jun 2, 2024.md",
     "snippets/GitHub/file upload.js.md",
     "snippets/GitHub/chutad.md",
     "daily/Jun 17, 2024.md",
@@ -223,8 +223,6 @@
     "Arc Links.md",
     "z- EliteClub/Projects/20 Biggest Projects.md",
     "z- EliteClub/Projects/AMU Merchandise.md",
-    "z- EliteClub/Projects/AMU Modules.md",
-    "z- EliteClub/Projects/AMU Accords.md",
     "Monthly Goals",
     "z- EliteClub/Projects/Untitled",
     "YouTube Content Creation/Pocketbased",
