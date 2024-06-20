@@ -4,3 +4,8 @@
 > [!TIP]
 > Hello
 
+- Note
+- Important
+- caution
+- warning
+- tip
