@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2a91a2b49703468d",
+        "id": "c43e4b05dee3f4c5",
         "type": "tabs",
         "children": [
           {
-            "id": "ea5755fb7669a2c7",
+            "id": "54a53d37c1e16eb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/Project ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c0dc347593619d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/Jun 21, 2024.md",
+                "file": "daily/Jun 18, 2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/Jun 21, 2024.md",
+                "file": "daily/Jun 18, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/Jun 21, 2024.md",
+                "file": "daily/Jun 18, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/Jun 21, 2024.md"
+                "file": "daily/Jun 18, 2024.md"
               }
             }
           },
@@ -204,15 +191,15 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "1c0dc347593619d8",
+  "active": "54a53d37c1e16eb8",
   "lastOpenFiles": [
-    "daily/Jun 18, 2024.md",
+    "Business/Project ideas.md",
     "daily/Jun 21, 2024.md",
+    "daily/Jun 18, 2024.md",
     "Business/User Retention.md",
     "snippets/JavaScript/Array Square Root.md",
     "Business/Webpage Document Scanner.md",
     "ai",
-    "Business/Project ideas.md",
     "MCU UX leanrings.md",
     "Business",
     "daily/Jun 20, 2024.md",
