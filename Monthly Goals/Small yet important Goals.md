@@ -18,5 +18,5 @@
 	- [ ] Client Side Hugging face models using Transformers.js
 
 - [ ] Pay the guy u got your assignment done from
-- [ ] Ask about the library books submission
+- [x] Ask about the library books submission
 - [ ] Upload all the school content to YouTube channel
