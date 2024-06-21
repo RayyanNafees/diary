@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly Goals/Small yet important Goals.md",
+                "file": "daily/Jun 22, 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monthly Goals/Small yet important Goals.md",
+                "file": "daily/Jun 22, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monthly Goals/Small yet important Goals.md",
+                "file": "daily/Jun 22, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly Goals/Small yet important Goals.md"
+                "file": "daily/Jun 22, 2024.md"
               }
             }
           },
@@ -193,8 +193,9 @@
   },
   "active": "54a53d37c1e16eb8",
   "lastOpenFiles": [
-    "Monthly Goals/Hifz Schedule.md",
     "Monthly Goals/Small yet important Goals.md",
+    "daily/Jun 22, 2024.md",
+    "Monthly Goals/Hifz Schedule.md",
     "daily/Jun 18, 2024.md",
     "Business/Project ideas.md",
     "daily/Jun 21, 2024.md",
@@ -224,7 +225,6 @@
     "snippets/HTML/JSON to Description List.md",
     "snippets/HT.md",
     "snippets/HTML",
-    "misc/Untitled.md",
     "snippets",
     "snippets/Web Scraping",
     "Monthly Goals",
