@@ -210,9 +210,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f0572db695cd6e77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zoho/Bookmarks/April/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -278,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zoho/Bookmarks/April/Shutdown Haram Firebase Site.md",
+                "file": "Zoho/Bookmarks/April/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zoho/Bookmarks/April/Shutdown Haram Firebase Site.md",
+                "file": "Zoho/Bookmarks/April/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zoho/Bookmarks/April/Shutdown Haram Firebase Site.md"
+                "file": "Zoho/Bookmarks/April/Untitled.md"
               }
             }
           },
@@ -384,10 +396,11 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "292f128f90d0cee9",
+  "active": "f0572db695cd6e77",
   "lastOpenFiles": [
-    "Zoho/Pages/Software Choices.md",
     "Zoho/Bookmarks/April/Shutdown Haram Firebase Site.md",
+    "Zoho/Bookmarks/April/Untitled.md",
+    "Zoho/Pages/Software Choices.md",
     "Zoho/Bookmarks/April/Surrealist for Postgres & SQLite.md",
     "misc/Postgres Stack.md",
     "Zoho/Bookmarks/April/video- Leanr the way Video was editted and create a similar one for promoting Elite Club Projects.md",
@@ -419,7 +432,6 @@
     "Zoho/Bookmarks/May/Indian SOYLENT.md",
     "Zoho/Bookmarks/May",
     "Zoho/Bookmarks/May/Islamic Quotes API.md",
-    "Zoho/Bookmarks/May/Rijjaal App.md",
     "Zoho/Pages",
     "Zoho/Bookmarks",
     "Zoho",
