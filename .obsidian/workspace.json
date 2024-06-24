@@ -102,9 +102,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c8dae2f30c6e4320",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zoho/Bookmarks/May/Glance TUI - Personal Dashboard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zoho/Bookmarks/May/article- AI Greeting Card Generator in Astro.md",
+                "file": "Zoho/Bookmarks/May/Glance TUI - Personal Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zoho/Bookmarks/May/article- AI Greeting Card Generator in Astro.md",
+                "file": "Zoho/Bookmarks/May/Glance TUI - Personal Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zoho/Bookmarks/May/article- AI Greeting Card Generator in Astro.md"
+                "file": "Zoho/Bookmarks/May/Glance TUI - Personal Dashboard.md"
               }
             }
           },
@@ -276,10 +288,11 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "e0d06f2ddee03eb4",
+  "active": "c8dae2f30c6e4320",
   "lastOpenFiles": [
-    "Zoho/Bookmarks/May/article- Handy Functions in Go, Python & Rust.md",
     "Zoho/Bookmarks/May/article- AI Greeting Card Generator in Astro.md",
+    "Zoho/Bookmarks/May/Glance TUI - Personal Dashboard.md",
+    "Zoho/Bookmarks/May/article- Handy Functions in Go, Python & Rust.md",
     "Zoho/Bookmarks/May/Popularize Islamic view towards Polyphasic Sleep.md",
     "Zoho/Bookmarks/May/Crystal Language - Web Framework.md",
     "Zoho/Bookmarks/May/Indian SOYLENT.md",
@@ -310,7 +323,6 @@
     "daily/Jun 2, 2024.md",
     "snippets/GitHub/file upload.js.md",
     "snippets/GitHub/chutad.md",
-    "daily/Jun 17, 2024.md",
     "snippets/JavaScript",
     "pasted articles",
     "snippets/GitHub",
