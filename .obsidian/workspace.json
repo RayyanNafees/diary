@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/For implementing in AI code code plagarizing checker.md",
+                "file": "Zoho/Bookmarks/For implementing in AI code code plagarizing checker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "660ec882364f3d21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zoho/Bookmarks/Designing awesome Landing Pages.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "453d9e0c0357752e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zoho/Bookmarks/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/For implementing in AI code code plagarizing checker.md",
+                "file": "Zoho/Bookmarks/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/For implementing in AI code code plagarizing checker.md",
+                "file": "Zoho/Bookmarks/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/For implementing in AI code code plagarizing checker.md"
+                "file": "Zoho/Bookmarks/Untitled.md"
               }
             }
           },
@@ -204,10 +228,12 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "228d357b36049ffe",
+  "active": "453d9e0c0357752e",
   "lastOpenFiles": [
+    "Zoho/Bookmarks/Designing awesome Landing Pages.md",
+    "Zoho/Bookmarks/Untitled.md",
+    "Zoho/Bookmarks/For implementing in AI code code plagarizing checker.md",
     "daily/Jun 25, 2024.md",
-    "daily/For implementing in AI code code plagarizing checker.md",
     "Zoho/Pages",
     "Zoho/Bookmarks",
     "Zoho",
@@ -238,8 +264,6 @@
     "snippets/HTML/prose.css.md",
     "snippets/HTML/spinner.css.md",
     "snippets/Django Roadmap.md",
-    "snippets/GitHub/PR template.md",
-    "snippets/HTML/ServiceWorker - offline assets.md",
     "snippets/GitHub",
     "snippets/HTML",
     "media/Pasted image 20240614184319.png",
