@@ -1,0 +1,2 @@
+
+Create a cheaper version of [Walking Pad](https://tentyp.dev/blog/random/walkingpad/?ref=dailydev#why-did-i-decide-to-try-walkingpad) in india via AMU Elite Club and sell it at a cheaper price in USA etc
