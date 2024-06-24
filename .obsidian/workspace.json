@@ -138,9 +138,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5904b4f28c94c336",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zoho/Bookmarks/May/video- encore.ts Crash Course.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f1588355c085384",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zoho/Bookmarks/May/OSS Business Tools.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0cc4d0deb44e0c3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zoho/Bookmarks/May/Nikah App - Muslim Matrimony.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -206,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zoho/Bookmarks/May/Mermaid REST API that returns the image source on mermaid code.md",
+                "file": "Zoho/Bookmarks/May/Nikah App - Muslim Matrimony.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zoho/Bookmarks/May/Mermaid REST API that returns the image source on mermaid code.md",
+                "file": "Zoho/Bookmarks/May/Nikah App - Muslim Matrimony.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zoho/Bookmarks/May/Mermaid REST API that returns the image source on mermaid code.md"
+                "file": "Zoho/Bookmarks/May/Nikah App - Muslim Matrimony.md"
               }
             }
           },
@@ -312,10 +348,14 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "d6eb770f4382b992",
+  "active": "0cc4d0deb44e0c3b",
   "lastOpenFiles": [
-    "Zoho/Bookmarks/May/Crystal Language - Web Framework.md",
+    "misc/Muslim Chat & eDating app.md",
+    "Zoho/Bookmarks/May/Nikah App - Muslim Matrimony.md",
+    "Zoho/Bookmarks/May/OSS Business Tools.md",
+    "Zoho/Bookmarks/May/video- encore.ts Crash Course.md",
     "Zoho/Bookmarks/May/Mermaid REST API that returns the image source on mermaid code.md",
+    "Zoho/Bookmarks/May/Crystal Language - Web Framework.md",
     "Zoho/Bookmarks/May/Glance TUI - Personal Dashboard.md",
     "Zoho/Bookmarks/Untitled.md",
     "Language Libraries/Go/Rich CLI apps.md",
@@ -344,12 +384,8 @@
     "Business/Project ideas.md",
     "daily/Jun 21, 2024.md",
     "Business/User Retention.md",
-    "snippets/JavaScript/Array Square Root.md",
-    "Business/Webpage Document Scanner.md",
     "ai",
-    "MCU UX leanrings.md",
     "Business",
-    "daily/Jun 20, 2024.md",
     "snippets/JavaScript",
     "pasted articles",
     "media/Pasted image 20240614184319.png",
