@@ -126,9 +126,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d6eb770f4382b992",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zoho/Bookmarks/May/Mermaid REST API that returns the image source on mermaid code.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -194,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zoho/Bookmarks/May/Crystal Language - Web Framework.md",
+                "file": "Zoho/Bookmarks/May/Mermaid REST API that returns the image source on mermaid code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zoho/Bookmarks/May/Crystal Language - Web Framework.md",
+                "file": "Zoho/Bookmarks/May/Mermaid REST API that returns the image source on mermaid code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zoho/Bookmarks/May/Crystal Language - Web Framework.md"
+                "file": "Zoho/Bookmarks/May/Mermaid REST API that returns the image source on mermaid code.md"
               }
             }
           },
@@ -300,8 +312,10 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "a992b581c309762c",
+  "active": "d6eb770f4382b992",
   "lastOpenFiles": [
+    "Zoho/Bookmarks/May/Crystal Language - Web Framework.md",
+    "Zoho/Bookmarks/May/Mermaid REST API that returns the image source on mermaid code.md",
     "Zoho/Bookmarks/May/Glance TUI - Personal Dashboard.md",
     "Zoho/Bookmarks/Untitled.md",
     "Language Libraries/Go/Rich CLI apps.md",
@@ -312,7 +326,6 @@
     "Zoho/Bookmarks/May/article- AI Greeting Card Generator in Astro.md",
     "Zoho/Bookmarks/May/article- Handy Functions in Go, Python & Rust.md",
     "Zoho/Bookmarks/May/Popularize Islamic view towards Polyphasic Sleep.md",
-    "Zoho/Bookmarks/May/Crystal Language - Web Framework.md",
     "Zoho/Bookmarks/May/Indian SOYLENT.md",
     "Zoho/Bookmarks/May",
     "Zoho/Bookmarks/May/Islamic Quotes API.md",
@@ -337,7 +350,6 @@
     "MCU UX leanrings.md",
     "Business",
     "daily/Jun 20, 2024.md",
-    "daily/Jun 2, 2024.md",
     "snippets/JavaScript",
     "pasted articles",
     "media/Pasted image 20240614184319.png",
