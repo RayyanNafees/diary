@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "228d357b36049ffe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/For implementing in AI code code plagarizing checker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/Jun 25, 2024.md",
+                "file": "daily/For implementing in AI code code plagarizing checker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/Jun 25, 2024.md",
+                "file": "daily/For implementing in AI code code plagarizing checker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/Jun 25, 2024.md"
+                "file": "daily/For implementing in AI code code plagarizing checker.md"
               }
             }
           },
@@ -191,11 +204,14 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "3e31f9fe3f64c671",
+  "active": "228d357b36049ffe",
   "lastOpenFiles": [
-    "Untitled 1",
-    "Untitled",
     "daily/Jun 25, 2024.md",
+    "daily/For implementing in AI code code plagarizing checker.md",
+    "Zoho/Pages",
+    "Zoho/Bookmarks",
+    "Zoho",
+    "Untitled",
     "daily/Jun 24, 2024.md",
     "daily/Jun 22, 2024.md",
     "Monthly Goals/Small yet important Goals.md",
@@ -226,9 +242,6 @@
     "snippets/HTML/ServiceWorker - offline assets.md",
     "snippets/GitHub",
     "snippets/HTML",
-    "snippets",
-    "snippets/Web Scraping",
-    "Monthly Goals",
     "media/Pasted image 20240614184319.png",
     "media/448360123_970885227868195_3651311734176739597_n.gif",
     "media/Pasted image 20240530131124.png",

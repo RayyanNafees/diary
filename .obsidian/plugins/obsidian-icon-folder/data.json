@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🚥",
       "SiDjango",
       "SiHtml5",
       "SiGithub",
-      "LiBraces",
-      "✅"
+      "LiBraces"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -64,5 +64,6 @@
   "snippets": "LiBraces",
   "snippets/GitHub": "SiGithub",
   "snippets/HTML": "SiHtml5",
-  "snippets/Django Roadmap.md": "SiDjango"
+  "snippets/Django Roadmap.md": "SiDjango",
+  "Zoho": "🚥"
 }
