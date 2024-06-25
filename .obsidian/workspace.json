@@ -222,9 +222,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "da3cc71b9a9f43ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "misc/Paid Redesigner Extensions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -290,7 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zoho/Bookmarks/April/Better Solopreneur Apps.md",
+                "file": "misc/Paid Redesigner Extensions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +319,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zoho/Bookmarks/April/Better Solopreneur Apps.md",
+                "file": "misc/Paid Redesigner Extensions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +342,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zoho/Bookmarks/April/Better Solopreneur Apps.md"
+                "file": "misc/Paid Redesigner Extensions.md"
               }
             }
           },
@@ -396,11 +408,13 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "f0572db695cd6e77",
+  "active": "da3cc71b9a9f43ae",
   "lastOpenFiles": [
+    "Zoho/Bookmarks/April/Wikipedia Redesigned Web Extension from Juxtopposed.md",
+    "misc/Paid Redesigner Extensions.md",
+    "Zoho/Bookmarks/April/Better Solopreneur Apps.md",
     "media/image.png",
     "misc/Multi Country PPP business.md",
-    "Zoho/Bookmarks/April/Better Solopreneur Apps.md",
     "Zoho/Bookmarks/April/Foldable Treadmills.md",
     "Zoho/Bookmarks/April/Shutdown Haram Firebase Site.md",
     "Zoho/Pages/Software Choices.md",
@@ -430,7 +444,6 @@
     "media/Pasted image 20240625034344.png",
     "media/Pasted image 20240625034201.png",
     "Zoho/Bookmarks/May/article- AI Greeting Card Generator in Astro.md",
-    "Zoho/Bookmarks/May/article- Handy Functions in Go, Python & Rust.md",
     "Zoho/Bookmarks/May",
     "Zoho/Pages",
     "Zoho/Bookmarks",
@@ -443,7 +456,6 @@
     "media/Pasted image 20240530131124.png",
     "media/Pasted image 20240530131134.png",
     "media/Pasted image 20240525230342.png",
-    "media/Pasted image 20240516200450.png",
     "canvas/Schedule.canvas"
   ]
 }
