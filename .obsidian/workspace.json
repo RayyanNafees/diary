@@ -25,6 +25,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Zoho/Bookmarks/April/AnythingLLM browser extension + CLI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98c520f0cb5af7e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zoho/Bookmarks/April/restic github backups.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e55d09f32c653a4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Zoho/Bookmarks/April/Untitled.md",
                 "mode": "source",
                 "source": false
@@ -32,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -204,10 +228,12 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "2a6251ed9fe12aac",
+  "active": "e55d09f32c653a4b",
   "lastOpenFiles": [
-    "Zoho/Bookmarks/April/v0 clone with Cloudflare AI beta models.md",
+    "Zoho/Bookmarks/April/restic github backups.md",
     "Zoho/Bookmarks/April/Untitled.md",
+    "Zoho/Bookmarks/April/AnythingLLM browser extension + CLI.md",
+    "Zoho/Bookmarks/April/v0 clone with Cloudflare AI beta models.md",
     "Zoho/Bookmarks/April/Better Solopreneur Apps.md",
     "Zoho/Bookmarks/April/Remake TutorialsTeacher-like platform.md",
     "Zoho/Bookmarks/April/Self-Hosted business software for Start Ups.md",
@@ -234,8 +260,6 @@
     "Zoho/Bookmarks/May/Google Search + Web TUI renderer.md",
     "media/Pasted image 20240625040252.png",
     "Zoho/Bookmarks/May/Nikah App - Muslim Matrimony.md",
-    "misc/Muslim Chat & eDating app.md",
-    "Zoho/Bookmarks/May/OSS Business Tools.md",
     "Language Libraries/Go",
     "Language Libraries",
     "media/Pasted image 20240625034344.png",
