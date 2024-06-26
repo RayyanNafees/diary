@@ -54,6 +54,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "938630d84cf88c32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Yearly Goals/Utilising free student cloud & app services.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d90043ba8169965",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Yearly Goals/AMU i card.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -230,8 +254,12 @@
   },
   "active": "e55d09f32c653a4b",
   "lastOpenFiles": [
-    "Zoho/Bookmarks/April/restic github backups.md",
+    "Yearly Goals/AMU i card.md",
+    "Yearly Goals/Utilising free student cloud & app services.md",
+    "Zoho/Bookmarks/April/Untitled.md",
+    "Yearly Goals",
     "Zoho/Bookmarks/April/article- Student Freebies.md",
+    "Zoho/Bookmarks/April/restic github backups.md",
     "Zoho/Bookmarks/April/AnythingLLM browser extension + CLI.md",
     "Zoho/Bookmarks/April/v0 clone with Cloudflare AI beta models.md",
     "Zoho/Bookmarks/April/Better Solopreneur Apps.md",
@@ -256,10 +284,7 @@
     "Zoho/Bookmarks/May/AMU + Jamia Islamic Banking app.md",
     "media/Pasted image 20240625040620.png",
     "Zoho/Bookmarks/May/Expofy Awesome Android.md",
-    "Zoho/Bookmarks/May/Search API + TUI.md",
-    "Zoho/Bookmarks/May/Google Search + Web TUI renderer.md",
     "media/Pasted image 20240625040252.png",
-    "Zoho/Bookmarks/May/Nikah App - Muslim Matrimony.md",
     "Language Libraries/Go",
     "Language Libraries",
     "media/Pasted image 20240625034344.png",
@@ -270,7 +295,6 @@
     "Zoho",
     "ai",
     "Business",
-    "snippets/JavaScript",
     "media/Pasted image 20240614184319.png",
     "media/448360123_970885227868195_3651311734176739597_n.gif",
     "media/Pasted image 20240530131124.png",
