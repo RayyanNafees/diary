@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "c08fc1d69fe46861",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zoho/Bookmarks/April/AMU home server for hostels.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ace0e3193897b12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zoho/Bookmarks/April/npm- React-Ripple.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "938630d84cf88c32",
             "type": "leaf",
             "state": {
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -146,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zoho/Bookmarks/April/article- Student Freebies.md",
+                "file": "Zoho/Bookmarks/April/npm- React-Ripple.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zoho/Bookmarks/April/article- Student Freebies.md",
+                "file": "Zoho/Bookmarks/April/npm- React-Ripple.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zoho/Bookmarks/April/article- Student Freebies.md"
+                "file": "Zoho/Bookmarks/April/npm- React-Ripple.md"
               }
             }
           },
@@ -252,13 +276,15 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "e55d09f32c653a4b",
+  "active": "1ace0e3193897b12",
   "lastOpenFiles": [
+    "Zoho/Bookmarks/April/AMU home server for hostels.md",
+    "Zoho/Bookmarks/April/npm- React-Ripple.md",
+    "Zoho/Bookmarks/April/article- Student Freebies.md",
     "Yearly Goals/AMU i card.md",
     "Yearly Goals/Utilising free student cloud & app services.md",
     "Zoho/Bookmarks/April/Untitled.md",
     "Yearly Goals",
-    "Zoho/Bookmarks/April/article- Student Freebies.md",
     "Zoho/Bookmarks/April/restic github backups.md",
     "Zoho/Bookmarks/April/AnythingLLM browser extension + CLI.md",
     "Zoho/Bookmarks/April/v0 clone with Cloudflare AI beta models.md",
@@ -281,9 +307,7 @@
     "articles/Untitled.md",
     "articles/todo - Go SSR with React.md",
     "Zoho/Bookmarks/April",
-    "Zoho/Bookmarks/May/AMU + Jamia Islamic Banking app.md",
     "media/Pasted image 20240625040620.png",
-    "Zoho/Bookmarks/May/Expofy Awesome Android.md",
     "media/Pasted image 20240625040252.png",
     "Language Libraries/Go",
     "Language Libraries",
