@@ -4,251 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a7c3e748a2bfa6c6",
+        "id": "32e287c5f9de9a2e",
         "type": "tabs",
         "children": [
           {
-            "id": "d4ae3a02c3187126",
+            "id": "9980e2e825467614",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/Jun 25, 2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "228d357b36049ffe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zoho/Bookmarks/May/For implementing in AI code code plagarizing checker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "660ec882364f3d21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zoho/Bookmarks/May/Designing awesome Landing Pages.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "453d9e0c0357752e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zoho/Bookmarks/May/Crystal Language - Web Framework.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49593d5e16528b98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zoho/Bookmarks/May/Rijjaal App.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e482c44b00fbd39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zoho/Bookmarks/May/Islamic Quotes API.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "034eb9ef0e6507db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zoho/Bookmarks/May/article- AI Greeting Card Generator in Astro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0d06f2ddee03eb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zoho/Bookmarks/May/article- AI Greeting Card Generator in Astro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8dae2f30c6e4320",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zoho/Bookmarks/May/Glance TUI - Personal Dashboard.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a992b581c309762c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zoho/Bookmarks/May/Crystal Language - Web Framework.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6eb770f4382b992",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zoho/Bookmarks/May/Mermaid REST API that returns the image source on mermaid code.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5904b4f28c94c336",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zoho/Bookmarks/May/video- encore.ts Crash Course.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f1588355c085384",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zoho/Bookmarks/May/OSS Business Tools.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0cc4d0deb44e0c3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zoho/Bookmarks/May/Google Search + Web TUI renderer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf6e8d60cb422944",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zoho/Bookmarks/May/Search API + TUI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11e1e49ad6d891b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zoho/Bookmarks/May/Expofy Awesome Android.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "292f128f90d0cee9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zoho/Bookmarks/April/Shutdown Haram Firebase Site.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0572db695cd6e77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zoho/Bookmarks/April/Better Solopreneur Apps.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da3cc71b9a9f43ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/Jun 26, 2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13f7b6607e8d42d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/Jun 26, 2024.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 18
+        ]
       }
     ],
     "direction": "vertical"
@@ -314,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/Jun 26, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/Jun 26, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -353,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "daily/Jun 26, 2024.md"
-              }
+              "state": {}
             }
           },
           {
@@ -420,10 +183,11 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "da3cc71b9a9f43ae",
+  "active": "9980e2e825467614",
   "lastOpenFiles": [
-    "misc/Paid Redesigner Extensions.md",
+    "daily/Jun 27, 2024.md",
     "daily/Jun 26, 2024.md",
+    "misc/Paid Redesigner Extensions.md",
     "Zoho/Bookmarks/April/Wikipedia Redesigned Web Extension from Juxtopposed.md",
     "Zoho/Bookmarks/April/Better Solopreneur Apps.md",
     "media/image.png",
@@ -451,7 +215,6 @@
     "Zoho/Bookmarks/May/Crystal Language - Web Framework.md",
     "Zoho/Bookmarks/May/Glance TUI - Personal Dashboard.md",
     "Zoho/Bookmarks/Untitled.md",
-    "Language Libraries/Go/Rich CLI apps.md",
     "Language Libraries/Go",
     "Language Libraries",
     "media/Pasted image 20240625034344.png",
