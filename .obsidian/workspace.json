@@ -73,7 +73,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zoho/Bookmarks/April/npm- React-Ripple.md",
+                "file": "Zoho/Bookmarks/April/npm- React-ripl.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3d0e795654c1e72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zoho/Bookmarks/April/Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zoho/Bookmarks/April/npm- React-Ripple.md",
+                "file": "Zoho/Bookmarks/April/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zoho/Bookmarks/April/npm- React-Ripple.md",
+                "file": "Zoho/Bookmarks/April/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zoho/Bookmarks/April/npm- React-Ripple.md"
+                "file": "Zoho/Bookmarks/April/Untitled 1.md"
               }
             }
           },
@@ -276,10 +288,11 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "1ace0e3193897b12",
+  "active": "a3d0e795654c1e72",
   "lastOpenFiles": [
+    "Zoho/Bookmarks/April/npm- React-ripl.md",
+    "Zoho/Bookmarks/April/Untitled 1.md",
     "Zoho/Bookmarks/April/AMU home server for hostels.md",
-    "Zoho/Bookmarks/April/npm- React-Ripple.md",
     "Zoho/Bookmarks/April/article- Student Freebies.md",
     "Yearly Goals/AMU i card.md",
     "Yearly Goals/Utilising free student cloud & app services.md",
@@ -305,7 +318,6 @@
     "misc/Postgres Stack.md",
     "Zoho/Bookmarks/April/video- Leanr the way Video was editted and create a similar one for promoting Elite Club Projects.md",
     "articles/Untitled.md",
-    "articles/todo - Go SSR with React.md",
     "Zoho/Bookmarks/April",
     "media/Pasted image 20240625040620.png",
     "media/Pasted image 20240625040252.png",
