@@ -1,0 +1,1 @@
+Scrape the [PostgreSQL tutorials teacher](https://www.tutorialsteacher.com/postgresql) website to create your own with a better UI, store tutorials in .md and render with Astro

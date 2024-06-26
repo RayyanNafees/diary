@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "235dc516b86e3a72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zoho/Bookmarks/April/Remake TutorialsTeacher-like platform.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "000eeced44d1c8f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zoho/Bookmarks/April/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zoho/Bookmarks/April/video- OSS software creation.md",
+                "file": "Zoho/Bookmarks/April/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zoho/Bookmarks/April/video- OSS software creation.md",
+                "file": "Zoho/Bookmarks/April/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zoho/Bookmarks/April/video- OSS software creation.md"
+                "file": "Zoho/Bookmarks/April/Untitled.md"
               }
             }
           },
@@ -204,10 +228,12 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "84b81d9cd69a85b2",
+  "active": "000eeced44d1c8f0",
   "lastOpenFiles": [
-    "Zoho/Bookmarks/April/Better Solopreneur Apps.md",
+    "Zoho/Bookmarks/April/Remake TutorialsTeacher-like platform.md",
+    "Zoho/Bookmarks/April/Untitled.md",
     "Zoho/Bookmarks/April/video- OSS software creation.md",
+    "Zoho/Bookmarks/April/Better Solopreneur Apps.md",
     "daily/Jun 27, 2024.md",
     "daily/Jun 26, 2024.md",
     "misc/Paid Redesigner Extensions.md",
@@ -234,8 +260,6 @@
     "Zoho/Bookmarks/May/OSS Business Tools.md",
     "Zoho/Bookmarks/May/video- encore.ts Crash Course.md",
     "Zoho/Bookmarks/May/Mermaid REST API that returns the image source on mermaid code.md",
-    "Zoho/Bookmarks/May/Crystal Language - Web Framework.md",
-    "Zoho/Bookmarks/May/Glance TUI - Personal Dashboard.md",
     "Language Libraries/Go",
     "Language Libraries",
     "media/Pasted image 20240625034344.png",
