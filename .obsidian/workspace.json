@@ -11,11 +11,28 @@
             "id": "9980e2e825467614",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Zoho/Bookmarks/April/Better Solopreneur Apps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84b81d9cd69a85b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zoho/Bookmarks/April/video- OSS software creation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zoho/Bookmarks/April/video- OSS software creation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zoho/Bookmarks/April/video- OSS software creation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Zoho/Bookmarks/April/video- OSS software creation.md"
+              }
             }
           },
           {
@@ -183,13 +204,14 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "9980e2e825467614",
+  "active": "84b81d9cd69a85b2",
   "lastOpenFiles": [
+    "Zoho/Bookmarks/April/Better Solopreneur Apps.md",
+    "Zoho/Bookmarks/April/video- OSS software creation.md",
     "daily/Jun 27, 2024.md",
     "daily/Jun 26, 2024.md",
     "misc/Paid Redesigner Extensions.md",
     "Zoho/Bookmarks/April/Wikipedia Redesigned Web Extension from Juxtopposed.md",
-    "Zoho/Bookmarks/April/Better Solopreneur Apps.md",
     "media/image.png",
     "misc/Multi Country PPP business.md",
     "Zoho/Bookmarks/April/Foldable Treadmills.md",
@@ -214,7 +236,6 @@
     "Zoho/Bookmarks/May/Mermaid REST API that returns the image source on mermaid code.md",
     "Zoho/Bookmarks/May/Crystal Language - Web Framework.md",
     "Zoho/Bookmarks/May/Glance TUI - Personal Dashboard.md",
-    "Zoho/Bookmarks/Untitled.md",
     "Language Libraries/Go",
     "Language Libraries",
     "media/Pasted image 20240625034344.png",
