@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zoho/Bookmarks/April/cli- Framework Project Bootstrapper.md",
+                "file": "daily/Jun 27, 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zoho/Bookmarks/April/cli- Framework Project Bootstrapper.md",
+                "file": "daily/Jun 27, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zoho/Bookmarks/April/cli- Framework Project Bootstrapper.md",
+                "file": "daily/Jun 27, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zoho/Bookmarks/April/cli- Framework Project Bootstrapper.md"
+                "file": "daily/Jun 27, 2024.md"
               }
             }
           },
@@ -288,10 +288,11 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "a3d0e795654c1e72",
+  "active": "3e31f9fe3f64c671",
   "lastOpenFiles": [
-    "Zoho/Bookmarks/April/npm- React-ripl.md",
     "Zoho/Bookmarks/April/cli- Framework Project Bootstrapper.md",
+    "daily/Jun 27, 2024.md",
+    "Zoho/Bookmarks/April/npm- React-ripl.md",
     "Zoho/Bookmarks/April/AMU home server for hostels.md",
     "Zoho/Bookmarks/April/article- Student Freebies.md",
     "Yearly Goals/AMU i card.md",
@@ -305,7 +306,6 @@
     "Zoho/Bookmarks/April/Remake TutorialsTeacher-like platform.md",
     "Zoho/Bookmarks/April/Self-Hosted business software for Start Ups.md",
     "Zoho/Bookmarks/April/video- OSS software creation.md",
-    "daily/Jun 27, 2024.md",
     "daily/Jun 26, 2024.md",
     "misc/Paid Redesigner Extensions.md",
     "Zoho/Bookmarks/April/Wikipedia Redesigned Web Extension from Juxtopposed.md",
