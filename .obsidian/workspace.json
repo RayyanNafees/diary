@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly Goals/Untitled.md",
+                "file": "Law Stuff/TnC, Privacy Policy writing.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monthly Goals/Untitled.md",
+                "file": "Law Stuff/TnC, Privacy Policy writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monthly Goals/Untitled.md",
+                "file": "Law Stuff/TnC, Privacy Policy writing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly Goals/Untitled.md"
+                "file": "Law Stuff/TnC, Privacy Policy writing.md"
               }
             }
           },
@@ -218,8 +218,9 @@
   },
   "active": "163cc91a5cae1d9b",
   "lastOpenFiles": [
-    "Monthly Goals/Small yet important Goals.md",
     "Monthly Goals/Untitled.md",
+    "Law Stuff/TnC, Privacy Policy writing.md",
+    "Monthly Goals/Small yet important Goals.md",
     "daily/Jul 9, 2024.md",
     "Law Stuff",
     "ai/Opera Tabs.md",
@@ -246,7 +247,6 @@
     "Yearly Goals",
     "Zoho/Bookmarks/April/restic github backups.md",
     "Zoho/Bookmarks/April/AnythingLLM browser extension + CLI.md",
-    "Zoho/Bookmarks/April/v0 clone with Cloudflare AI beta models.md",
     "media/image.png",
     "Zoho/Bookmarks/April",
     "media/Pasted image 20240625040620.png",
