@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/AMU specific businesses.md",
+                "file": "cli/TUILwaind - Tailwind for Textual CLI creator.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business/AMU specific businesses.md",
+                "file": "cli/TUILwaind - Tailwind for Textual CLI creator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business/AMU specific businesses.md",
+                "file": "cli/TUILwaind - Tailwind for Textual CLI creator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business/AMU specific businesses.md"
+                "file": "cli/TUILwaind - Tailwind for Textual CLI creator.md"
               }
             }
           },
@@ -206,8 +206,9 @@
   },
   "active": "7319aa7334bcdd34",
   "lastOpenFiles": [
-    "Business/Project ideas.md",
     "Business/AMU specific businesses.md",
+    "cli/TUILwaind - Tailwind for Textual CLI creator.md",
+    "Business/Project ideas.md",
     "snippets/NodeJS/File Upload.md",
     "Practice/Frontend.md",
     "Micro Interactions/Untitled.md",
@@ -236,7 +237,6 @@
     "daily/Jun 4, 2024.md",
     "daily/Jun 22, 2024.md",
     "daily/Jun 27, 2024.md",
-    "Zoho/Bookmarks/April/cli- Framework Project Bootstrapper.md",
     "Yearly Goals",
     "media/image.png",
     "Zoho/Bookmarks/April",
