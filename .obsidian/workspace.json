@@ -4,119 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b4dd8100d6c6e623",
+        "id": "87e5e59eecc997a4",
         "type": "tabs",
         "children": [
           {
-            "id": "ea7e9eae26de1d22",
+            "id": "82d6456e9d3cbf7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zoho/Bookmarks/April/v0 clone with Cloudflare AI beta models.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a6251ed9fe12aac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zoho/Bookmarks/April/AnythingLLM browser extension + CLI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98c520f0cb5af7e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zoho/Bookmarks/April/restic github backups.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e55d09f32c653a4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zoho/Bookmarks/April/article- Student Freebies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c08fc1d69fe46861",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zoho/Bookmarks/April/AMU home server for hostels.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ace0e3193897b12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zoho/Bookmarks/April/npm- React-ripl.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3d0e795654c1e72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/Jun 27, 2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "938630d84cf88c32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Yearly Goals/Utilising free student cloud & app services.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d90043ba8169965",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Yearly Goals/AMU i card.md",
+                "file": "daily/Jul 8, 2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/Jun 27, 2024.md",
+                "file": "daily/Jul 8, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/Jun 27, 2024.md",
+                "file": "daily/Jul 8, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/Jun 27, 2024.md"
+                "file": "daily/Jul 8, 2024.md"
               }
             }
           },
@@ -288,10 +191,20 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "3e31f9fe3f64c671",
+  "active": "82d6456e9d3cbf7b",
   "lastOpenFiles": [
-    "Zoho/Bookmarks/April/cli- Framework Project Bootstrapper.md",
+    "daily/Jun 8, 2024.md",
+    "daily/Jul 8, 2024.md",
+    "daily/Jun 2, 2024.md",
+    "daily/Jun 18, 2024.md",
+    "Monthly Goals/April Pending 321 goals.md",
+    "daily/Jun 15, 2024.md",
+    "daily/Jun 14, 2024.md",
+    "daily/Jun 13, 2024.md",
+    "daily/Jun 4, 2024.md",
+    "daily/Jun 22, 2024.md",
     "daily/Jun 27, 2024.md",
+    "Zoho/Bookmarks/April/cli- Framework Project Bootstrapper.md",
     "Zoho/Bookmarks/April/npm- React-ripl.md",
     "Zoho/Bookmarks/April/AMU home server for hostels.md",
     "Zoho/Bookmarks/April/article- Student Freebies.md",
@@ -307,17 +220,7 @@
     "Zoho/Bookmarks/April/Self-Hosted business software for Start Ups.md",
     "Zoho/Bookmarks/April/video- OSS software creation.md",
     "daily/Jun 26, 2024.md",
-    "misc/Paid Redesigner Extensions.md",
-    "Zoho/Bookmarks/April/Wikipedia Redesigned Web Extension from Juxtopposed.md",
     "media/image.png",
-    "misc/Multi Country PPP business.md",
-    "Zoho/Bookmarks/April/Foldable Treadmills.md",
-    "Zoho/Bookmarks/April/Shutdown Haram Firebase Site.md",
-    "Zoho/Pages/Software Choices.md",
-    "Zoho/Bookmarks/April/Surrealist for Postgres & SQLite.md",
-    "misc/Postgres Stack.md",
-    "Zoho/Bookmarks/April/video- Leanr the way Video was editted and create a similar one for promoting Elite Club Projects.md",
-    "articles/Untitled.md",
     "Zoho/Bookmarks/April",
     "media/Pasted image 20240625040620.png",
     "media/Pasted image 20240625040252.png",
