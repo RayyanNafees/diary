@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/Jul 8, 2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3372bb4d234b4769",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Monthly Goals/Small yet important Goals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "163cc91a5cae1d9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "snippets/NodeJS/Sending Emails.md",
+                "file": "daily/Jul 9, 2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "snippets/NodeJS/Sending Emails.md",
+                "file": "daily/Jul 9, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "snippets/NodeJS/Sending Emails.md",
+                "file": "daily/Jul 9, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "snippets/NodeJS/Sending Emails.md"
+                "file": "daily/Jul 9, 2024.md"
               }
             }
           },
@@ -216,19 +191,21 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "163cc91a5cae1d9b",
+  "active": "82d6456e9d3cbf7b",
   "lastOpenFiles": [
-    "Law Stuff/TnC, Privacy Policy writing.md",
+    "daily/Jul 8, 2024.md",
+    "daily/Jul 9, 2024.md",
+    "Monthly Goals/Small yet important Goals.md",
     "snippets/NodeJS/Sending Emails.md",
+    "snippets/NodeJS/Untitled.md",
+    "snippets/NodeJS/Untitled 1.md",
+    "Law Stuff/TnC, Privacy Policy writing.md",
     "snippets/NodeJS",
     "Simple Tutorials",
     "Monthly Goals/Untitled.md",
-    "Monthly Goals/Small yet important Goals.md",
-    "daily/Jul 9, 2024.md",
     "Law Stuff",
     "ai/Opera Tabs.md",
     "daily/Untitled.md",
-    "daily/Jul 8, 2024.md",
     "daily/Jun 8, 2024.md",
     "daily/Jun 2, 2024.md",
     "daily/Jun 18, 2024.md",
@@ -245,9 +222,7 @@
     "Zoho/Bookmarks/April/article- Student Freebies.md",
     "Yearly Goals/AMU i card.md",
     "Yearly Goals/Utilising free student cloud & app services.md",
-    "Zoho/Bookmarks/April/Untitled.md",
     "Yearly Goals",
-    "Zoho/Bookmarks/April/restic github backups.md",
     "media/image.png",
     "Zoho/Bookmarks/April",
     "media/Pasted image 20240625040620.png",
