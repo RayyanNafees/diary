@@ -1,0 +1,3 @@
+- Take Project Inspiration from [founders.as](https://www.founders.as)
+	- Like AMU online Tailor system etc
+	- Bring this advance stuff to India
