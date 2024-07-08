@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3372bb4d234b4769",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ai/Opera Tabs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/Jul 8, 2024.md",
+                "file": "ai/Opera Tabs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/Jul 8, 2024.md",
+                "file": "ai/Opera Tabs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/Jul 8, 2024.md"
+                "file": "ai/Opera Tabs.md"
               }
             }
           },
@@ -191,10 +204,12 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "82d6456e9d3cbf7b",
+  "active": "3372bb4d234b4769",
   "lastOpenFiles": [
-    "Monthly Goals/Small yet important Goals.md",
+    "daily/Untitled.md",
+    "ai/Opera Tabs.md",
     "daily/Jul 8, 2024.md",
+    "Monthly Goals/Small yet important Goals.md",
     "daily/Jun 8, 2024.md",
     "daily/Jun 2, 2024.md",
     "daily/Jun 18, 2024.md",
@@ -218,8 +233,6 @@
     "Zoho/Bookmarks/April/v0 clone with Cloudflare AI beta models.md",
     "Zoho/Bookmarks/April/Better Solopreneur Apps.md",
     "Zoho/Bookmarks/April/Remake TutorialsTeacher-like platform.md",
-    "Zoho/Bookmarks/April/Self-Hosted business software for Start Ups.md",
-    "Zoho/Bookmarks/April/video- OSS software creation.md",
     "media/image.png",
     "Zoho/Bookmarks/April",
     "media/Pasted image 20240625040620.png",
