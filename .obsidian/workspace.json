@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Law Stuff/TnC, Privacy Policy writing.md",
+                "file": "snippets/NodeJS/Sending Emails.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Law Stuff/TnC, Privacy Policy writing.md",
+                "file": "snippets/NodeJS/Sending Emails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Law Stuff/TnC, Privacy Policy writing.md",
+                "file": "snippets/NodeJS/Sending Emails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Law Stuff/TnC, Privacy Policy writing.md"
+                "file": "snippets/NodeJS/Sending Emails.md"
               }
             }
           },
@@ -218,13 +218,15 @@
   },
   "active": "163cc91a5cae1d9b",
   "lastOpenFiles": [
-    "Monthly Goals/Untitled.md",
     "Law Stuff/TnC, Privacy Policy writing.md",
+    "snippets/NodeJS/Sending Emails.md",
+    "snippets/NodeJS",
+    "Simple Tutorials",
+    "Monthly Goals/Untitled.md",
     "Monthly Goals/Small yet important Goals.md",
     "daily/Jul 9, 2024.md",
     "Law Stuff",
     "ai/Opera Tabs.md",
-    "Untitled",
     "daily/Untitled.md",
     "daily/Jul 8, 2024.md",
     "daily/Jun 8, 2024.md",
@@ -246,7 +248,6 @@
     "Zoho/Bookmarks/April/Untitled.md",
     "Yearly Goals",
     "Zoho/Bookmarks/April/restic github backups.md",
-    "Zoho/Bookmarks/April/AnythingLLM browser extension + CLI.md",
     "media/image.png",
     "Zoho/Bookmarks/April",
     "media/Pasted image 20240625040620.png",
@@ -258,7 +259,6 @@
     "Zoho/Bookmarks/May",
     "Zoho/Pages",
     "Zoho/Bookmarks",
-    "Zoho",
     "media/Pasted image 20240614184319.png",
     "media/448360123_970885227868195_3651311734176739597_n.gif",
     "media/Pasted image 20240530131124.png",
