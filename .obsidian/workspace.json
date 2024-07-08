@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/Jul 9, 2024.md",
+                "file": "Micro Interactions/Animated Counter.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/Jul 9, 2024.md",
+                "file": "Micro Interactions/Animated Counter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/Jul 9, 2024.md",
+                "file": "Micro Interactions/Animated Counter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/Jul 9, 2024.md"
+                "file": "Micro Interactions/Animated Counter.md"
               }
             }
           },
@@ -193,8 +193,10 @@
   },
   "active": "82d6456e9d3cbf7b",
   "lastOpenFiles": [
-    "daily/Jul 8, 2024.md",
     "daily/Jul 9, 2024.md",
+    "Micro Interactions/Animated Counter.md",
+    "Micro Interactions",
+    "daily/Jul 8, 2024.md",
     "Monthly Goals/Small yet important Goals.md",
     "snippets/NodeJS/Sending Emails.md",
     "snippets/NodeJS/Untitled.md",
@@ -221,7 +223,6 @@
     "Zoho/Bookmarks/April/AMU home server for hostels.md",
     "Zoho/Bookmarks/April/article- Student Freebies.md",
     "Yearly Goals/AMU i card.md",
-    "Yearly Goals/Utilising free student cloud & app services.md",
     "Yearly Goals",
     "media/image.png",
     "Zoho/Bookmarks/April",
@@ -233,7 +234,6 @@
     "media/Pasted image 20240625034201.png",
     "Zoho/Bookmarks/May",
     "Zoho/Pages",
-    "Zoho/Bookmarks",
     "media/Pasted image 20240614184319.png",
     "media/448360123_970885227868195_3651311734176739597_n.gif",
     "media/Pasted image 20240530131124.png",
