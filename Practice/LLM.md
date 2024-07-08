@@ -1,0 +1,2 @@
+- [LLM roject Ideas to WOW employers](https://www.kdnuggets.com/llm-portfolio-projects-ideas-to-wow-employers?ref=dailydev)
+- 
