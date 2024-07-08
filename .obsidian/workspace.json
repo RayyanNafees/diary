@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/Jul 9, 2024.md",
+                "file": "Monthly Goals/Small yet important Goals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "163cc91a5cae1d9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monthly Goals/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/Jul 9, 2024.md",
+                "file": "Monthly Goals/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/Jul 9, 2024.md",
+                "file": "Monthly Goals/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/Jul 9, 2024.md"
+                "file": "Monthly Goals/Untitled.md"
               }
             }
           },
@@ -204,14 +216,16 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "3372bb4d234b4769",
+  "active": "163cc91a5cae1d9b",
   "lastOpenFiles": [
-    "ai/Opera Tabs.md",
+    "Monthly Goals/Small yet important Goals.md",
+    "Monthly Goals/Untitled.md",
     "daily/Jul 9, 2024.md",
+    "Law Stuff",
+    "ai/Opera Tabs.md",
     "Untitled",
     "daily/Untitled.md",
     "daily/Jul 8, 2024.md",
-    "Monthly Goals/Small yet important Goals.md",
     "daily/Jun 8, 2024.md",
     "daily/Jun 2, 2024.md",
     "daily/Jun 18, 2024.md",
@@ -233,7 +247,6 @@
     "Zoho/Bookmarks/April/restic github backups.md",
     "Zoho/Bookmarks/April/AnythingLLM browser extension + CLI.md",
     "Zoho/Bookmarks/April/v0 clone with Cloudflare AI beta models.md",
-    "Zoho/Bookmarks/April/Better Solopreneur Apps.md",
     "media/image.png",
     "Zoho/Bookmarks/April",
     "media/Pasted image 20240625040620.png",
@@ -246,7 +259,6 @@
     "Zoho/Pages",
     "Zoho/Bookmarks",
     "Zoho",
-    "ai",
     "media/Pasted image 20240614184319.png",
     "media/448360123_970885227868195_3651311734176739597_n.gif",
     "media/Pasted image 20240530131124.png",
