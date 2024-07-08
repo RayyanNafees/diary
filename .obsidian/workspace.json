@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7319aa7334bcdd34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "snippets/NodeJS/File Upload.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Micro Interactions/Animated Counter.md",
+                "file": "snippets/NodeJS/File Upload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Micro Interactions/Animated Counter.md",
+                "file": "snippets/NodeJS/File Upload.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Micro Interactions/Animated Counter.md"
+                "file": "snippets/NodeJS/File Upload.md"
               }
             }
           },
@@ -191,15 +204,18 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "82d6456e9d3cbf7b",
+  "active": "7319aa7334bcdd34",
   "lastOpenFiles": [
-    "daily/Jul 9, 2024.md",
+    "Practice/Frontend.md",
+    "snippets/NodeJS/File Upload.md",
+    "Micro Interactions/Untitled.md",
+    "Practice",
     "Micro Interactions/Animated Counter.md",
+    "daily/Jul 9, 2024.md",
     "Micro Interactions",
     "daily/Jul 8, 2024.md",
     "Monthly Goals/Small yet important Goals.md",
     "snippets/NodeJS/Sending Emails.md",
-    "snippets/NodeJS/Untitled.md",
     "snippets/NodeJS/Untitled 1.md",
     "Law Stuff/TnC, Privacy Policy writing.md",
     "snippets/NodeJS",
@@ -221,8 +237,6 @@
     "Zoho/Bookmarks/April/cli- Framework Project Bootstrapper.md",
     "Zoho/Bookmarks/April/npm- React-ripl.md",
     "Zoho/Bookmarks/April/AMU home server for hostels.md",
-    "Zoho/Bookmarks/April/article- Student Freebies.md",
-    "Yearly Goals/AMU i card.md",
     "Yearly Goals",
     "media/image.png",
     "Zoho/Bookmarks/April",
@@ -233,7 +247,6 @@
     "media/Pasted image 20240625034344.png",
     "media/Pasted image 20240625034201.png",
     "Zoho/Bookmarks/May",
-    "Zoho/Pages",
     "media/Pasted image 20240614184319.png",
     "media/448360123_970885227868195_3651311734176739597_n.gif",
     "media/Pasted image 20240530131124.png",
