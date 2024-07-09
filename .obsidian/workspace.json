@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/Jul 8, 2024.md",
+                "file": "OpenSource Contribs/Go Lang.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/Jul 8, 2024.md",
+                "file": "OpenSource Contribs/Go Lang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/Jul 8, 2024.md",
+                "file": "OpenSource Contribs/Go Lang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/Jul 8, 2024.md"
+                "file": "OpenSource Contribs/Go Lang.md"
               }
             }
           },
@@ -206,6 +206,9 @@
   },
   "active": "7319aa7334bcdd34",
   "lastOpenFiles": [
+    "daily/Jul 8, 2024.md",
+    "OpenSource Contribs/Go Lang.md",
+    "OpenSource Contribs",
     "daily/Jul 9, 2024.md",
     "Practice/LLM.md",
     "cli/TUILwaind - Tailwind for Textual CLI creator.md",
@@ -217,7 +220,6 @@
     "Practice",
     "Micro Interactions/Animated Counter.md",
     "Micro Interactions",
-    "daily/Jul 8, 2024.md",
     "Monthly Goals/Small yet important Goals.md",
     "snippets/NodeJS/Sending Emails.md",
     "snippets/NodeJS/Untitled 1.md",
@@ -236,7 +238,6 @@
     "daily/Jun 14, 2024.md",
     "daily/Jun 13, 2024.md",
     "daily/Jun 4, 2024.md",
-    "daily/Jun 22, 2024.md",
     "Yearly Goals",
     "media/image.png",
     "Zoho/Bookmarks/April",
@@ -246,7 +247,6 @@
     "Language Libraries",
     "media/Pasted image 20240625034344.png",
     "media/Pasted image 20240625034201.png",
-    "Zoho/Bookmarks/May",
     "media/Pasted image 20240614184319.png",
     "media/448360123_970885227868195_3651311734176739597_n.gif",
     "media/Pasted image 20240530131124.png",
