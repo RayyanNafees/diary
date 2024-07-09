@@ -11,5 +11,6 @@
   ],
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "media"
+  "attachmentFolderPath": "media",
+  "newLinkFormat": "relative"
 }
