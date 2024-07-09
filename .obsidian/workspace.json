@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenSource Contribs/Go Lang.md",
+                "file": "daily/Jul 9, 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenSource Contribs/Go Lang.md",
+                "file": "daily/Jul 9, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenSource Contribs/Go Lang.md",
+                "file": "daily/Jul 9, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpenSource Contribs/Go Lang.md"
+                "file": "daily/Jul 9, 2024.md"
               }
             }
           },
@@ -206,8 +206,8 @@
   },
   "active": "7319aa7334bcdd34",
   "lastOpenFiles": [
-    "daily/Jul 8, 2024.md",
     "OpenSource Contribs/Go Lang.md",
+    "daily/Jul 8, 2024.md",
     "OpenSource Contribs",
     "daily/Jul 9, 2024.md",
     "Practice/LLM.md",
