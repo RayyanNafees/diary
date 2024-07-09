@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/Jul 9, 2024.md",
+                "file": "daily/Jul 8, 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/Jul 9, 2024.md",
+                "file": "daily/Jul 8, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/Jul 9, 2024.md",
+                "file": "daily/Jul 8, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/Jul 9, 2024.md"
+                "file": "daily/Jul 8, 2024.md"
               }
             }
           },
@@ -206,6 +206,7 @@
   },
   "active": "7319aa7334bcdd34",
   "lastOpenFiles": [
+    "daily/Jul 9, 2024.md",
     "Practice/LLM.md",
     "cli/TUILwaind - Tailwind for Textual CLI creator.md",
     "Business/AMU specific businesses.md",
@@ -215,7 +216,6 @@
     "Micro Interactions/Untitled.md",
     "Practice",
     "Micro Interactions/Animated Counter.md",
-    "daily/Jul 9, 2024.md",
     "Micro Interactions",
     "daily/Jul 8, 2024.md",
     "Monthly Goals/Small yet important Goals.md",
