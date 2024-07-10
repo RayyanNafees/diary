@@ -1,3 +1,6 @@
+---
+icon: 🌴
+---
 ## Features to Implement
 
 1. Library

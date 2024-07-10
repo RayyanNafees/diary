@@ -1,3 +1,6 @@
+---
+icon: LiWandSparkles
+---
 Redesign the apps from the channels like
 - Hyperplexed
 - Juxtopposed

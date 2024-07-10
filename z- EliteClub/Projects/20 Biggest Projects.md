@@ -1,3 +1,6 @@
+---
+icon: 🌟
+---
 Needs to complete 5 each year
 that means 1 project completion every 2 months (With success) since 2 months are for holidays & exams
 # 1 Project / 2 Months

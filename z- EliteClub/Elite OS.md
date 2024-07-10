@@ -1,3 +1,6 @@
+---
+icon: SiWindowsxp
+---
 
 > First try f u can create the experience on web as a fork of [puter](https://puter.com) (or port it to Solid.js)
 

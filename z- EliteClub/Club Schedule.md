@@ -1,3 +1,6 @@
+---
+icon: LiTimer
+---
 The weekly schedule of the club & the daily syllabus covering 4 hours of the day
 Usually after 4 pm to isha (or maybe after maghrib time to bed time) - Needs to be discussed
 

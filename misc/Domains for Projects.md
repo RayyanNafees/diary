@@ -1,3 +1,6 @@
+---
+icon: 🌐
+---
 
 ## amu.ac
 - For successful services built by EliteClub that could be integrated as part of AMU officials

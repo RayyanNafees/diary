@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Micro Interactions/Animated Counter.md",
+                "file": "daily/Jul 11, 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Micro Interactions/Animated Counter.md",
+                "file": "daily/Jul 11, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Micro Interactions/Animated Counter.md",
+                "file": "daily/Jul 11, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Micro Interactions/Animated Counter.md"
+                "file": "daily/Jul 11, 2024.md"
               }
             }
           },
@@ -164,6 +164,14 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "1dcc1a6035884c0e",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ],
         "currentTab": 7
@@ -189,43 +197,48 @@
       "obsidian-trim-whitespace:Trim whitespace": false,
       "audio-recorder:Start/stop recording": false,
       "obsidian-file-cleaner:Clean files": false,
-      "zk-prefixer:Create new unique note": false
+      "ribbon-divider:ribbon-divider-a0c6f47c-d1f4-49bb-9046-ff237c7c275a": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-day-planner:Timeline": false,
+      "ribbon-divider:ribbon-divider-abcbcb61-45e7-4cdf-9729-9879ae2b4d2a": false
     }
   },
   "active": "82d6456e9d3cbf7b",
   "lastOpenFiles": [
-    "202407100410.md",
-    "202407100411.md",
-    "Micro Interactions/Animated Counter.md",
     "daily/Jul 10, 2024.md",
-    "daily/Jul 8, 2024.md",
-    "daily/Jul 9, 2024.md",
-    "misc/Domains for Projects.md",
-    "OpenSource Contribs/Go Lang.md",
+    "daily/Jul 11, 2024.md",
+    "daily/Jun 10, 2024.md",
+    "daily/Jun 9, 2024.md",
+    "daily/Jun 8, 2024.md",
+    "daily/Jun 7, 2024.md",
+    "daily/Jun 6, 2024.md",
+    "daily/Jun 5, 2024.md",
+    "daily/Jun 4, 2024.md",
+    "daily/Jun 3, 2024.md",
+    "daily/Jun 2, 2024.md",
+    "daily/Jun 1, 2024.md",
+    "daily/May 31, 2024.md",
+    "daily/May 30, 2024.md",
+    "README.md",
+    "Micro Interactions/Animated Counter.md",
+    "To Do steps.md",
+    "MCU UX leanrings.md",
+    "Arc Links.md",
+    "Zoho/Pages/Software Choices.md",
+    "Zoho/Bookmarks/May/video- encore.ts Crash Course.md",
+    "Zoho/Bookmarks/May/Search API + TUI.md",
+    "Zoho/Bookmarks/May/Rijjaal App.md",
+    "Zoho/Bookmarks/May/Popularize Islamic view towards Polyphasic Sleep.md",
+    "Zoho/Bookmarks/May/OSS Business Tools.md",
+    "Zoho/Bookmarks/May/Nikah App - Muslim Matrimony.md",
+    "canvas/Schedule.canvas",
     "OpenSource Contribs",
-    "Practice/LLM.md",
-    "cli/TUILwaind - Tailwind for Textual CLI creator.md",
-    "Business/AMU specific businesses.md",
-    "Business/Project ideas.md",
-    "snippets/NodeJS/File Upload.md",
-    "Practice/Frontend.md",
-    "Micro Interactions/Untitled.md",
     "Practice",
     "Micro Interactions",
-    "Monthly Goals/Small yet important Goals.md",
-    "snippets/NodeJS/Sending Emails.md",
-    "snippets/NodeJS/Untitled 1.md",
-    "Law Stuff/TnC, Privacy Policy writing.md",
     "snippets/NodeJS",
     "Simple Tutorials",
-    "Monthly Goals/Untitled.md",
     "Law Stuff",
-    "ai/Opera Tabs.md",
-    "daily/Untitled.md",
-    "daily/Jun 8, 2024.md",
-    "daily/Jun 2, 2024.md",
-    "daily/Jun 18, 2024.md",
-    "Monthly Goals/April Pending 321 goals.md",
     "Yearly Goals",
     "media/image.png",
     "Zoho/Bookmarks/April",
@@ -239,7 +252,6 @@
     "media/448360123_970885227868195_3651311734176739597_n.gif",
     "media/Pasted image 20240530131124.png",
     "media/Pasted image 20240530131134.png",
-    "media/Pasted image 20240525230342.png",
-    "canvas/Schedule.canvas"
+    "media/Pasted image 20240525230342.png"
   ]
 }

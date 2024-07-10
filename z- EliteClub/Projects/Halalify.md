@@ -1,3 +1,6 @@
+---
+icon: FiHeadphones
+---
 A Halal Spotify
 
 Redesigned with better UI based on [Juxtopposed Sopitfy redesigned](https://www.youtube.com/watch?v=suhEIUapSJQ)

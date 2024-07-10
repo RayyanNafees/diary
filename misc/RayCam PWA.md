@@ -1,3 +1,6 @@
+---
+icon: 📸
+---
 Rebuilt [shadowcam](https://shadowcam.netlify.app) in astro
 
 ## Functionality Improvements

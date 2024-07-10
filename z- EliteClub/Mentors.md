@@ -1,3 +1,6 @@
+---
+icon: 🎓
+---
 Each Mentor has 1 main subject and 1 side subject
 - He would be hold responsible for any lacking in his main subject
 - In case of Emergency (or the guy with main subject lacking) he has to take responsibility of his side subject

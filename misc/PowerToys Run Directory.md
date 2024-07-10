@@ -1,3 +1,6 @@
+---
+icon: SiAlfred
+---
 
 Create all Alfred Workflow & Raycast apps for PowerToys Run (less priced)
 

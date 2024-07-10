@@ -1,3 +1,3 @@
-# My Diary
-
-Updated daily !
+---
+icon: LiInfo
+---

@@ -1,3 +1,6 @@
+---
+icon: 🔖
+---
 These are the themes I've considered for my project
 While this directory will be having a Astro Starlight theme
 

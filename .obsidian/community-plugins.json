@@ -12,5 +12,9 @@
   "obsidian-trim-whitespace",
   "obsidian-linter",
   "table-editor-obsidian",
-  "obsidian-file-cleaner"
+  "obsidian-file-cleaner",
+  "webpage-html-export",
+  "digitalgarden",
+  "obsidian-day-planner",
+  "dataview"
 ]

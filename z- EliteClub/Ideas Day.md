@@ -1,3 +1,6 @@
+---
+icon: 💡
+---
 
 ## Types of Ideas to Discuss the next Week
 

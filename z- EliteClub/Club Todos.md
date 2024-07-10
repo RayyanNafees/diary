@@ -1,3 +1,6 @@
+---
+icon: ✅
+---
 Things to do in 1st week after the exam to get started with the club as fast as possible
 
 # Initial Tasks for the Club

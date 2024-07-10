@@ -1,3 +1,6 @@
+---
+icon: 🏝
+---
 - [Root words of Quran](https://www.rootwordsofquran.com/) ^4e900d
 - Darul Uloom Online
 - Arabic Tree Lear

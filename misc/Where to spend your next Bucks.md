@@ -1,3 +1,6 @@
+---
+icon: 💲
+---
 When u receive money, here a few services to invest them on (prioritized in order)
 Purpose for now is to get money and buy these
 

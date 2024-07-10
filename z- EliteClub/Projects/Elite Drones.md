@@ -1,3 +1,6 @@
+---
+icon: LiFan
+---
 Shows our various drone programs for various use cases
 - 📚 Library Drones
 - 🎮 Game 3D model enhancer drone

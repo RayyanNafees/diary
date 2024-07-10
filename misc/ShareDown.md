@@ -1,3 +1,6 @@
+---
+icon: FiShare2
+---
 Downloads youtube or other platforms' videos for putting on status
 
 Whenever a link is copied of a video from youtube/facebook/instagram, a popup bubble (like messenger is popped with options to Download and share the pp to which platform)

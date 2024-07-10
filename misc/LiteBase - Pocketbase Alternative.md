@@ -1,3 +1,6 @@
+---
+icon: LiDatabase
+---
 
 ## More Performant & Scalable
 
