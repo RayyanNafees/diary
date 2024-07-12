@@ -1,0 +1,1 @@
+- [SEO bot](https://app.seobotai.com) automatically manages your SEO

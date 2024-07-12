@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/Marketing Software Products.md",
+                "file": "Business/Website SEO.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business/Marketing Software Products.md",
+                "file": "Business/Website SEO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business/Marketing Software Products.md",
+                "file": "Business/Website SEO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business/Marketing Software Products.md"
+                "file": "Business/Website SEO.md"
               }
             }
           },
@@ -219,8 +219,9 @@
   },
   "active": "8744c37c5084e67e",
   "lastOpenFiles": [
-    "Monthly Goals/July Goals.md",
     "Business/Marketing Software Products.md",
+    "Business/Website SEO.md",
+    "Monthly Goals/July Goals.md",
     "Learning Articles/Open Source Tools.md",
     "media/Pasted image 20240713035723.png",
     "Learning Articles/Linux.md",
@@ -246,7 +247,6 @@
     "daily/May 30, 2024.md",
     "README.md",
     "Micro Interactions/Animated Counter.md",
-    "To Do steps.md",
     "canvas/Schedule.canvas",
     "OpenSource Contribs",
     "Practice",
