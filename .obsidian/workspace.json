@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/Jul 11, 2024.md",
+                "file": "daily/Jul 13, 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/Jul 11, 2024.md",
+                "file": "daily/Jul 13, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/Jul 11, 2024.md",
+                "file": "daily/Jul 13, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/Jul 11, 2024.md"
+                "file": "daily/Jul 13, 2024.md"
               }
             }
           },
@@ -206,8 +206,10 @@
   },
   "active": "82d6456e9d3cbf7b",
   "lastOpenFiles": [
-    "daily/Jul 10, 2024.md",
+    "misc/Diary site Themes.md",
+    "daily/Jul 13, 2024.md",
     "daily/Jul 11, 2024.md",
+    "daily/Jul 10, 2024.md",
     "daily/Jun 10, 2024.md",
     "daily/Jun 9, 2024.md",
     "daily/Jun 8, 2024.md",
@@ -230,8 +232,6 @@
     "Zoho/Bookmarks/May/Search API + TUI.md",
     "Zoho/Bookmarks/May/Rijjaal App.md",
     "Zoho/Bookmarks/May/Popularize Islamic view towards Polyphasic Sleep.md",
-    "Zoho/Bookmarks/May/OSS Business Tools.md",
-    "Zoho/Bookmarks/May/Nikah App - Muslim Matrimony.md",
     "canvas/Schedule.canvas",
     "OpenSource Contribs",
     "Practice",
