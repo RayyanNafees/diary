@@ -4,6 +4,7 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "wavy_dash",
     "cross_mark",
     "arrow_right",
     "arrow_left",
@@ -27,8 +28,7 @@
     "video_game",
     "user",
     "cloud",
-    "receipt",
-    "credit_card"
+    "receipt"
   ],
   "highlightMatches": true,
   "strictTrigger": true,
