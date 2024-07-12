@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "snippets/JavaScript/50 awesome hackes.md",
+                "file": "Business/Surviving a DDoS.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "snippets/JavaScript/50 awesome hackes.md",
+                "file": "Business/Surviving a DDoS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "snippets/JavaScript/50 awesome hackes.md",
+                "file": "Business/Surviving a DDoS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "snippets/JavaScript/50 awesome hackes.md"
+                "file": "Business/Surviving a DDoS.md"
               }
             }
           },
@@ -219,8 +219,9 @@
   },
   "active": "8744c37c5084e67e",
   "lastOpenFiles": [
-    "Learning Articles/Falsehoods about names.md",
     "snippets/JavaScript/50 awesome hackes.md",
+    "Business/Surviving a DDoS.md",
+    "Learning Articles/Falsehoods about names.md",
     "OpenSource Contribs/Writing Better PRs.md",
     "Business/Website SEO.md",
     "Business/Marketing Software Products.md",
@@ -246,7 +247,6 @@
     "daily/Jun 3, 2024.md",
     "daily/Jun 2, 2024.md",
     "daily/Jun 1, 2024.md",
-    "daily/May 31, 2024.md",
     "canvas/Schedule.canvas",
     "OpenSource Contribs",
     "Practice",
