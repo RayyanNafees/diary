@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/Website SEO.md",
+                "file": "snippets/JavaScript/50 awesome hackes.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business/Website SEO.md",
+                "file": "snippets/JavaScript/50 awesome hackes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business/Website SEO.md",
+                "file": "snippets/JavaScript/50 awesome hackes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business/Website SEO.md"
+                "file": "snippets/JavaScript/50 awesome hackes.md"
               }
             }
           },
@@ -219,8 +219,11 @@
   },
   "active": "8744c37c5084e67e",
   "lastOpenFiles": [
-    "Business/Marketing Software Products.md",
+    "Learning Articles/Falsehoods about names.md",
+    "snippets/JavaScript/50 awesome hackes.md",
+    "OpenSource Contribs/Writing Better PRs.md",
     "Business/Website SEO.md",
+    "Business/Marketing Software Products.md",
     "Monthly Goals/July Goals.md",
     "Learning Articles/Open Source Tools.md",
     "media/Pasted image 20240713035723.png",
@@ -244,9 +247,6 @@
     "daily/Jun 2, 2024.md",
     "daily/Jun 1, 2024.md",
     "daily/May 31, 2024.md",
-    "daily/May 30, 2024.md",
-    "README.md",
-    "Micro Interactions/Animated Counter.md",
     "canvas/Schedule.canvas",
     "OpenSource Contribs",
     "Practice",
