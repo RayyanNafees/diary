@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Articles/PostgREST.md",
+                "file": "Learning Articles/Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning Articles/PostgREST.md",
+                "file": "Learning Articles/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning Articles/PostgREST.md",
+                "file": "Learning Articles/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning Articles/PostgREST.md"
+                "file": "Learning Articles/Linux.md"
               }
             }
           },
@@ -219,8 +219,9 @@
   },
   "active": "8744c37c5084e67e",
   "lastOpenFiles": [
-    "Learning Articles/Git.md",
     "Learning Articles/PostgREST.md",
+    "Learning Articles/Linux.md",
+    "Learning Articles/Git.md",
     "daily/Untitled.md",
     "Learning Articles",
     "daily/Jul 13, 2024.md",
@@ -245,7 +246,6 @@
     "MCU UX leanrings.md",
     "Arc Links.md",
     "Zoho/Pages/Software Choices.md",
-    "Zoho/Bookmarks/May/video- encore.ts Crash Course.md",
     "canvas/Schedule.canvas",
     "OpenSource Contribs",
     "Practice",
