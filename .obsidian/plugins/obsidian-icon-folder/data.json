@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiGlasses",
       "FiGithub",
       "LiScale",
       "⚖",
-      "BoBxCart",
-      "⭐"
+      "BoBxCart"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -68,5 +68,6 @@
   "Zoho": "BoBxCart",
   "Zoho/Pages/Software Choices.md": "⭐",
   "Law Stuff": "LiScale",
-  "OpenSource Contribs": "FiGithub"
+  "OpenSource Contribs": "FiGithub",
+  "Learning Articles": "LiGlasses"
 }
