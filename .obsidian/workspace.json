@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly Goals/July Goals.md",
+                "file": "daily/Jul 13, 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monthly Goals/July Goals.md",
+                "file": "daily/Jul 13, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monthly Goals/July Goals.md",
+                "file": "daily/Jul 13, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly Goals/July Goals.md"
+                "file": "daily/Jul 13, 2024.md"
               }
             }
           },
@@ -219,13 +219,13 @@
   },
   "active": "8744c37c5084e67e",
   "lastOpenFiles": [
+    "Monthly Goals/July Goals.md",
     "Business/Surviving a DDoS.md",
     "snippets/JavaScript/50 awesome hackes.md",
     "Learning Articles/Falsehoods about names.md",
     "OpenSource Contribs/Writing Better PRs.md",
     "Business/Website SEO.md",
     "Business/Marketing Software Products.md",
-    "Monthly Goals/July Goals.md",
     "Learning Articles/Open Source Tools.md",
     "media/Pasted image 20240713035723.png",
     "Learning Articles/Linux.md",
