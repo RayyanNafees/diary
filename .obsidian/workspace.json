@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/Jul 14, 2024.md",
+                "file": "misc/Where to spend your next Bucks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/Jul 14, 2024.md",
+                "file": "misc/Where to spend your next Bucks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/Jul 14, 2024.md",
+                "file": "misc/Where to spend your next Bucks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/Jul 14, 2024.md"
+                "file": "misc/Where to spend your next Bucks.md"
               }
             }
           },
@@ -206,8 +206,8 @@
   },
   "active": "98d19cac8babf960",
   "lastOpenFiles": [
-    "misc/Where to spend your next Bucks.md",
     "daily/Jul 14, 2024.md",
+    "misc/Where to spend your next Bucks.md",
     "Micro Interactions/Animated Counter.md",
     "daily/Jul 13, 2024.md",
     "Monthly Goals/July Goals.md",

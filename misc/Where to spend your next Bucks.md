@@ -6,10 +6,10 @@ Purpose for now is to get money and buy these
 
 ## Study
 
-| S.No | Items                                                                                                                                  | Prices |
-| ---- | -------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| 1.   | [CS Gate Books](https://store.pw.live/products/gate-cs-it-pyq)                                                                         | 1k     |
-| 2.   | [ME Gate Books](https://store.pw.live/products/gatewallah-topicwise-pyq-combo-mechanical-engineering-engineering-mathematics-aptitude) | 1k     |
+| S.No | Items                                                          | Prices |
+| ---- | -------------------------------------------------------------- | ------ |
+| 1.   | [CS Gate Books](https://store.pw.live/products/gate-cs-it-pyq) | 1k     |
+| 2.   | Pocket Mic with Noise Cancellation                             | 200    |
 
 # Total =  ₹ 60k
 
