@@ -2,7 +2,7 @@
   "settingsVersion": "1.8.01",
   "makeOfflineCompatible": false,
   "inlineAssets": false,
-  "includePluginCSS": "",
+  "includePluginCSS": "ribbon-divider\nobsidian-day-planner",
   "includeSvelteCSS": true,
   "titleProperty": "title",
   "customHeadContentPath": "",
@@ -26,11 +26,11 @@
   "addGraphView": true,
   "addTitle": true,
   "addRSSFeed": true,
-  "siteURL": "",
-  "authorName": "",
+  "siteURL": "https://obsidian.surge.sh/",
+  "authorName": "Rayyan Nafees",
   "vaultTitle": "diary",
   "exportPreset": "website",
-  "openAfterExport": false,
+  "openAfterExport": true,
   "graphAttractionForce": 1,
   "graphLinkLength": 10,
   "graphRepulsionForce": 150,
@@ -45,6 +45,8 @@
   "defaultMediaIcon": "lucide//file-image",
   "exportPath": "D:\\\\Etc\\surge\\mydiary",
   "filesToExport": [
-    []
+    [
+      "all"
+    ]
   ]
 }
