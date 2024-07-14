@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Micro Interactions/Animated Counter.md",
+                "file": "daily/Jul 14, 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Micro Interactions/Animated Counter.md",
+                "file": "daily/Jul 14, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Micro Interactions/Animated Counter.md",
+                "file": "daily/Jul 14, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Micro Interactions/Animated Counter.md"
+                "file": "daily/Jul 14, 2024.md"
               }
             }
           },
@@ -231,8 +231,9 @@
   },
   "active": "98d19cac8babf960",
   "lastOpenFiles": [
-    "daily/Jul 13, 2024.md",
     "Micro Interactions/Animated Counter.md",
+    "daily/Jul 14, 2024.md",
+    "daily/Jul 13, 2024.md",
     "Monthly Goals/July Goals.md",
     "Business/Surviving a DDoS.md",
     "snippets/JavaScript/50 awesome hackes.md",
@@ -258,7 +259,6 @@
     "daily/Jun 5, 2024.md",
     "daily/Jun 4, 2024.md",
     "daily/Jun 3, 2024.md",
-    "daily/Jun 2, 2024.md",
     "canvas/Schedule.canvas",
     "OpenSource Contribs",
     "Practice",
