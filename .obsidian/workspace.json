@@ -166,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -199,10 +199,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "98d19cac8babf960",
+  "active": "03a9ba225a59d1fe",
   "lastOpenFiles": [
-    "misc/Time Management Tips.md",
+    "daily/Jun 2, 2024.md",
     "daily/Jul 15, 2024.md",
+    "misc/Time Management Tips.md",
     "daily/Untitled Kanban.md",
     "daily/Jul 14, 2024.md",
     "README.md",
@@ -226,7 +227,6 @@
     "Zoho/Bookmarks/May/article- Handy Functions in Go, Python & Rust.md",
     "Zoho/Bookmarks/May/AMU + Jamia Islamic Banking app.md",
     "Zoho/Bookmarks/April/Wikipedia Redesigned Web Extension from Juxtopposed.md",
-    "Zoho/Bookmarks/April/video- OSS software creation.md",
     "canvas/Schedule.canvas",
     "media/Pasted image 20240713035723.png",
     "Learning Articles",
