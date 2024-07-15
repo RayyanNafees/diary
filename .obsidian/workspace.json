@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "83bc59d2f9c6653e",
@@ -179,6 +178,7 @@
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
       "workspaces:Manage workspace layouts": false,
+      "webpage-html-export:Export Vault to HTML": false,
       "ribbon-divider:ribbon-divider-df5069dd-b0fb-4170-be28-01b8b246ab68": false,
       "daily-notes:Open today's daily note": false,
       "canvas:Create new canvas": false,
@@ -187,20 +187,23 @@
       "ribbon-divider:ribbon-divider-86ec57d0-42dc-4e8a-900c-d4430e558348": false,
       "random-note:Open random note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-trim-whitespace:Trim whitespace": false,
+      "latex-ocr:LatexOCR": false,
       "audio-recorder:Start/stop recording": false,
+      "obsidian-trim-whitespace:Trim whitespace": false,
       "obsidian-file-cleaner:Clean files": false,
       "ribbon-divider:ribbon-divider-a0c6f47c-d1f4-49bb-9046-ff237c7c275a": false,
-      "webpage-html-export:Export Vault to HTML": false,
+      "templater-obsidian:Templater": false,
       "digitalgarden:Digital Garden Publication Center": false,
-      "obsidian-day-planner:Timeline": false,
-      "ribbon-divider:ribbon-divider-abcbcb61-45e7-4cdf-9729-9879ae2b4d2a": false
+      "ribbon-divider:ribbon-divider-abcbcb61-45e7-4cdf-9729-9879ae2b4d2a": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-day-planner:Timeline": false
     }
   },
   "active": "98d19cac8babf960",
   "lastOpenFiles": [
-    "daily/Jul 14, 2024.md",
+    "daily/Untitled Kanban.md",
     "daily/Jul 15, 2024.md",
+    "daily/Jul 14, 2024.md",
     "README.md",
     "daily/May 25, 2024.md",
     "Arc Links.md",
@@ -224,7 +227,6 @@
     "Zoho/Bookmarks/April/Wikipedia Redesigned Web Extension from Juxtopposed.md",
     "Zoho/Bookmarks/April/video- OSS software creation.md",
     "Zoho/Bookmarks/April/video- Leanr the way Video was editted and create a similar one for promoting Elite Club Projects.md",
-    "Zoho/Bookmarks/April/v0 clone with Cloudflare AI beta models.md",
     "canvas/Schedule.canvas",
     "media/Pasted image 20240713035723.png",
     "Learning Articles",

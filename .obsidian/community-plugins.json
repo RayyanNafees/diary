@@ -13,8 +13,11 @@
   "obsidian-linter",
   "table-editor-obsidian",
   "obsidian-file-cleaner",
-  "webpage-html-export",
-  "digitalgarden",
   "obsidian-day-planner",
-  "dataview"
+  "dataview",
+  "quickadd",
+  "webpage-html-export",
+  "obsidian-kanban",
+  "latex-ocr",
+  "templater-obsidian"
 ]
