@@ -4,6 +4,7 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "thumbsup",
     "cross_mark",
     "wavy_dash",
     "arrow_right",
@@ -27,8 +28,7 @@
     "shopping_cart",
     "video_game",
     "user",
-    "cloud",
-    "receipt"
+    "cloud"
   ],
   "highlightMatches": true,
   "strictTrigger": true,
