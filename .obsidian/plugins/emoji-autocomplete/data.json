@@ -4,8 +4,8 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
-    "wavy_dash",
     "cross_mark",
+    "wavy_dash",
     "arrow_right",
     "arrow_left",
     "four",
