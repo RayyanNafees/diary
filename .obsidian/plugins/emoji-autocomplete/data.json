@@ -4,8 +4,9 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
-    "thumbsup",
     "cross_mark",
+    "grey_question",
+    "thumbsup",
     "wavy_dash",
     "arrow_right",
     "arrow_left",
@@ -27,8 +28,7 @@
     "computer",
     "shopping_cart",
     "video_game",
-    "user",
-    "cloud"
+    "user"
   ],
   "highlightMatches": true,
   "strictTrigger": true,
