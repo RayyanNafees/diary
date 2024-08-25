@@ -9,7 +9,6 @@
   "settings-search",
   "cmdr",
   "obsidian-excalidraw-plugin",
-  "obsidian-trim-whitespace",
   "obsidian-linter",
   "table-editor-obsidian",
   "obsidian-file-cleaner",
@@ -19,5 +18,10 @@
   "webpage-html-export",
   "obsidian-kanban",
   "latex-ocr",
-  "templater-obsidian"
+  "templater-obsidian",
+  "smart-connections",
+  "obsidian-enhancing-export",
+  "obsidian-reading-time",
+  "omnisearch",
+  "obsidian-auto-link-title"
 ]

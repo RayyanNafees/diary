@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FiClock",
-      "LiGlasses",
-      "FiGithub",
-      "LiScale",
-      "⚖"
+      "FarChessQueen",
+      "LiAudioLines",
+      "BoBxsQuoteAltLeft",
+      "LiClock",
+      "👑"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -67,8 +67,17 @@
   "snippets/Django Roadmap.md": "SiDjango",
   "Zoho": "BoBxCart",
   "Zoho/Pages/Software Choices.md": "⭐",
-  "Law Stuff": "LiScale",
   "OpenSource Contribs": "FiGithub",
   "Learning Articles": "LiGlasses",
-  "misc/Time Management Tips.md": "FiClock"
+  "misc/Time Management Tips.md": "FiClock",
+  "Art": "🎨",
+  "misc/Create Tailwind FX plugin.md": "SiTailwindcss",
+  "snippets/Tailwind": "SiTailwindcss",
+  "misc/Law Stuff": "LiScale",
+  "Personal Development": "👑",
+  "Personal Development/Regiment Rules.md": "🧠",
+  "Personal Development/20 hrs goas.md": "LiClock",
+  "Personal Development/Quotes.md": "BoBxsQuoteAltLeft",
+  "Personal Development/Audio Library Genesis.md": "LiAudioLines",
+  "Personal Development/Socializing.md": "FarChessQueen"
 }

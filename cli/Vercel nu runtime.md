@@ -1,0 +1,1 @@
+Just like Vercel's Community [Bash runtime](https://github.com/vercel-community/bash) create one for nushell language

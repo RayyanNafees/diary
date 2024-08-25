@@ -1,0 +1,7 @@
+- [Marketing & productive ai tools](https://medium.com/@hii_mohit/5-latest-ai-projects-that-will-blow-your-mind-e41ae15a8f35)
+	- Reply Guy - ReplyGuy is an AI tool that helps founders and startups find the best online conversations to mention their products. It scans the internet for relevant keywords, suggests high-quality replies, and automates responses to maximize engagement.
+	- [**buildthekeyword.com**](https://buildthekeyword.com/) - Build keywords to grab audienec and make your priduct around them
+	- **:** [**audionotes.app**](https://audionotes.app/?aff=nyLmN) - Runs ai on your audio and creates notes on top of them
+	- [**infography.in**](https://infography.in/?aff=nyLmN) turn boring blogs into stunning infographics
+	- [**autoshorts.ai**](https://autoshorts.ai/?ref=limitedoffer) Create shorts of any niche
+	-

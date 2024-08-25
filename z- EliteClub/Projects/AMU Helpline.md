@@ -10,7 +10,7 @@
 	- Hospital / Medicine store etc
 - Psychology Seniors interested in taking Couselling sessions (Fee/paid)
 	- Love counselling
-	- Psychiatrist doctorm @ JNMC
+	- Psychiatrist doctor @ JNMC
 	- Resolving Conflict
 	- Depression / Alone / Anxious
 	- needing a friend to talk to

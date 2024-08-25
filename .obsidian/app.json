@@ -13,5 +13,10 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "media",
   "newLinkFormat": "relative",
-  "showRibbon": true
+  "showRibbon": true,
+  "showInlineTitle": true,
+  "readableLineLength": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showIndentGuide": true
 }

@@ -1,0 +1,3 @@
+- Inspired by roadmap.sh
+- Has roadmaps for all the fields to excel in not just in tech
+- 

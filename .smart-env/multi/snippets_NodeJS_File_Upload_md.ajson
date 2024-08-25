@@ -1,0 +1,3 @@
+
+"SmartSource:snippets/NodeJS/File Upload.md": {"key":"snippets/NodeJS/File Upload.md","path":"snippets/NodeJS/File Upload.md","embeddings":{},"history":[{"blocks":{"snippets/NodeJS/File Upload.md#":true},"mtime":1720470157747,"size":94,"hash":"9dfed1907d2019ea45c9adf6c791fc74efdfdbe3de26e4c8dafb0aa4acd74743"}],"class_name":"SmartSource","outlinks":[{"title":"resumable fileuploads - tuts.io","target":"https://tus.io/implementations","line":2},{"title":"uppy","target":"https://uppy.io","line":3}]}
+"SmartBlock:snippets/NodeJS/File Upload.md#": {"key":"snippets/NodeJS/File Upload.md#","path":"snippets/NodeJS/File Upload.md#","embeddings":{},"text":null,"length":93,"class_name":"SmartBlock","heading":null,"lines":[0,2]}
