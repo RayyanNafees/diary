@@ -74,6 +74,9 @@ icon: 🧠
 - do what you say you will
 - show up on time
 - close the loop
+```js
+for (let i =0; i< Math.Infinity; i++); // closed with a ';'
+```
 - people remember how you make them feel
 - consistency breeds excellence
 - ship something everyday

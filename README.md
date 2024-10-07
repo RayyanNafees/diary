@@ -1,14 +1,20 @@
 ---
 icon: LiInfo
 ---
-# Wetin dey sup for boys !!?
+
+## VScode Profiles to import
+
+- [Astro](vscodium://profile/github/e6738ed624a1a28129b57b756bb7fc5e)
+- [Python](vscodium://profile/github/d66149101e0b58ce8a7887263a2e15e6)
+- [Rust](vscodium://profile/github/cc4ed688504d284526a5466c50a920da)
+- [Go](vscodium://profile/github/270e95a8f8339df92e904dd580dcaa6f)
+- [React Native](vscodium://profile/github/b45c78b26b5f0bcbe9b2af7bf21e4c57)
+- [Pocketbase + Preact + P](vscodium://profile/github/46baa589349bc93436b55f3b57720f70)
 
 
-> [!important]
-> Hargobind said "Me bhi rat me active rhta hu to agr koi rat me available rhta ho he can tell me that we can execute it in night", put that in front of Khushboo & paras
-> 
-> Ask Khushboo what would be the implications of This hourly rate on the future of your career. Will it be counted as industrial experience or would it not be counted and I would just be paid 
+# Women are only loyal to their feelings, unless the
 
+[BEST SHOULDER RIDING HSCISSOR](https://spankbang.party/8i4fa/video/old+scissors+4)
 
 VALIDATE YOUR IDEAS with [FlowKitten](https://flowkitten.com) 
 

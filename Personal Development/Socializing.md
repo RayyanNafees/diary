@@ -1,4 +1,4 @@
-UseWhen u are in a setting of no respect, don't go in a group where u are not respected, else u would end up being a people pleaser for them, and they would be the unpleased no matter what u do
+Use When u are in a setting of no respect, don't go in a group where u are not respected, else u would end up being a people pleaser for them, and they would be the unpleased no matter what u do
 
 Becoming a People Magnet from a People Pleaser
 ## 3 things needed to be respected in a group

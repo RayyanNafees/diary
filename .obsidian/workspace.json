@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cb949e3005a0a55a",
+        "id": "748516daadc456b9",
         "type": "tabs",
         "children": [
           {
-            "id": "e6564f74b6c51bfe",
+            "id": "a4b8d1b94391df39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arc Links.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "334ab2bc28cee447",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z- EliteClub/Projects/AMU Dining.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd325a92451b35d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z- EliteClub/Projects/AMU Talent Hub.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4019517a6d54dbad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal Development/Socializing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ccbcdc22438dc57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal Development/20 hrs goas.md",
+                "file": "cli/Vercel nu runtime.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hack",
+                "query": "tag:#2pm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,35 +80,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1456157bf1ac9e1c",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Personal Development/Socializing.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "78011f28ebc6c0a0",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Personal Development/Socializing.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "3454f50550fc67cc",
             "type": "leaf",
             "state": {
@@ -169,15 +91,44 @@
             }
           },
           {
-            "id": "cb4b45c8f97bb97e",
+            "id": "d92bf8e584fe96bd",
             "type": "leaf",
             "state": {
-              "type": "git-history-view",
+              "type": "calendar",
               "state": {}
             }
           },
           {
-            "id": "f19c62a36bc883da",
+            "id": "5582625ae6dc78f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cli/Vercel nu runtime.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "57456529fb829298",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "cli/Vercel nu runtime.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9ffaed70dbcbcff5",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -189,57 +140,16 @@
             }
           },
           {
-            "id": "3a17c9dd7f8f2b4d",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "b51cddb4d0c46455",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "bc33f67d6cb812aa",
+            "id": "49893891e97712d5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Development/Socializing.md"
+                "file": "cli/Vercel nu runtime.md"
               }
             }
-          },
-          {
-            "id": "08acd38c64b704b9",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "4e5b0442399a329d",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "035cc5f3c821e142",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "horizontal",
@@ -272,34 +182,34 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "4019517a6d54dbad",
+  "active": "a4b8d1b94391df39",
   "lastOpenFiles": [
-    "daily/Aug 25, 2024.md",
-    "Personal Development/Socializing.md",
-    "Arc Links.md",
-    "Personal Development/Audio Library Genesis.md",
-    "misc/Hyperbola & Triangle Simulation.md",
+    "daily/Sep 28, 2024.md",
     "README.md",
-    "daily/Aug 24, 2024.md",
-    "SAF connect.md",
-    "z- EliteClub/Projects/Untitled.md",
-    "z- EliteClub/Projects/AMU Talent Hub.md",
-    "z- EliteClub/Projects/AMU Roadmaps.md",
-    "z- EliteClub/Projects/AMU Merchandise.md",
-    "z- EliteClub/Projects/AMU Helpline.md",
-    "z- EliteClub/Projects/AMU Dining.md",
-    "z- EliteClub/Projects/AMU Accords.md",
-    "z- EliteClub/Projects/Drones/QUAILS - Manno Salwa.md",
-    "snippets/Tailwind/iconned input.md",
-    "smart-chats/UNTITLED CHAT 2024-08-08 13 53 54.md",
+    "cli/spiel.md",
+    "Personal Development/Socializing.md",
     "Personal Development/Regiment Rules.md",
-    "misc/Where to spend your next Bucks.md",
-    "misc/Untitled.md",
-    "misc/Micro Interactions/Animated Counter.md",
-    "misc/Law Stuff/TnC, Privacy Policy writing.md",
-    "daily/Untitled Kanban 1.md",
-    "daily/Untitled.md",
-    "daily/Jul 30, 2024.md",
+    "Personal Development/Quotes.md",
+    "Personal Development/Audio Library Genesis.md",
+    "Personal Development/20 hrs goas.md",
+    "Personal Development/_ Priorities.md",
+    "daily/Sep 26, 2024.md",
+    "smart-chats/UNTITLED CHAT 2024-09-26 11 35 26.md",
+    "smart-chats/UNTITLED CHAT 2024-08-08 13 53 54.md",
+    "snippets/Tailwind/iconned input.md",
+    "daily/Sep 18, 2024.md",
+    "daily/Sep 14, 2024.md",
+    "daily/Sep 15, 2024.md",
+    "daily/Sep 16, 2024.md",
+    "daily/Sep 13, 2024.md",
+    "Arc Links.md",
+    "SAF connect.md",
+    "daily/Sep 11, 2024.md",
+    "daily/Sep 9, 2024.md",
+    "z- EliteClub/Projects/AMU Talent Hub.md",
+    "snippets/HTML/spinner.css.md",
+    "snippets/HTML/ServiceWorker - offline assets.md",
+    "snippets/HTML/prose.css.md",
     "Personal Development",
     "z- EliteClub/Projects/Drones",
     "media/{7A227745-F66A-4F85-9A16-016A1779DF1E}.png",

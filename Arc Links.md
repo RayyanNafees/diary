@@ -17,31 +17,17 @@
 - [ ] [Beginner Arabic Exercises](https://arabicforbeginners.com/)
 
 ## Quran
-https://www.youtube.com/shorts/xXqWkKQMVKw
-https://www.youtube.com/shorts/OjZ20YQbido
-https://www.youtube.com/shorts/rnGgZGQqnCU
-https://www.youtube.com/watch?v=en2IxEWi_sw
-https://www.youtube.com/shorts/ylILLt2Tesk
-https://www.youtube.com/shorts/FeNVjSVjSGU
-https://www.youtube.com/shorts/dZN0r905YSM
-https://www.youtube.com/shorts/5S_xlGV7XHA
-https://www.youtube.com/shorts/IgsniLwdtzw
-https://www.youtube.com/shorts/nemC8iB41Wo
-https://www.youtube.com/shorts/oK3VXUCiS5E
-https://www.youtube.com/shorts/BuLvFrjVHTs
-https://www.youtube.com/shorts/Il9pGIYDKkA
-https://www.youtube.com/shorts/A_yl0w8gDIU
-https://www.youtube.com/shorts/9552YJWSMZA
-https://www.youtube.com/shorts/dcoHMn-ZAdo
-https://www.youtube.com/shorts/HyMxzQ_rro8
-https://www.youtube.com/shorts/I0cBRzLwim0
-https://www.youtube.com/shorts/D-DMbAUOvA0
-https://www.youtube.com/shorts/ym3Or6BjdeU
-https://www.youtube.com/shorts/Jubni1VPHqk
-https://www.youtube.com/shorts/059FYZnHnVE
-https://www.youtube.com/shorts/cha5I-mhzZs
-https://www.youtube.com/shorts/z39Qb49uDTA
-https://www.youtube.com/shorts/dZN0r905YSM
+https://www.youtube.com/shorts/FeNVjSVjSGU ⭐
+https://www.youtube.com/shorts/nemC8iB41Wo ⭐
+https://www.youtube.com/shorts/BuLvFrjVHTs ⭐
+https://www.youtube.com/shorts/9552YJWSMZA ⭐
+https://www.youtube.com/shorts/dcoHMn-ZAdo ⭐
+https://www.youtube.com/shorts/I0cBRzLwim0 ⭐
+https://www.youtube.com/shorts/ym3Or6BjdeU ⭐
+https://www.youtube.com/shorts/Jubni1VPHqk ⭐
+https://www.youtube.com/shorts/059FYZnHnVE ⭐⭐
+https://www.youtube.com/shorts/cha5I-mhzZs ⭐
+https://www.youtube.com/shorts/z39Qb49uDTA ⭐
 
 ## Muslim Estic
 - [Asbaab is important](https://youtube.com/shorts/CpHucGvO4Ws?si=CE3GSAh008cWuEIg)
@@ -62,37 +48,37 @@ https://www.youtube.com/watch?v=3vL272WuN9I
 ### Coding
 
 https://medium.com/@apoorva.gcet/securing-node-js-in-production-expert-practices-for-every-developer-9343c1ee0f79
-https://jviide.iki.fi/http-redirects
+https://jviide.iki.fi/http-redirects 📖
 https://developers.facebook.com/docs/whatsapp/cloud-api/payments-api/payments-in
-https://www.logo.dev/
+https://www.logo.dev/ 
 https://www.browserstack.com/open-source
-https://www.html.am/
+https://www.html.am/ 🤓
 https://github.com/gdcmarinho/awesome-project/blob/master/LINKS.md
-https://github.com/brootware/awesome-cyber-security-university
+https://github.com/brootware/awesome-cyber-security-university 🌟
 https://vault.dotenv.org/ui/ui1/profile/activity
-https://www.npmjs.com/package/astro-decap
 https://dev.to/miguelrodriguezp99/frontend-resources-1dl4
-https://roadmap.sh/system-design
-https://www.jare.io/
-https://balta.io/carreiras
-https://roadmap.sh/postgresql-dba
-https://silentteacher.toxicode.fr/
+https://www.jare.io/ ⭐
 https://freddyfeedback.com/features
 https://medium.com/aimonks/ultimate-chatgpt-4o-prompt-guide-9acb360e79a2
-https://codate.io/
-https://typescript.tv/hands-on/save-memory-with-typescript-generators/
-https://jadecodes.substack.com/p/when-agile-isnt-agile
+https://codate.io/ ⭐
+https://typescript.tv/hands-on/save-memory-with-typescript-generators/ 📖
+https://jadecodes.substack.com/p/when-agile-isnt-agile 📖
 https://github.com/ImageOptim/gifski
 https://www.shapeof.ai/
-https://favtutor.com/articles/donts-for-software-engineer/
+https://favtutor.com/articles/donts-for-software-engineer/ 📖
 https://imgsrc.io/
-https://medium.com/@alexobidiegwu/50-laws-of-best-practices-in-python-6942c7cafd56
+https://medium.com/@alexobidiegwu/50-laws-of-best-practices-in-python-6942c7cafd56 📖
+
+### CLI 
+
 https://github.com/sxyazi/yazi
 https://github.com/jgm/pandoc
 https://terminaltrove.com/ttyper/
-https://terminaltrove.com/portal/
-https://terminaltrove.com/zrok/
+https://terminaltrove.com/portal/ ⭐
+https://terminaltrove.com/zrok/ ⭐
 https://terminaltrove.com/hurl/
+
+
 https://fontsource.org/fonts/lato/install
 https://www.fontshare.com/
 https://variantvault.chrisabdo.dev/
@@ -112,7 +98,6 @@ https://notepadtab.com/#eNpTVsjI5OLSVYhWiFUIyU_JBzErYhXK88u5uHIVcvN0uNKSy7IykrJz
 
 https://socialscreenshots.com/editor
 
-https://app.aidbase.ai/sources?ws=e757a50c-c643-4e3c-bd39-ff1cfb3e87d3
 
 ### Arc recovery packet
 ```
