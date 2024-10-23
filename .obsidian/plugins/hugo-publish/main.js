@@ -659,9 +659,9 @@ var require_graceful_fs = __commonJS({
         }
       }
       var fs$readdir = fs2.readdir;
-      fs2.readdir = readdir;
+      fs2.readdir = readdir2;
       var noReaddirOptionVersions = /^v[0-5]\./;
-      function readdir(path4, options, cb) {
+      function readdir2(path4, options, cb) {
         if (typeof options === "function")
           cb = options, options = null;
         var go$readdir = noReaddirOptionVersions.test(process.version) ? function go$readdir2(path5, options2, cb2, startTime) {
@@ -1251,7 +1251,7 @@ var require_copy = __commonJS({
     var { mkdirs } = require_mkdirs();
     var { pathExists } = require_path_exists();
     var { utimesMillis } = require_utimes();
-    var stat = require_stat();
+    var stat2 = require_stat();
     async function copy2(src, dest, opts = {}) {
       if (typeof opts === "function") {
         opts = { filter: opts };
@@ -1265,8 +1265,8 @@ var require_copy = __commonJS({
           "fs-extra-WARN0001"
         );
       }
-      const { srcStat, destStat } = await stat.checkPaths(src, dest, "copy", opts);
-      await stat.checkParentPaths(src, srcStat, dest, "copy");
+      const { srcStat, destStat } = await stat2.checkPaths(src, dest, "copy", opts);
+      await stat2.checkParentPaths(src, srcStat, dest, "copy");
       const include = await runFilter(src, dest, opts);
       if (!include)
         return;
@@ -1336,7 +1336,7 @@ var require_copy = __commonJS({
         const include = await runFilter(srcItem, destItem, opts);
         if (!include)
           return;
-        const { destStat: destStat2 } = await stat.checkPaths(srcItem, destItem, "copy", opts);
+        const { destStat: destStat2 } = await stat2.checkPaths(srcItem, destItem, "copy", opts);
         return getStatsAndPerformCopy(destStat2, srcItem, destItem, opts);
       }));
       if (!destStat) {
@@ -1362,10 +1362,10 @@ var require_copy = __commonJS({
       if (opts.dereference) {
         resolvedDest = path4.resolve(process.cwd(), resolvedDest);
       }
-      if (stat.isSrcSubdir(resolvedSrc, resolvedDest)) {
+      if (stat2.isSrcSubdir(resolvedSrc, resolvedDest)) {
         throw new Error(`Cannot copy '${resolvedSrc}' to a subdirectory of itself, '${resolvedDest}'.`);
       }
-      if (stat.isSrcSubdir(resolvedDest, resolvedSrc)) {
+      if (stat2.isSrcSubdir(resolvedDest, resolvedSrc)) {
         throw new Error(`Cannot overwrite '${resolvedDest}' with '${resolvedSrc}'.`);
       }
       await fs.unlink(dest);
@@ -1383,7 +1383,7 @@ var require_copy_sync = __commonJS({
     var path4 = require("path");
     var mkdirsSync = require_mkdirs().mkdirsSync;
     var utimesMillisSync = require_utimes().utimesMillisSync;
-    var stat = require_stat();
+    var stat2 = require_stat();
     function copySync(src, dest, opts) {
       if (typeof opts === "function") {
         opts = { filter: opts };
@@ -1398,8 +1398,8 @@ var require_copy_sync = __commonJS({
           "fs-extra-WARN0002"
         );
       }
-      const { srcStat, destStat } = stat.checkPathsSync(src, dest, "copy", opts);
-      stat.checkParentPathsSync(src, srcStat, dest, "copy");
+      const { srcStat, destStat } = stat2.checkPathsSync(src, dest, "copy", opts);
+      stat2.checkParentPathsSync(src, srcStat, dest, "copy");
       if (opts.filter && !opts.filter(src, dest))
         return;
       const destParent = path4.dirname(dest);
@@ -1477,7 +1477,7 @@ var require_copy_sync = __commonJS({
       const destItem = path4.join(dest, item);
       if (opts.filter && !opts.filter(srcItem, destItem))
         return;
-      const { destStat } = stat.checkPathsSync(srcItem, destItem, "copy", opts);
+      const { destStat } = stat2.checkPathsSync(srcItem, destItem, "copy", opts);
       return getStats(destStat, srcItem, destItem, opts);
     }
     function onLink(destStat, src, dest, opts) {
@@ -1499,10 +1499,10 @@ var require_copy_sync = __commonJS({
         if (opts.dereference) {
           resolvedDest = path4.resolve(process.cwd(), resolvedDest);
         }
-        if (stat.isSrcSubdir(resolvedSrc, resolvedDest)) {
+        if (stat2.isSrcSubdir(resolvedSrc, resolvedDest)) {
           throw new Error(`Cannot copy '${resolvedSrc}' to a subdirectory of itself, '${resolvedDest}'.`);
         }
-        if (stat.isSrcSubdir(resolvedDest, resolvedSrc)) {
+        if (stat2.isSrcSubdir(resolvedDest, resolvedSrc)) {
           throw new Error(`Cannot overwrite '${resolvedDest}' with '${resolvedSrc}'.`);
         }
         return copyLink(resolvedSrc, dest);
@@ -1534,14 +1534,14 @@ var require_remove = __commonJS({
     "use strict";
     var fs = require_graceful_fs();
     var u = require_universalify().fromCallback;
-    function remove(path4, callback) {
+    function remove2(path4, callback) {
       fs.rm(path4, { recursive: true, force: true }, callback);
     }
     function removeSync(path4) {
       fs.rmSync(path4, { recursive: true, force: true });
     }
     module2.exports = {
-      remove: u(remove),
+      remove: u(remove2),
       removeSync
     };
   }
@@ -1555,7 +1555,7 @@ var require_empty = __commonJS({
     var fs = require_fs();
     var path4 = require("path");
     var mkdir = require_mkdirs();
-    var remove = require_remove();
+    var remove2 = require_remove();
     var emptyDir2 = u(async function emptyDir3(dir) {
       let items;
       try {
@@ -1563,7 +1563,7 @@ var require_empty = __commonJS({
       } catch (e) {
         return mkdir.mkdirs(dir);
       }
-      return Promise.all(items.map((item) => remove.remove(path4.join(dir, item))));
+      return Promise.all(items.map((item) => remove2.remove(path4.join(dir, item))));
     });
     function emptyDirSync(dir) {
       let items;
@@ -1574,7 +1574,7 @@ var require_empty = __commonJS({
       }
       items.forEach((item) => {
         item = path4.join(dir, item);
-        remove.removeSync(item);
+        remove2.removeSync(item);
       });
     }
     module2.exports = {
@@ -2098,14 +2098,14 @@ var require_move = __commonJS({
     var fs = require_fs();
     var path4 = require("path");
     var { copy: copy2 } = require_copy2();
-    var { remove } = require_remove();
+    var { remove: remove2 } = require_remove();
     var { mkdirp } = require_mkdirs();
     var { pathExists } = require_path_exists();
-    var stat = require_stat();
+    var stat2 = require_stat();
     async function move(src, dest, opts = {}) {
       const overwrite = opts.overwrite || opts.clobber || false;
-      const { srcStat, isChangingCase = false } = await stat.checkPaths(src, dest, "move", opts);
-      await stat.checkParentPaths(src, srcStat, dest, "move");
+      const { srcStat, isChangingCase = false } = await stat2.checkPaths(src, dest, "move", opts);
+      await stat2.checkParentPaths(src, srcStat, dest, "move");
       const destParent = path4.dirname(dest);
       const parsedParentPath = path4.parse(destParent);
       if (parsedParentPath.root !== destParent) {
@@ -2116,7 +2116,7 @@ var require_move = __commonJS({
     async function doRename(src, dest, overwrite, isChangingCase) {
       if (!isChangingCase) {
         if (overwrite) {
-          await remove(dest);
+          await remove2(dest);
         } else if (await pathExists(dest)) {
           throw new Error("dest already exists.");
         }
@@ -2137,7 +2137,7 @@ var require_move = __commonJS({
         preserveTimestamps: true
       };
       await copy2(src, dest, opts);
-      return remove(src);
+      return remove2(src);
     }
     module2.exports = move;
   }
@@ -2152,12 +2152,12 @@ var require_move_sync = __commonJS({
     var copySync = require_copy2().copySync;
     var removeSync = require_remove().removeSync;
     var mkdirpSync = require_mkdirs().mkdirpSync;
-    var stat = require_stat();
+    var stat2 = require_stat();
     function moveSync(src, dest, opts) {
       opts = opts || {};
       const overwrite = opts.overwrite || opts.clobber || false;
-      const { srcStat, isChangingCase = false } = stat.checkPathsSync(src, dest, "move", opts);
-      stat.checkParentPathsSync(src, srcStat, dest, "move");
+      const { srcStat, isChangingCase = false } = stat2.checkPathsSync(src, dest, "move", opts);
+      stat2.checkParentPathsSync(src, srcStat, dest, "move");
       if (!isParentRoot(dest))
         mkdirpSync(path4.dirname(dest));
       return doRename(src, dest, overwrite, isChangingCase);
@@ -2249,11 +2249,22 @@ var DEFAULT_SETTINGS = {
   blog_dir: "",
   static_dir: "ob",
   site_dir: "",
+  keep_list: "",
   get_blog_abs_dir() {
     return path.join(this.site_dir, this.blog_dir);
   },
   get_static_abs_dir() {
     return path.join(this.site_dir, "static", this.static_dir);
+  },
+  get_blog_keep_list() {
+    const strs = this.keep_list.split(",");
+    const regs = Array(0);
+    for (const s of strs) {
+      if (s.length > 0) {
+        regs.push(RegExp(s));
+      }
+    }
+    return regs;
   }
 };
 var HugoPublishSettingTab = class extends import_obsidian.PluginSettingTab {
@@ -2264,7 +2275,7 @@ var HugoPublishSettingTab = class extends import_obsidian.PluginSettingTab {
   display() {
     const { containerEl } = this;
     containerEl.empty();
-    new import_obsidian.Setting(containerEl).setName("blog tag").setDesc("All articles with this tag are treated as blogs").addText((text4) => text4.setPlaceholder("Enter your secret").setValue(this.plugin.settings.blog_tag).onChange(async (value) => {
+    new import_obsidian.Setting(containerEl).setName("blog tag").setDesc("All articles with this tag are treated as blogs, if empty process all articles").addText((text4) => text4.setPlaceholder("Enter your secret").setValue(this.plugin.settings.blog_tag).onChange(async (value) => {
       this.plugin.settings.blog_tag = value;
       await this.plugin.saveSettings();
     }));
@@ -2280,10 +2291,14 @@ var HugoPublishSettingTab = class extends import_obsidian.PluginSettingTab {
       this.plugin.settings.static_dir = value;
       await this.plugin.saveSettings();
     }));
+    new import_obsidian.Setting(containerEl).setName("blog dir keep list").setDesc('Optional, do not delete matching files, use js regexp and split by ",". e.g. .*\\.html,.*\\.toml').addText((text4) => text4.setValue(this.plugin.settings.keep_list).onChange(async (value) => {
+      this.plugin.settings.keep_list = value;
+      await this.plugin.saveSettings();
+    }));
   }
 };
 var check_setting = (setting) => {
-  if (setting.blog_dir.length == 0 || setting.static_dir.length == 0 || setting.blog_tag.length == 0) {
+  if (setting.blog_dir.length == 0 || setting.static_dir.length == 0) {
     return false;
   }
   return true;
@@ -2499,7 +2514,7 @@ var get_all_blog_md = async (app, tag) => {
   for (let i = 0; i < files.length; i++) {
     const meta = app.metadataCache.getFileCache(files[i]);
     const tags = (_a = meta == null ? void 0 : meta.frontmatter) == null ? void 0 : _a.tags;
-    if (tags == null ? void 0 : tags.contains(tag)) {
+    if (tag.length == 0 || (tags == null ? void 0 : tags.contains(tag))) {
       blogs.push(files[i]);
     }
   }
@@ -2515,6 +2530,32 @@ var write_md = async (file_path, header, body) => {
 var delete_files_in_dir = async (dir) => {
   await (0, import_fs_extra.ensureDir)(dir);
   await (0, import_fs_extra.emptyDir)(dir);
+};
+var delete_files_in_dir_with_keep_list = async (dir, keep_list) => {
+  await (0, import_fs_extra.ensureDir)(dir);
+  const files = await (0, import_fs_extra.readdir)(dir);
+  for (const file of files) {
+    const file_path = `${dir}/${file}`;
+    const file_stat = await (0, import_fs_extra.stat)(file_path);
+    if (file_stat.isDirectory()) {
+      await delete_files_in_dir_with_keep_list(file_path, keep_list);
+      const sub_files = await (0, import_fs_extra.readdir)(file_path);
+      if (sub_files.length === 0) {
+        await (0, import_fs_extra.rmdir)(file_path);
+      }
+    } else {
+      let match = false;
+      for (const reg of keep_list) {
+        if (reg.test(file)) {
+          match = true;
+          break;
+        }
+      }
+      if (!match) {
+        await (0, import_fs_extra.remove)(file_path);
+      }
+    }
+  }
 };
 var get_md_yaml_hader_from_content = (content3) => {
   const lines = content3.split("\n");
@@ -3176,7 +3217,7 @@ function decodeNamedCharacterReference(value) {
 }
 
 // node_modules/micromark-util-chunked/index.js
-function splice(list4, start, remove, items) {
+function splice(list4, start, remove2, items) {
   const end = list4.length;
   let chunkStart = 0;
   let parameters;
@@ -3185,14 +3226,14 @@ function splice(list4, start, remove, items) {
   } else {
     start = start > end ? end : start;
   }
-  remove = remove > 0 ? remove : 0;
+  remove2 = remove2 > 0 ? remove2 : 0;
   if (items.length < 1e4) {
     parameters = Array.from(items);
-    parameters.unshift(start, remove);
+    parameters.unshift(start, remove2);
     list4.splice(...parameters);
   } else {
-    if (remove)
-      list4.splice(start, remove);
+    if (remove2)
+      list4.splice(start, remove2);
     while (chunkStart < items.length) {
       parameters = items.slice(chunkStart, chunkStart + 1e4);
       parameters.unshift(start, 0);
@@ -9428,8 +9469,8 @@ var EditMap = class {
    * @param {Array<Event>} add
    * @returns {undefined}
    */
-  add(index2, remove, add) {
-    addImpl(this, index2, remove, add);
+  add(index2, remove2, add) {
+    addImpl(this, index2, remove2, add);
   }
   // To do: add this when moving to `micromark`.
   // /**
@@ -9476,20 +9517,20 @@ var EditMap = class {
     this.map.length = 0;
   }
 };
-function addImpl(editMap, at, remove, add) {
+function addImpl(editMap, at, remove2, add) {
   let index2 = 0;
-  if (remove === 0 && add.length === 0) {
+  if (remove2 === 0 && add.length === 0) {
     return;
   }
   while (index2 < editMap.map.length) {
     if (editMap.map[index2][0] === at) {
-      editMap.map[index2][1] += remove;
+      editMap.map[index2][1] += remove2;
       editMap.map[index2][2].push(...add);
       return;
     }
     index2 += 1;
   }
-  editMap.map.push([at, remove, add]);
+  editMap.map.push([at, remove2, add]);
 }
 
 // node_modules/micromark-extension-gfm-table/lib/infer.js
@@ -10258,22 +10299,25 @@ var HugoPublishPlugin = class extends import_obsidian2.Plugin {
       return;
     }
     new import_obsidian2.Notice("Start syncing blogs...");
-    await delete_files_in_dir(this.settings.get_blog_abs_dir());
+    await delete_files_in_dir_with_keep_list(this.settings.get_blog_abs_dir(), this.settings.get_blog_keep_list());
     await delete_files_in_dir(this.settings.get_static_abs_dir());
     const blogs = await get_all_blog_md(this.app, this.settings.blog_tag);
     for (let i = 0; i < blogs.length; i++) {
       const f = blogs[i];
       const content3 = await this.app.vault.read(f);
-      const stat = await this.app.vault.adapter.stat(f.path);
+      const stat2 = await this.app.vault.adapter.stat(f.path);
       let [header, body] = get_md_yaml_hader_from_content(content3);
-      const hv = (0, import_obsidian2.parseYaml)(header);
+      let hv = (0, import_obsidian2.parseYaml)(header);
+      if (!hv) {
+        hv = {};
+      }
       if (hv) {
         if (!("title" in hv)) {
           hv["title"] = path3.parse(f.name).name;
         }
-        if (stat) {
-          const creat_at = new Date(stat == null ? void 0 : stat.ctime).toISOString();
-          const modify_at = new Date(stat == null ? void 0 : stat.mtime).toISOString();
+        if (stat2) {
+          const creat_at = new Date(stat2 == null ? void 0 : stat2.ctime).toISOString();
+          const modify_at = new Date(stat2 == null ? void 0 : stat2.mtime).toISOString();
           if (!("date" in hv)) {
             hv["date"] = creat_at;
           }
@@ -10294,16 +10338,15 @@ var HugoPublishPlugin = class extends import_obsidian2.Plugin {
       const link2path = /* @__PURE__ */ new Map();
       const abf = this.app.vault.getAbstractFileByPath(f.path);
       if (abf) {
-        const src = path3.join(this.base_path, abf.path);
         const dst = path3.join(this.settings.get_blog_abs_dir(), f.path);
         if (meta == null ? void 0 : meta.embeds) {
           for (const v of meta.embeds) {
             const embed_f = this.app.metadataCache.getFirstLinkpathDest(v.link, f.path);
             if (embed_f) {
               link2path.set(v.link, [embed_f.path, false]);
-              const src2 = path3.join(this.base_path, embed_f.path);
+              const src = path3.join(this.base_path, embed_f.path);
               const dst2 = path3.join(this.settings.get_static_abs_dir(), embed_f.path);
-              await copy_file(src2, dst2);
+              await copy_file(src, dst2);
             }
           }
         }
@@ -10353,3 +10396,5 @@ var HugoPublishPlugin = class extends import_obsidian2.Plugin {
     await this.saveData(this.settings);
   }
 };
+
+/* nosourcemap */

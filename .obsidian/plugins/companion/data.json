@@ -1,0 +1,32 @@
+{
+  "provider": "groq",
+  "model": "llama-3.2-90b-vision-preview",
+  "enable_by_default": true,
+  "keybind": "Tab",
+  "delay_ms": 2000,
+  "stream": true,
+  "accept": {
+    "splitter_regex": " ",
+    "display_splitter_regex": "[.?!:;]",
+    "completion_completeness_regex": ".*(?!p{L})[^d]$",
+    "min_accept_length": 4,
+    "min_display_length": 50,
+    "retrigger_threshold": 48
+  },
+  "provider_settings": {
+    "groq": {
+      "settings": "{\"api_key\":\"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\"}",
+      "models": {}
+    }
+  },
+  "presets": [
+    {
+      "name": "default groq",
+      "provider": "groq",
+      "model": "llama-3.2-90b-vision-preview",
+      "provider_settings": "{\"api_key\":\"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\"}",
+      "enable_editor_command": true
+    }
+  ],
+  "fallback": "default groq"
+}

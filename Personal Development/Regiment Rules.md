@@ -43,6 +43,8 @@ icon: 🧠
 - No matter it's already bid by 1k people
 - No matter if your CV is unprofessional or portfolio looks shit
 
+- Checkout [10 Remote job portals](https://dev.to/bigsondev/7-best-remote-job-boards-to-land-your-next-dev-work-in-2024-53l0)  or [20+ remote job boats](https://webcurate.co/c/remote-job)
+- Try building a webscraper and use the APIs to fill it out with AI
 
 
 
