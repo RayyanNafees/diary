@@ -68,6 +68,7 @@ icon: 🧠
 	- Paper binding workshops
 	- Cheap Teaching place
 	- Home-Made Spices shop & content creation
+- Drop shipping store with order now for all sorts of products with Drone Deliveryv
 
 ## Alana Goyal
 
